@@ -1,0 +1,33 @@
+{
+  "name": "mixlab",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A/B testing ad frequency in a music player with Flagsmith Experimentation",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "workspaces": [
+    "packages/*",
+    "sim",
+    "apps/*"
+  ],
+  "scripts": {
+    "smoke": "tsx --env-file=.env scripts/smoke.ts",
+    "sim": "tsx sim/src/cli.ts",
+    "test": "vitest run",
+    "catalog": "tsx scripts/generate-catalog.ts",
+    "player": "npm run dev -w @mixlab/player",
+    "music": "tsx scripts/fetch-music.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.11",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.2"
+  },
+  "dependencies": {
+    "@flagsmith/nodejs": "^9.5.0"
+  }
+}
