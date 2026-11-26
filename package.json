@@ -25,7 +25,8 @@
     "@types/node": "^26.6.11",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
-    "vitest": "^5.1.2"
+    "vitest": "^5.1.2",
+    "vite": "^8.4.0"
   },
   "dependencies": {
     "@flagsmith/nodejs": "^9.5.0"
