@@ -305,6 +305,12 @@ export default function Player() {
         </div>
       </footer>
 
+      {item?.kind === 'song' && songClip && (
+        // Keyed by position, so every new song mounts a fresh card that pops in.
+        <NowPlayingCard key={index} clip={songClip} songNumber={item.songNumber} isNew={item.track.isDiscovery}
+          liked={isLiked(songClip)} onLike={() => like(songClip)} shifted={debug} />
+      )}
+
       {showThanks && (
         <p className="toast">Thanks! This is a demo, so no payment is taken. Ads are off for this session.</p>
       )}
@@ -401,6 +407,46 @@ function PlaylistView({ phase, genres, schedule, clips, index, premium, isLiked,
         </div>
       </div>
     </section>
+  );
+}
+
+/** How long the pop-out card stays before tucking itself away (hovering keeps it open). */
+const CARD_SECONDS = 6;
+
+/** A shadcn-style card that pops out when a song starts, then leaves on its own. */
+function NowPlayingCard({ clip, songNumber, isNew, liked, onLike, shifted }: {
+  clip: MusicTrack; songNumber: number; isNew: boolean; liked: boolean; onLike: () => void; shifted: boolean;
+}) {
+  const [state, setState] = useState<'open' | 'closing' | 'closed'>('open');
+  const [hovered, setHovered] = useState(false);
+  useEffect(() => {
+    if (hovered || state !== 'open') return;
+    const t = setTimeout(() => setState('closing'), CARD_SECONDS * 1000);
+    return () => clearTimeout(t);
+  }, [hovered, state]);
+  if (state === 'closed') return null;
+  return (
+    <div className={`np-card ${state === 'closing' ? 'leaving' : ''} ${shifted ? 'shifted' : ''}`}
+      onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)}
+      onAnimationEnd={() => state === 'closing' && setState('closed')} role="status" aria-live="polite">
+      <div className="np-header">
+        <span className="np-label">Now playing</span>
+        <button className="np-close" onClick={() => setState('closing')} aria-label="Close">✕</button>
+      </div>
+      <div className="np-art" style={{ background: art(clip) }}><span className="eq"><i /><i /><i /></span></div>
+      <div className="np-content">
+        <div className="np-title ellipsis">{clip.title}</div>
+        <div className="np-desc">{clip.artist}</div>
+        <div className="np-badges">
+          <span className="badge cap">{clip.genre}</span>
+          {isNew && <span className="badge accent">New for you</span>}
+        </div>
+      </div>
+      <div className="np-footer">
+        <span className="muted small">Song {songNumber} of 20</span>
+        <button className={liked ? 'btn-outline on' : 'btn-outline'} onClick={onLike}>{liked ? '♥ Liked' : '♡ Like'}</button>
+      </div>
+    </div>
   );
 }
 
