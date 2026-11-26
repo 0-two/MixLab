@@ -1,0 +1,27 @@
+{
+  "run": "baseline-w2",
+  "env": "baseline",
+  "flag": "ad_config",
+  "personas": "sim/personas/baseline.yaml",
+  "seed": 43,
+  "listeners": 1000,
+  "failed": 0,
+  "finishedAt": "2026-11-26T16:11:03.977Z",
+  "byVariant": {
+    "control": {
+      "listeners": 338,
+      "premium_clicked": 85,
+      "session_abandoned": 89
+    },
+    "every_10": {
+      "listeners": 349,
+      "premium_clicked": 31,
+      "session_abandoned": 85
+    },
+    "every_3": {
+      "listeners": 313,
+      "premium_clicked": 102,
+      "session_abandoned": 134
+    }
+  }
+}
