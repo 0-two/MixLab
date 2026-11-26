@@ -43,7 +43,7 @@ How the flag drives the app, in `packages/blend/src/ads.ts`:
 
 ## Results
 
-Every number below comes from Flagsmith's experiment results, except the guardrail, which comes from the simulator's own counts. In every run, Flagsmith's exposure counts and rates matched the simulator's local counts exactly. The raw numbers for each run are in [`results/`](results).
+Every number below comes from Flagsmith's experiment results. The exception is the "left before song 10" column in runs 1 and 3, which comes from the simulator's own counts; run 4 checks it with Flagsmith. In every run, Flagsmith's exposure counts and rates matched the simulator's local counts exactly. The raw numbers for each run are in [`results/`](results).
 
 ### 1. Baseline: 4,300 listeners (waves of 300, 1,000 and 3,000)
 
@@ -92,11 +92,23 @@ The same version wins. Fewer people pay overall, but every_3 still lifts Premium
 
 ### 4. Guardrail twin: `session_abandoned` as the primary metric
 
-_Pending._ The Flagsmith wizard allows one metric per experiment, so the guardrail above comes from the simulator's counts. To give it Flagsmith's own credible interval, the Guardrail environment replays the same seeded Baseline listeners with `session_abandoned` as the primary metric.
+The Flagsmith wizard allows one metric per experiment, so the Baseline experiment could only judge Premium clicks. To give the guardrail Flagsmith's own analysis, the **Guardrail** environment ran the same 4,300 listeners (same IDs, personas and seeds) with `session_abandoned` as the primary metric. Flagsmith assigns versions per experiment, so the split there is a fresh random draw. That makes it an independent second run of the same test.
+
+![Guardrail twin: abandonment by version](docs/images/guardrail-analysis.jpg)
+
+| Version | Listeners | Left before song 10 | Change vs control | 95% credible interval |
+|---|---|---|---|---|
+| Control (every 6) | 1,482 | 24.9% | — | — |
+| **every_3** | 1,389 | **40.5%** | **+62.8%** | **+45.0% to +80.5%** |
+| every_10 | 1,429 | 22.8% | −8.4% | −20.3% to +3.5% |
+
+- **every_3's cost is real.** Abandonment rises by about 63%, and even the low end of the interval is +45%.
+- **every_10 does not clearly keep more listeners.** Its interval includes 0. Flagsmith's banner names it the "winner" at 92%, but as in the A/A check, that only means it is most likely the lowest, not that the difference is real.
+- The same run reproduced the Premium result: 20.9% for control, 33.6% for every_3 and 8.4% for every_10, from the simulator's counts.
 
 ## What we ship, and why
 
-_To be decided after the guardrail twin._ The data so far: every_3 is the clear winner on the primary metric, but it trades about 16 early leavers per 100 listeners for about 13 more Premium clicks. every_10 is the clear loser and won't ship. The choice is between keeping every_6 and shipping every_3, which depends on whether a Premium click is worth more than an early leaver. Once decided, we end the experiment and serve the chosen value to everyone.
+_To be decided._ Both halves of the hypothesis are confirmed by Flagsmith. every_3 wins on the primary metric (+60% Premium clicks), but it also raises early abandonment by about 63%, which means about 16 early leavers per 100 listeners for about 13 more Premium clicks. every_10 loses about 60% of Premium clicks without clearly keeping more listeners, so it won't ship. The choice is between keeping every_6 and shipping every_3, which depends on whether a Premium click is worth more than an early leaver. Once decided, we end the experiment and serve the chosen value to everyone.
 
 ---
 
@@ -149,7 +161,10 @@ cp .env.example .env      # then fill in FLAGSMITH_KEY_BASELINE, FLAGSMITH_KEY_A
 npm run sim -- --env baseline    --listeners 3000 --personas sim/personas/baseline.yaml     --seed 44 --run baseline-w3
 npm run sim -- --env aa          --listeners 3000 --personas sim/personas/baseline.yaml     --seed 45 --run aa-w1 --flag ad_config_aa
 npm run sim -- --env personaswap --listeners 3000 --personas sim/personas/budget-heavy.yaml --seed 46 --run personaswap-w1
+npm run sim -- --env guardrail   --listeners 3000 --personas sim/personas/baseline.yaml     --seed 44 --run baseline-w3 --save-as guardrail-w3
 ```
+
+`--save-as` reuses a run's listener IDs in another environment without overwriting that run's results folder.
 
 The simulator rate-limits itself (8 requests at a time), retries failures, sends events every 100 listeners, prints a summary, and writes `results/<run>/local-summary.json`. Exposures only count while the experiment is **running**, and the tool warns if any listener was not enrolled.
 
@@ -177,7 +192,7 @@ results/           notes and local summaries for every run
 
 - **All listeners are simulated.** The listener model's assumptions (how annoying an ad is, how likely an annoyed listener is to pay) set the size of the effects. The experiment shows how ad frequency plays out *under this model*, and the pipeline is real end to end (real SDK, real events, real Flagsmith statistics). Real people could react differently.
 - `premium_clicked` is a click, not a payment.
-- The guardrail is read from the simulator's counts until the Guardrail twin run is done.
+- Flagsmith allows one metric per experiment, so the guardrail is measured by Flagsmith in a twin environment (run 4) rather than next to Premium clicks in the same experiment.
 - Songs are 30-second excerpts, and a session is one 20-song playlist. Real listening is longer and spread over days.
 - Ad-supported streaming services publicly discuss the trade-off between ad load, retention and upgrades. This project does not claim that any real company tuned its ad load this way.
 

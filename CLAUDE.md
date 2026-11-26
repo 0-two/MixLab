@@ -40,7 +40,7 @@ TypeScript everywhere, npm workspaces. Node 20+.
   - `ad_shown`, `track_saved`, `track_skipped` — debugging only.
 - Fallback config if Flagsmith is unreachable or JSON fails to parse = `every_6`. The app must never break without Flagsmith.
 - The old flags `blend_config` / `blend_config_aa` and metric `discovery_saved` belong to the archived pilot. The playlist itself uses a fixed blend (`PLAYLIST_BLEND` in packages/blend), not a flag.
-- Experiments are scoped per environment, and a flag can have only one active experiment. One environment per run: **Smoke** (pipeline checks), **Baseline** (main runs), **AA**, **PersonaSwap** (budget-heavy mix), **Live** (the deployed demo player; not part of the results). Metrics and the warehouse connection are per environment.
+- Experiments are scoped per environment, and a flag can have only one active experiment. One environment per run: **Smoke** (pipeline checks), **Baseline** (main runs), **AA**, **PersonaSwap** (budget-heavy mix), **Guardrail** (twin run with `session_abandoned` as primary), **Live** (the deployed demo player; not part of the results). Metrics and the warehouse connection are per environment.
 - The experiment wizard allows exactly **one** metric per experiment (verified). Report the `session_abandoned` guardrail from the simulator's local counts, or replay the same seeded run in a twin environment with it as primary.
 - Free plan = one project (**MixLab**, id 56629; recreated Nov 26 after the first project went missing).
 
@@ -90,7 +90,7 @@ The author chose not to recruit real users. All results come from simulated list
 3. ✅ Ad config + schedule + tests. Listener model for ads + tests. Dry runs.
 4. ✅ Flagsmith: `ad_config`, `ad_config_aa`, metrics; Baseline experiment (id 686) → waves of 300 and 1,000.
 5. ✅ Player UI (real CC BY music) → deployed on Vercel against **Live** (demo only).
-6. Wave of 3,000 → A/A run → persona-swap run → guardrail twin (`session_abandoned` as primary). Record each in `results/`.
+6. ✅ Wave of 3,000 (Baseline 686) → A/A (705) → persona swap (706) → guardrail twin (Guardrail 710). Recorded in `results/`. 7a. ✅ README with screenshots; fresh-clone test passes.
 7. README + fresh-clone test → demo video. 8. Ship winner (end experiment, serve winning value to everyone).
 
 ## Demo video (~3 min)

@@ -1,0 +1,28 @@
+{
+  "run": "baseline-w2",
+  "savedAs": "guardrail-w2",
+  "env": "guardrail",
+  "flag": "ad_config",
+  "personas": "sim/personas/baseline.yaml",
+  "seed": 43,
+  "listeners": 1000,
+  "failed": 0,
+  "finishedAt": "2026-11-26T19:29:39.560Z",
+  "byVariant": {
+    "control": {
+      "listeners": 353,
+      "premium_clicked": 78,
+      "session_abandoned": 97
+    },
+    "every_10": {
+      "listeners": 331,
+      "premium_clicked": 28,
+      "session_abandoned": 73
+    },
+    "every_3": {
+      "listeners": 316,
+      "premium_clicked": 106,
+      "session_abandoned": 132
+    }
+  }
+}
