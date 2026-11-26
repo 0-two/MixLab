@@ -8,7 +8,7 @@ Submitted to **Track 01 only**: build an app and run a real A/B test with Flagsm
 AI coding is allowed, but the author must understand and be able to explain everything. Keep code small and readable.
 
 ## What MixLab is
-A free, ad-supported music player that A/B tests **how often to play ads**. More ads may push listeners to buy Premium, or push them out of the app. A Flagsmith multivariate flag carries a JSON ad config straight into the player. Simulated listeners (and real people via the player) react with real SDK events; Flagsmith Experimentation picks the winner.
+A free, ad-supported music player that A/B tests **how often to play ads**. More ads may push listeners to buy Premium, or push them out of the app. A Flagsmith multivariate flag carries a JSON ad config straight into the player. Simulated listeners react with real SDK events; Flagsmith Experimentation picks the winner. The deployed player is the demo of what each version feels like.
 
 (Pivoted on Nov 26 from an earlier "how many new songs per playlist" test. Its 300-listener pilot is archived in `results/_archive-discovery-pilot/` and is not part of the submission's results.)
 
@@ -40,7 +40,7 @@ TypeScript everywhere, npm workspaces. Node 20+.
   - `ad_shown`, `track_saved`, `track_skipped` — debugging only.
 - Fallback config if Flagsmith is unreachable or JSON fails to parse = `every_6`. The app must never break without Flagsmith.
 - The old flags `blend_config` / `blend_config_aa` and metric `discovery_saved` belong to the archived pilot. The playlist itself uses a fixed blend (`PLAYLIST_BLEND` in packages/blend), not a flag.
-- Experiments are scoped per environment, and a flag can have only one active experiment. One environment per run: **Smoke** (pipeline checks), **Baseline** (main runs), **AA**, **PersonaSwap** (budget-heavy mix), **Live** (real people via the player). Metrics and the warehouse connection are per environment.
+- Experiments are scoped per environment, and a flag can have only one active experiment. One environment per run: **Smoke** (pipeline checks), **Baseline** (main runs), **AA**, **PersonaSwap** (budget-heavy mix), **Live** (the deployed demo player; not part of the results). Metrics and the warehouse connection are per environment.
 - The experiment wizard allows exactly **one** metric per experiment (verified). Report the `session_abandoned` guardrail from the simulator's local counts, or replay the same seeded run in a twin environment with it as primary.
 - Free plan = one project (**MixLab**, id 56629; recreated Nov 26 after the first project went missing).
 
@@ -81,25 +81,23 @@ TypeScript everywhere, npm workspaces. Node 20+.
 - `session_abandoned`: the SDK has no sendBeacon, so a started session is marked in localStorage until song 10; on `pagehide` or "New playlist" the event is sent, and an unfinished marker is re-sent on the next visit (occurrence metric, so duplicates are harmless).
 - `packages/blend` uses extensionless relative imports (Turbopack can't map `./x.js` → `.ts`). `ABANDON_BEFORE` lives in blend and is shared by sim and player.
 
-## Real traffic (Track 01 tip)
-Organisers' tip: "pick a metric that fires early in a visit … share the app widely enough that both versions get real traffic before Sunday."
-- `premium_clicked` can fire at the first ad break (song 3 / 6 / 10), early in a session.
-- Deploy the player early so real people can use it Thu–Sat. Real-user results are reported separately (Live environment), honestly, even if small.
+## Traffic: simulated listeners only (decided Nov 26)
+The author chose not to recruit real users. All results come from simulated listeners (allowed by the organisers). The player is deployed on Vercel against **Live** as a demo for judges; any stray Live visits are not reported as results. Say this plainly in the README and video.
 
 ## Build order (small, verifiable steps)
 1. ✅ Flagsmith project, environments, warehouse. ✅ Smoke test (pipeline verified with 50 identities).
 2. ✅ Catalog + playlist recommender + tests.
-3. Ad config + schedule + tests. Listener model for ads + tests. Dry runs.
-4. Flagsmith: `ad_config`, `ad_config_aa`, `premium_clicked` metric; launch Baseline experiment → wave of 300.
-5. Player UI → deploy to Vercel against **Live** → share it.
-6. Waves of 1,000 and 3,000 → A/A run → persona-swap run. Record each in `results/`.
+3. ✅ Ad config + schedule + tests. Listener model for ads + tests. Dry runs.
+4. ✅ Flagsmith: `ad_config`, `ad_config_aa`, metrics; Baseline experiment (id 686) → waves of 300 and 1,000.
+5. ✅ Player UI (real CC BY music) → deployed on Vercel against **Live** (demo only).
+6. Wave of 3,000 → A/A run → persona-swap run → guardrail twin (`session_abandoned` as primary). Record each in `results/`.
 7. README + fresh-clone test → demo video. 8. Ship winner (end experiment, serve winning value to everyone).
 
 ## Demo video (~3 min)
-Problem (ads vs Premium) → hypothesis slide → app with debug panel showing the assigned version → Flagsmith flag + experiment → simulator sending real events → results (win probability, lift, credible interval, guardrail, A/A) → decision + ship. Be plain that most traffic is simulated.
+Problem (ads vs Premium) → hypothesis slide → app with debug panel showing the assigned version → Flagsmith flag + experiment → simulator sending real events → results (win probability, lift, credible interval, guardrail, A/A) → decision + ship. Be plain that all traffic is simulated.
 
 ## README must include
-What & why (GIF) · hypothesis · how the flag drives the ad schedule · setup (clone → `npm install` → `.env` → `npm run sim`) · Flagsmith dashboard steps with screenshots · how the listener model works · results per run with screenshots and plain-English explanation (win probability, lift, credible interval) · what we shipped and why · limitations (simulated listeners; real-user sample size) · "Built with Claude Code + Flagsmith MCP" · MIT license.
+What & why (GIF) · hypothesis · how the flag drives the ad schedule · setup (clone → `npm install` → `.env` → `npm run sim`) · Flagsmith dashboard steps with screenshots · how the listener model works · results per run with screenshots and plain-English explanation (win probability, lift, credible interval) · what we shipped and why · limitations (all listeners simulated; the listener model's assumptions drive the effect sizes) · "Built with Claude Code + Flagsmith MCP" · MIT license.
 
 ## Rules
 - No secrets in the repo; everything via `.env`. Commit `.env.example` only.

@@ -1,0 +1,22 @@
+{
+  "run": "aa-w1",
+  "env": "aa",
+  "flag": "ad_config_aa",
+  "personas": "sim/personas/baseline.yaml",
+  "seed": 45,
+  "listeners": 3000,
+  "failed": 0,
+  "finishedAt": "2026-11-26T18:38:43.357Z",
+  "byVariant": {
+    "control": {
+      "listeners": 1486,
+      "premium_clicked": 297,
+      "session_abandoned": 382
+    },
+    "every_6_copy": {
+      "listeners": 1514,
+      "premium_clicked": 332,
+      "session_abandoned": 360
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "run": "personaswap-w1",
+  "env": "personaswap",
+  "flag": "ad_config",
+  "personas": "sim/personas/budget-heavy.yaml",
+  "seed": 46,
+  "listeners": 3000,
+  "failed": 0,
+  "finishedAt": "2026-11-26T18:38:44.753Z",
+  "byVariant": {
+    "control": {
+      "listeners": 997,
+      "premium_clicked": 136,
+      "session_abandoned": 254
+    },
+    "every_10": {
+      "listeners": 1028,
+      "premium_clicked": 36,
+      "session_abandoned": 265
+    },
+    "every_3": {
+      "listeners": 975,
+      "premium_clicked": 237,
+      "session_abandoned": 355
+    }
+  }
+}
