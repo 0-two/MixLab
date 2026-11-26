@@ -2,6 +2,8 @@
 //
 //   npm run sim -- --env baseline --listeners 300 --personas sim/personas/baseline.yaml --seed 42 --run baseline-w1
 //   npm run sim -- --dry-run --listeners 300        (no Flagsmith: variations assigned locally)
+//   npm run sim -- --env guardrail --run baseline-w3 --seed 44 --save-as guardrail-w3
+//        (replay: same listener IDs and seed as baseline-w3, in another environment, saved separately)
 //
 // Each simulated listener gets a stable ID, is assigned a variation of `ad_config` by Flagsmith
 // (which records the exposure), gets a playlist with ads every N songs, goes through it item by
@@ -23,6 +25,7 @@ const { values: args } = parseArgs({
     flag: { type: 'string', default: 'ad_config' },
     seed: { type: 'string', default: '42' },
     run: { type: 'string' },
+    'save-as': { type: 'string' }, // results folder name; defaults to --run
     env: { type: 'string' },
     concurrency: { type: 'string', default: '8' },
     'dry-run': { type: 'boolean', default: false },
@@ -217,10 +220,10 @@ function printSummary(records: ListenerRecord[]) {
 
 function saveSummary(records: ListenerRecord[], failed: number) {
   if (DRY_RUN) return;
-  const dir = `results/${RUN_ID}`;
+  const dir = `results/${args['save-as'] ?? RUN_ID}`;
   mkdirSync(dir, { recursive: true });
   const summary = {
-    run: RUN_ID, env: args.env, flag: args.flag, personas: args.personas, seed: SEED,
+    run: RUN_ID, savedAs: args['save-as'], env: args.env, flag: args.flag, personas: args.personas, seed: SEED,
     listeners: LISTENERS, failed, finishedAt: new Date().toISOString(),
     byVariant: Object.fromEntries([...new Set(records.map((r) => r.variant))].sort().map((v) => {
       const rs = records.filter((r) => r.variant === v);
