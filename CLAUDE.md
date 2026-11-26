@@ -91,7 +91,7 @@ The author chose not to recruit real users. All results come from simulated list
 4. ✅ Flagsmith: `ad_config`, `ad_config_aa`, metrics; Baseline experiment (id 686) → waves of 300 and 1,000.
 5. ✅ Player UI (real CC BY music) → deployed on Vercel against **Live** (demo only).
 6. ✅ Wave of 3,000 (Baseline 686) → A/A (705) → persona swap (706) → guardrail twin (Guardrail 710). Recorded in `results/`. 7a. ✅ README with screenshots; fresh-clone test passes.
-7. README + fresh-clone test → demo video. 8. Ship winner (end experiment, serve winning value to everyone).
+7. README + fresh-clone test → demo video. 8. ✅ Shipped (Nov 27): kept **every_6** (control) over Flagsmith's suggested every_3, because every_3 loses ~16 listeners before song 10 for ~13 Premium clicks per 100. All 5 experiments completed with "Roll out control"; verified new identities get every_6. Flag values are editable again.
 
 ## Demo video (~3 min)
 Problem (ads vs Premium) → hypothesis slide → app with debug panel showing the assigned version → Flagsmith flag + experiment → simulator sending real events → results (win probability, lift, credible interval, guardrail, A/A) → decision + ship. Be plain that all traffic is simulated.

@@ -108,7 +108,19 @@ The Flagsmith wizard allows one metric per experiment, so the Baseline experimen
 
 ## What we ship, and why
 
-_To be decided._ Both halves of the hypothesis are confirmed by Flagsmith. every_3 wins on the primary metric (+60% Premium clicks), but it also raises early abandonment by about 63%, which means about 16 early leavers per 100 listeners for about 13 more Premium clicks. every_10 loses about 60% of Premium clicks without clearly keeping more listeners, so it won't ship. The choice is between keeping every_6 and shipping every_3, which depends on whether a Premium click is worth more than an early leaver. Once decided, we end the experiment and serve the chosen value to everyone.
+**We keep `every_6` (the control).** Flagsmith suggested rolling out every_3, its >99% winner on Premium clicks, and we chose not to.
+
+![Ending the experiment: we roll out control, not Flagsmith's suggested every_3](docs/images/ship-control.jpg)
+
+**Why:**
+- **The primary metric is not the whole decision.** Both halves of the hypothesis came true. every_3 brings about **13 more Premium clicks per 100 listeners**, but makes about **16 more leave before song 10** (+63%, 95% interval +45% to +81%). That is more listeners lost than Premium clicks gained.
+- **A click is not a sale.** `premium_clicked` measures intent. The listeners lost are certain, while how many clicks would become paying subscribers is not known.
+- **The cost falls on the biggest group.** Casual listeners are half the audience, and more than half of them leave early under every_3 (58% vs 27%). Those are the listeners a free tier exists to keep and later convert.
+- **every_10 doesn't earn its place either.** It gives up about 60% of Premium clicks, and its lower abandonment isn't clearly real (its interval includes 0).
+
+**What shipping means here:** all five experiments are ended in Flagsmith with **Roll out control**, so every listener gets `{"ad_every_n_songs":6,"ad_length_seconds":15}`. That includes the deployed player (Live). We checked it: 60 new identities in Baseline and a new visitor in Live all receive every 6.
+
+**What we would test next:** a middle option (`every_4` or `every_5`) to look for a better balance, and every_3 **only for fans**. In the 3,000-listener wave, fans clicked Premium far more under every_3 (75% vs 41%) and didn't clearly leave more often. A segment override in Flagsmith could target them.
 
 ---
 
