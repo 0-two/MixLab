@@ -1,0 +1,1996 @@
+id,title,artist,genre,energy,valence,tempo,popularity
+t0001,Let Go Alone,Crimson Harbor,pop,0.479,0.834,95,31
+t0002,Restless Letters,Crimson Harbor,pop,0.533,0.814,106,28
+t0003,Slow Down Like Fire,Crimson Harbor,pop,0.705,0.661,130,43
+t0004,Shine With Me,Crimson Harbor,pop,0.77,0.821,113,45
+t0005,Glass Mirrors,Crimson Harbor,pop,0.422,0.866,101,33
+t0006,Faded Rivers,Crimson Harbor,pop,0.774,0.732,96,55
+t0007,Electric Lanterns,Sunday Rivers,pop,0.893,0.566,125,84
+t0008,Wander Again,Sunday Rivers,pop,0.749,0.457,127,70
+t0009,Remember Together,Sunday Rivers,pop,0.8,0.505,97,76
+t0010,Glass Lanterns,Sunday Rivers,pop,0.626,0.569,96,91
+t0011,Wander for You,Sunday Rivers,pop,0.848,0.676,100,75
+t0012,Glow Forever,Sunday Rivers,pop,0.676,0.445,119,74
+t0013,Dance Slowly,Sunday Rivers,pop,0.802,0.649,115,85
+t0014,Wander Together,Sunday Rivers,pop,0.828,0.432,99,64
+t0015,Come Home Alone,Sunday Rivers,pop,0.633,0.488,107,82
+t0016,Hollow Highway,Sunday Rivers,pop,0.788,0.667,121,82
+t0017,Distant Lanterns,Sunday Rivers,pop,0.84,0.679,128,81
+t0018,Silver Daydreams,Sunday Rivers,pop,0.685,0.784,126,90
+t0019,Lonely Garden,Broken Meadow,pop,0.619,0.668,117,11
+t0020,Burn Slowly,Broken Meadow,pop,0.813,0.762,100,1
+t0021,Fall in Blue,Broken Meadow,pop,0.693,0.602,100,13
+t0022,Hollow Comets,Broken Meadow,pop,0.704,0.584,117,1
+t0023,Distant Signals,Broken Meadow,pop,0.75,0.661,118,1
+t0024,Frozen Orchard,Broken Meadow,pop,0.711,0.862,121,1
+t0025,Come Home Back,Broken Meadow,pop,0.671,0.645,109,1
+t0026,Wander Alone,Broken Meadow,pop,0.646,0.816,101,16
+t0027,Lucky Rivers,Broken Meadow,pop,0.754,0.781,108,1
+t0028,Lucky Thunder,Broken Meadow,pop,0.733,0.545,106,4
+t0029,Golden Circuits,Lucky Signals,pop,0.554,0.371,120,67
+t0030,Run Away,Lucky Signals,pop,0.698,0.525,121,68
+t0031,Stay for You,Lucky Signals,pop,0.619,0.448,124,47
+t0032,Run at Dawn,Lucky Signals,pop,0.64,0.571,108,72
+t0033,Remember Slowly,Lucky Signals,pop,0.476,0.613,106,68
+t0034,Drift With Me,Lucky Signals,pop,0.543,0.393,124,59
+t0035,Let Go Like Fire,Lucky Signals,pop,0.717,0.428,103,56
+t0036,Glow Back,Lucky Signals,pop,0.508,0.493,123,68
+t0037,Crimson Shadows,Lucky Signals,pop,0.596,0.536,128,69
+t0038,Frozen Rivers,Lucky Signals,pop,0.562,0.571,97,51
+t0039,Dance for You,Lucky Signals,pop,0.645,0.502,113,71
+t0040,Burn in the Rain,Midnight Signals,pop,0.849,0.863,108,9
+t0041,Burn Slowly,Midnight Signals,pop,0.891,0.726,128,7
+t0042,Rise Again,Midnight Signals,pop,0.807,0.837,119,26
+t0043,Electric Garden,Midnight Signals,pop,0.888,0.676,115,17
+t0044,Midnight Daydreams,Midnight Signals,pop,0.805,0.719,102,14
+t0045,Stay at Dawn,Midnight Signals,pop,0.853,0.871,128,22
+t0046,Stay Forever,Midnight Signals,pop,0.978,0.846,114,23
+t0047,Static Highway,Midnight Signals,pop,0.865,0.76,103,34
+t0048,Wander Forever,Midnight Signals,pop,0.922,0.885,104,16
+t0049,Neon Circuits,Midnight Signals,pop,0.814,0.697,95,8
+t0050,Midnight Comets,Midnight Signals,pop,0.74,0.702,118,23
+t0051,Fall Slowly,Midnight Signals,pop,0.8,0.811,128,21
+t0052,Sunday Circuits,Sunday Meadow,pop,0.673,0.662,100,15
+t0053,Come Home Forever,Sunday Meadow,pop,0.665,0.692,121,9
+t0054,Glow Alone,Sunday Meadow,pop,0.734,0.608,116,18
+t0055,Fall Like Fire,Sunday Meadow,pop,0.765,0.759,119,15
+t0056,Come Home Slowly,Sunday Meadow,pop,0.653,0.662,104,16
+t0057,Breathe Alone,Sunday Meadow,pop,0.644,0.648,95,12
+t0058,Glow Away,Sunday Meadow,pop,0.716,0.601,126,9
+t0059,Run for You,Sunday Meadow,pop,0.549,0.599,96,17
+t0060,Wake Up Slowly,Crimson Tides,pop,0.73,0.926,121,22
+t0061,Restless Tides,Crimson Tides,pop,0.813,0.8,99,11
+t0062,Lonely Orchard,Crimson Tides,pop,0.848,0.762,113,9
+t0063,Remember Tonight,Crimson Tides,pop,0.832,0.938,106,23
+t0064,Remember in Blue,Crimson Tides,pop,0.974,0.856,106,3
+t0065,Golden Embers,Crimson Tides,pop,0.839,0.7,121,22
+t0066,Restless Feathers,Crimson Tides,pop,0.715,0.744,104,6
+t0067,Distant Feathers,Lonely Mirrors,pop,0.633,0.577,99,44
+t0068,Remember at Dawn,Lonely Mirrors,pop,0.87,0.516,106,53
+t0069,Glass Comets,Lonely Mirrors,pop,0.852,0.705,124,38
+t0070,Sunday Circuits,Lonely Mirrors,pop,0.621,0.728,121,44
+t0071,Neon Meadow,Lonely Mirrors,pop,0.936,0.529,96,42
+t0072,Faded Satellites,Lonely Mirrors,pop,0.742,0.694,118,44
+t0073,Slow Down Alone,Lonely Mirrors,pop,0.852,0.641,102,56
+t0074,Quiet Lanterns,Lonely Mirrors,pop,0.629,0.715,123,41
+t0075,Shine Forever,Neon Islands,pop,0.706,0.573,100,19
+t0076,Breathe Away,Neon Islands,pop,0.748,0.422,118,1
+t0077,Fall Back,Neon Islands,pop,0.94,0.437,121,12
+t0078,Fall Like Fire,Neon Islands,pop,0.758,0.606,98,11
+t0079,Run Back,Neon Islands,pop,0.774,0.633,99,1
+t0080,Lucky Circuits,Neon Islands,pop,0.928,0.607,110,14
+t0081,Remember in the Rain,Neon Islands,pop,0.836,0.379,125,3
+t0082,Frozen Embers,Quiet Horizon,pop,0.673,0.624,111,88
+t0083,Burning Lanterns,Quiet Horizon,pop,0.579,0.616,119,92
+t0084,Wake Up in Blue,Quiet Horizon,pop,0.641,0.668,109,85
+t0085,Wait Away,Quiet Horizon,pop,0.713,0.787,122,85
+t0086,Midnight Signals,Quiet Horizon,pop,0.696,0.664,122,89
+t0087,Burn Back,Quiet Horizon,pop,0.649,0.615,105,83
+t0088,Wild Horizon,Quiet Horizon,pop,0.664,0.6,122,90
+t0089,Sunday Harbor,Static Islands,pop,0.797,0.591,119,35
+t0090,Burn Back,Static Islands,pop,0.723,0.599,101,52
+t0091,Stay Forever,Static Islands,pop,0.929,0.574,129,57
+t0092,Wake Up at Dawn,Static Islands,pop,0.756,0.562,106,44
+t0093,Wake Up Away,Static Islands,pop,0.591,0.638,130,53
+t0094,Neon Comets,Static Islands,pop,0.86,0.735,97,46
+t0095,Glass Embers,Static Islands,pop,0.691,0.702,107,44
+t0096,Remember Again,Static Islands,pop,0.734,0.699,110,34
+t0097,Drift Slowly,Static Islands,pop,0.79,0.725,110,42
+t0098,Sunday Daydreams,Electric Horizon,pop,0.679,0.764,121,13
+t0099,Rise Slowly,Electric Horizon,pop,0.691,0.589,97,1
+t0100,Neon Tides,Electric Horizon,pop,0.673,0.891,101,14
+t0101,Paper Rivers,Electric Horizon,pop,0.747,0.705,118,5
+t0102,Wait Together,Electric Horizon,pop,0.72,0.901,98,8
+t0103,Velvet Horizon,Electric Horizon,pop,0.679,0.61,125,1
+t0104,Shine Back,Electric Horizon,pop,0.805,0.924,111,3
+t0105,Lonely Letters,Electric Horizon,pop,0.674,0.727,98,1
+t0106,Paper Rivers,Electric Satellites,pop,0.825,0.827,100,33
+t0107,Wait Slowly,Electric Satellites,pop,0.674,0.776,100,21
+t0108,Stay Again,Electric Satellites,pop,0.686,0.726,101,38
+t0109,Faded Highway,Electric Satellites,pop,0.665,0.889,121,42
+t0110,Wake Up Slowly,Electric Satellites,pop,0.75,0.785,99,25
+t0111,Burning Mirrors,Electric Satellites,pop,0.58,0.601,109,36
+t0112,Broken Signals,Silver Highway,pop,0.567,1,97,44
+t0113,Wander Alone,Silver Highway,pop,0.56,0.971,122,56
+t0114,Wake Up Alone,Silver Highway,pop,0.631,0.87,122,31
+t0115,Lonely Daydreams,Silver Highway,pop,0.783,0.878,119,20
+t0116,Lonely Orchard,Silver Highway,pop,0.724,1,101,26
+t0117,Quiet Meadow,Silver Highway,pop,0.702,0.776,121,28
+t0118,Burn in the Rain,Silver Highway,pop,0.678,0.835,106,33
+t0119,Slow Down Forever,Silver Highway,pop,0.627,0.805,110,37
+t0120,Static Satellites,Silver Highway,pop,0.674,0.891,126,29
+t0121,Remember Like Fire,Neon Shadows,pop,0.68,0.586,120,2
+t0122,Drift Together,Neon Shadows,pop,0.798,0.675,98,10
+t0123,Fall With Me,Neon Shadows,pop,0.718,0.735,125,1
+t0124,Neon Embers,Neon Shadows,pop,0.613,0.739,130,12
+t0125,Hollow Rivers,Neon Shadows,pop,0.701,0.738,123,9
+t0126,Remember in Blue,Neon Shadows,pop,0.621,0.761,127,11
+t0127,Burn Together,Neon Shadows,pop,0.715,0.733,116,1
+t0128,Fall Together,Neon Shadows,pop,0.654,0.775,109,4
+t0129,Rise Slowly,Neon Shadows,pop,0.814,0.807,103,1
+t0130,Wait With Me,Neon Shadows,pop,0.786,0.629,120,9
+t0131,Fall Back,Broken Orchard,pop,0.7,0.82,101,59
+t0132,Shine Forever,Broken Orchard,pop,0.661,0.745,102,64
+t0133,Lonely Circuits,Broken Orchard,pop,0.612,0.884,108,50
+t0134,Midnight Islands,Broken Orchard,pop,0.755,0.836,104,69
+t0135,Broken Comets,Broken Orchard,pop,0.618,0.867,117,61
+t0136,Crimson Orchard,Broken Orchard,pop,0.746,0.764,113,71
+t0137,Fall Slowly,Broken Orchard,pop,0.678,0.789,108,65
+t0138,Wander Forever,Broken Orchard,pop,0.564,0.86,119,75
+t0139,Quiet Echoes,Broken Orchard,pop,0.584,0.751,120,50
+t0140,Shine With Me,Broken Orchard,pop,0.791,0.738,110,57
+t0141,Wait at Dawn,Burning Shadows,pop,0.677,0.831,103,30
+t0142,Neon Highway,Burning Shadows,pop,0.601,0.694,111,20
+t0143,Slow Down Tonight,Burning Shadows,pop,0.614,0.638,106,44
+t0144,Slow Down Alone,Burning Shadows,pop,0.578,0.599,106,35
+t0145,Midnight Comets,Burning Shadows,pop,0.719,0.639,96,40
+t0146,Breathe in the Rain,Burning Shadows,pop,0.617,0.819,98,27
+t0147,Paper Echoes,Burning Shadows,pop,0.693,0.654,115,30
+t0148,Burning Rivers,Burning Shadows,pop,0.664,0.74,117,38
+t0149,Lucky Thunder,Burning Shadows,pop,0.887,0.773,117,46
+t0150,Faded Islands,Burning Shadows,pop,0.558,0.886,123,55
+t0151,Neon Comets,Burning Shadows,pop,0.74,0.69,102,32
+t0152,Silver Skyline,Burning Shadows,pop,0.716,0.731,129,35
+t0153,Rise With Me,Neon Comets,pop,0.877,0.396,102,16
+t0154,Hold On Again,Neon Comets,pop,0.621,0.491,128,16
+t0155,Sunday Mirrors,Neon Comets,pop,0.842,0.451,110,1
+t0156,Burning Engines,Neon Comets,pop,0.706,0.558,123,18
+t0157,Paper Engines,Neon Comets,pop,0.561,0.43,127,24
+t0158,Breathe With Me,Neon Comets,pop,0.778,0.387,109,22
+t0159,Velvet Skyline,Neon Comets,pop,0.784,0.62,98,22
+t0160,Breathe Alone,Neon Comets,pop,0.797,0.394,96,14
+t0161,Frozen Islands,Neon Comets,pop,0.815,0.436,109,18
+t0162,Gentle Meadow,Restless Horizon,rock,0.73,0.819,106,11
+t0163,Glow Together,Restless Horizon,rock,0.934,0.618,114,23
+t0164,Electric Garden,Restless Horizon,rock,0.824,0.772,107,25
+t0165,Let Go in the Rain,Restless Horizon,rock,0.799,0.58,100,16
+t0166,Glow Away,Restless Horizon,rock,0.846,0.637,107,16
+t0167,Frozen Daydreams,Restless Horizon,rock,0.821,0.53,137,31
+t0168,Wait Slowly,Sunday Letters,rock,0.857,0.505,127,1
+t0169,Paper Islands,Sunday Letters,rock,0.683,0.714,102,1
+t0170,Faded Shadows,Sunday Letters,rock,0.824,0.656,110,7
+t0171,Fall at Dawn,Sunday Letters,rock,0.741,0.816,122,16
+t0172,Static Harbor,Sunday Letters,rock,0.899,0.399,133,11
+t0173,Dance in the Rain,Sunday Letters,rock,0.819,0.589,138,7
+t0174,Paper Lanterns,Sunday Letters,rock,0.907,0.668,114,19
+t0175,Sunday Thunder,Midnight Islands,rock,0.718,0.462,103,42
+t0176,Remember Like Fire,Midnight Islands,rock,0.83,0.349,118,48
+t0177,Fall With Me,Midnight Islands,rock,0.732,0.46,142,43
+t0178,Wake Up With Me,Midnight Islands,rock,0.894,0.514,110,38
+t0179,Crimson Satellites,Midnight Islands,rock,0.878,0.461,109,59
+t0180,Burning Meadow,Midnight Islands,rock,0.708,0.595,112,53
+t0181,Wait Forever,Midnight Islands,rock,0.886,0.386,131,52
+t0182,Let Go Tonight,Midnight Islands,rock,0.79,0.607,132,46
+t0183,Glass Orchard,Midnight Islands,rock,0.788,0.502,116,43
+t0184,Northern Meadow,Midnight Islands,rock,0.692,0.501,117,35
+t0185,Restless Islands,Midnight Islands,rock,0.661,0.344,127,41
+t0186,Silver Satellites,Distant Circuits,rock,0.766,0.557,125,10
+t0187,Golden Embers,Distant Circuits,rock,0.572,0.556,148,5
+t0188,Neon Orchard,Distant Circuits,rock,0.519,0.258,125,1
+t0189,Northern Letters,Distant Circuits,rock,0.558,0.45,117,6
+t0190,Remember in the Rain,Distant Circuits,rock,0.722,0.315,109,11
+t0191,Wild Orchard,Distant Circuits,rock,0.781,0.49,149,1
+t0192,Hollow Embers,Burning Thunder,rock,0.681,0.335,114,31
+t0193,Wander at Dawn,Burning Thunder,rock,0.818,0.452,145,34
+t0194,Shine Like Fire,Burning Thunder,rock,0.751,0.445,141,12
+t0195,Fall Like Fire,Burning Thunder,rock,0.803,0.49,111,30
+t0196,Hold On Back,Burning Thunder,rock,0.77,0.311,110,11
+t0197,Frozen Feathers,Burning Thunder,rock,0.816,0.379,116,30
+t0198,Crimson Lanterns,Burning Thunder,rock,0.849,0.583,121,27
+t0199,Wander Back,Burning Thunder,rock,0.712,0.442,101,7
+t0200,Glass Orchard,Burning Thunder,rock,0.707,0.581,112,16
+t0201,Velvet Skyline,Burning Thunder,rock,0.704,0.436,149,19
+t0202,Hollow Daydreams,Burning Thunder,rock,0.762,0.507,133,24
+t0203,Wander Slowly,Wild Letters,rock,0.979,0.501,137,1
+t0204,Neon Echoes,Wild Letters,rock,0.898,0.382,137,10
+t0205,Glow in Blue,Wild Letters,rock,0.789,0.387,129,11
+t0206,Paper Shadows,Wild Letters,rock,0.913,0.707,116,13
+t0207,Remember Forever,Wild Letters,rock,0.975,0.424,139,11
+t0208,Glass Signals,Wild Letters,rock,0.913,0.405,103,6
+t0209,Gentle Letters,Wild Letters,rock,0.799,0.5,104,1
+t0210,Burn in the Rain,Frozen Comets,rock,1,0.351,115,7
+t0211,Gentle Lanterns,Frozen Comets,rock,0.891,0.488,113,17
+t0212,Run Like Fire,Frozen Comets,rock,0.871,0.456,128,8
+t0213,Broken Lanterns,Frozen Comets,rock,0.846,0.494,112,8
+t0214,Drift Slowly,Frozen Comets,rock,0.949,0.484,146,11
+t0215,Paper Echoes,Frozen Comets,rock,0.899,0.492,119,25
+t0216,Static Islands,Frozen Comets,rock,0.903,0.39,128,25
+t0217,Remember for You,Frozen Comets,rock,0.981,0.388,136,1
+t0218,Come Home for You,Frozen Comets,rock,0.937,0.394,135,6
+t0219,Wake Up at Dawn,Frozen Comets,rock,0.853,0.403,149,6
+t0220,Paper Circuits,Frozen Comets,rock,0.857,0.612,137,8
+t0221,Electric Embers,Northern Embers,rock,0.85,0.598,136,74
+t0222,Golden Circuits,Northern Embers,rock,0.851,0.22,117,63
+t0223,Frozen Signals,Northern Embers,rock,1,0.456,141,77
+t0224,Wander Like Fire,Northern Embers,rock,0.827,0.418,131,75
+t0225,Midnight Daydreams,Northern Embers,rock,0.825,0.55,149,59
+t0226,Quiet Horizon,Northern Embers,rock,0.877,0.447,122,68
+t0227,Gentle Tides,Midnight Embers,rock,0.742,0.53,149,1
+t0228,Glow Away,Midnight Embers,rock,0.701,0.458,145,9
+t0229,Silver Orchard,Midnight Embers,rock,0.663,0.657,108,2
+t0230,Velvet Feathers,Midnight Embers,rock,0.801,0.598,113,21
+t0231,Drift Tonight,Midnight Embers,rock,0.769,0.521,115,11
+t0232,Rise Away,Midnight Embers,rock,0.902,0.539,113,8
+t0233,Burn Like Fire,Midnight Embers,rock,0.611,0.636,139,3
+t0234,Come Home Tonight,Midnight Embers,rock,0.581,0.313,126,1
+t0235,Quiet Comets,Midnight Embers,rock,0.893,0.589,143,8
+t0236,Static Daydreams,Midnight Embers,rock,0.742,0.599,116,9
+t0237,Dance Tonight,Northern Skyline,rock,0.714,0.632,110,34
+t0238,Shine Back,Northern Skyline,rock,0.741,0.546,122,35
+t0239,Broken Skyline,Northern Skyline,rock,0.756,0.604,100,42
+t0240,Stay for You,Northern Skyline,rock,0.695,0.391,134,40
+t0241,Distant Shadows,Northern Skyline,rock,0.89,0.44,110,24
+t0242,Come Home Together,Northern Skyline,rock,0.753,0.567,114,48
+t0243,Wait in the Rain,Northern Skyline,rock,0.763,0.395,130,24
+t0244,Gentle Islands,Northern Skyline,rock,0.729,0.55,124,32
+t0245,Drift Like Fire,Northern Skyline,rock,0.638,0.585,121,24
+t0246,Static Circuits,Northern Skyline,rock,0.717,0.314,147,28
+t0247,Glow Slowly,Northern Skyline,rock,0.609,0.567,122,40
+t0248,Lucky Skyline,Northern Skyline,rock,0.653,0.64,130,29
+t0249,Let Go Tonight,Silver Satellites,rock,0.603,0.681,126,8
+t0250,Wander in the Rain,Silver Satellites,rock,0.763,0.521,105,12
+t0251,Fall in Blue,Silver Satellites,rock,0.788,0.517,119,30
+t0252,Remember Slowly,Silver Satellites,rock,0.608,0.511,110,37
+t0253,Stay in the Rain,Silver Satellites,rock,0.712,0.329,113,17
+t0254,Wake Up Tonight,Silver Satellites,rock,0.687,0.552,129,29
+t0255,Sunday Highway,Silver Satellites,rock,0.622,0.585,139,26
+t0256,Hollow Feathers,Silver Satellites,rock,0.707,0.763,110,17
+t0257,Burn Like Fire,Silver Satellites,rock,0.719,0.38,102,26
+t0258,Run at Dawn,Silver Satellites,rock,0.792,0.563,118,6
+t0259,Fall Again,Silver Satellites,rock,0.654,0.416,110,11
+t0260,Dance Like Fire,Silver Satellites,rock,0.617,0.627,111,21
+t0261,Glow at Dawn,Northern Satellites,rock,0.968,0.208,111,10
+t0262,Wait With Me,Northern Satellites,rock,0.915,0.547,130,6
+t0263,Hollow Harbor,Northern Satellites,rock,1,0.388,111,14
+t0264,Northern Skyline,Northern Satellites,rock,0.86,0.458,144,20
+t0265,Slow Down Together,Northern Satellites,rock,0.903,0.493,127,12
+t0266,Wait Like Fire,Northern Satellites,rock,0.91,0.454,136,1
+t0267,Drift in Blue,Northern Satellites,rock,0.85,0.284,124,13
+t0268,Lonely Rivers,Northern Satellites,rock,0.813,0.364,141,6
+t0269,Golden Letters,Northern Satellites,rock,0.942,0.276,130,2
+t0270,Electric Skyline,Northern Satellites,rock,0.942,0.18,115,21
+t0271,Sunday Daydreams,Gentle Rivers,rock,0.952,0.267,115,100
+t0272,Static Comets,Gentle Rivers,rock,0.848,0.542,136,93
+t0273,Breathe for You,Gentle Rivers,rock,0.77,0.407,116,74
+t0274,Wild Embers,Gentle Rivers,rock,0.989,0.51,108,88
+t0275,Wild Satellites,Gentle Rivers,rock,0.874,0.574,109,93
+t0276,Wait Tonight,Gentle Rivers,rock,0.933,0.428,147,72
+t0277,Run Away,Gentle Rivers,rock,0.863,0.259,118,90
+t0278,Electric Orchard,Gentle Rivers,rock,0.988,0.44,100,71
+t0279,Restless Lanterns,Gentle Rivers,rock,1,0.562,116,74
+t0280,Remember Like Fire,Gentle Rivers,rock,0.927,0.49,141,94
+t0281,Broken Orchard,Gentle Rivers,rock,0.868,0.45,139,86
+t0282,Hollow Feathers,Lucky Circuits,rock,0.718,0.527,150,8
+t0283,Hold On Alone,Lucky Circuits,rock,0.728,0.729,102,2
+t0284,Wild Garden,Lucky Circuits,rock,0.63,0.624,122,1
+t0285,Slow Down Again,Lucky Circuits,rock,0.643,0.612,122,17
+t0286,Golden Daydreams,Lucky Circuits,rock,0.857,0.42,145,17
+t0287,Glow Again,Lucky Circuits,rock,0.664,0.491,128,17
+t0288,Fall Away,Lucky Circuits,rock,0.702,0.432,127,10
+t0289,Distant Circuits,Lucky Circuits,rock,0.842,0.49,107,5
+t0290,Midnight Embers,Lucky Circuits,rock,0.853,0.593,129,18
+t0291,Slow Down for You,Lucky Circuits,rock,0.586,0.592,147,11
+t0292,Stay Like Fire,Restless Rivers,rock,0.916,0.617,132,1
+t0293,Gentle Skyline,Restless Rivers,rock,0.842,0.555,122,1
+t0294,Burn for You,Restless Rivers,rock,0.816,0.709,113,1
+t0295,Shine in the Rain,Restless Rivers,rock,0.833,0.493,113,1
+t0296,Glow Slowly,Restless Rivers,rock,0.934,0.313,118,5
+t0297,Midnight Tides,Restless Rivers,rock,0.953,0.536,129,8
+t0298,Static Embers,Restless Rivers,rock,0.829,0.423,105,13
+t0299,Rise in Blue,Restless Rivers,rock,0.868,0.504,139,1
+t0300,Broken Shadows,Restless Rivers,rock,0.856,0.389,118,6
+t0301,Wait Alone,Frozen Feathers,rock,0.865,0.637,129,12
+t0302,Broken Engines,Frozen Feathers,rock,0.805,0.395,112,9
+t0303,Faded Horizon,Frozen Feathers,rock,0.88,0.346,107,21
+t0304,Slow Down Again,Frozen Feathers,rock,0.786,0.522,109,19
+t0305,Wake Up at Dawn,Frozen Feathers,rock,0.834,0.517,105,4
+t0306,Hold On at Dawn,Frozen Feathers,rock,0.738,0.473,146,2
+t0307,Remember Alone,Frozen Feathers,rock,0.785,0.543,112,11
+t0308,Come Home in Blue,Frozen Feathers,rock,0.921,0.401,126,30
+t0309,Neon Circuits,Frozen Feathers,rock,0.804,0.515,117,12
+t0310,Crimson Orchard,Frozen Feathers,rock,0.836,0.421,104,9
+t0311,Glow Alone,Frozen Feathers,rock,0.809,0.472,128,14
+t0312,Golden Meadow,Gentle Thunder,rock,0.723,0.399,107,15
+t0313,Drift Together,Gentle Thunder,rock,0.733,0.461,133,13
+t0314,Broken Orchard,Gentle Thunder,rock,0.802,0.539,144,7
+t0315,Wander Together,Gentle Thunder,rock,0.789,0.416,104,10
+t0316,Rise for You,Gentle Thunder,rock,0.783,0.515,100,23
+t0317,Remember Tonight,Gentle Thunder,rock,0.737,0.491,143,12
+t0318,Restless Daydreams,Northern Thunder,rock,0.587,0.771,134,21
+t0319,Stay in Blue,Northern Thunder,rock,0.695,0.665,118,34
+t0320,Broken Garden,Northern Thunder,rock,0.555,0.661,113,34
+t0321,Wait for You,Northern Thunder,rock,0.602,0.689,123,33
+t0322,Sunday Horizon,Northern Thunder,rock,0.555,0.594,110,30
+t0323,Dance Tonight,Northern Thunder,rock,0.627,0.528,140,28
+t0324,Quiet Horizon,Northern Thunder,rock,0.751,0.709,108,44
+t0325,Wait in Blue,Northern Thunder,rock,0.726,0.756,136,26
+t0326,Burn With Me,Northern Thunder,rock,0.732,0.64,110,40
+t0327,Fall Again,Velvet Meadow,hip-hop,0.55,0.603,89,20
+t0328,Wild Thunder,Velvet Meadow,hip-hop,0.71,0.605,89,13
+t0329,Lucky Meadow,Velvet Meadow,hip-hop,0.522,0.503,80,24
+t0330,Neon Embers,Velvet Meadow,hip-hop,0.664,0.661,86,31
+t0331,Frozen Circuits,Velvet Meadow,hip-hop,0.718,0.547,92,20
+t0332,Let Go at Dawn,Velvet Meadow,hip-hop,0.443,0.551,104,35
+t0333,Sunday Signals,Velvet Meadow,hip-hop,0.638,0.431,102,33
+t0334,Dance Tonight,Velvet Meadow,hip-hop,0.592,0.476,99,27
+t0335,Wander Tonight,Velvet Meadow,hip-hop,0.485,0.608,104,23
+t0336,Neon Horizon,Velvet Meadow,hip-hop,0.658,0.647,85,21
+t0337,Crimson Meadow,Velvet Meadow,hip-hop,0.561,0.347,97,16
+t0338,Lonely Tides,Velvet Meadow,hip-hop,0.537,0.554,103,30
+t0339,Remember in Blue,Electric Orchard,hip-hop,0.543,0.41,82,21
+t0340,Fall for You,Electric Orchard,hip-hop,0.554,0.332,103,5
+t0341,Shine With Me,Electric Orchard,hip-hop,0.63,0.578,101,6
+t0342,Stay Tonight,Electric Orchard,hip-hop,0.707,0.489,88,10
+t0343,Drift Again,Electric Orchard,hip-hop,0.576,0.472,95,20
+t0344,Lucky Rivers,Electric Orchard,hip-hop,0.727,0.52,104,15
+t0345,Rise Like Fire,Electric Orchard,hip-hop,0.637,0.365,103,12
+t0346,Gentle Islands,Electric Orchard,hip-hop,0.678,0.58,104,31
+t0347,Slow Down Away,Electric Orchard,hip-hop,0.627,0.521,88,27
+t0348,Let Go for You,Electric Orchard,hip-hop,0.739,0.4,100,25
+t0349,Wait Tonight,Paper Shadows,hip-hop,0.786,0.78,103,35
+t0350,Come Home Alone,Paper Shadows,hip-hop,0.891,0.711,94,47
+t0351,Wake Up Together,Paper Shadows,hip-hop,0.511,0.648,94,53
+t0352,Frozen Embers,Paper Shadows,hip-hop,0.643,0.736,89,54
+t0353,Wild Highway,Paper Shadows,hip-hop,0.847,0.762,82,57
+t0354,Crimson Harbor,Paper Shadows,hip-hop,0.561,0.748,88,41
+t0355,Silver Engines,Paper Shadows,hip-hop,0.638,0.613,105,56
+t0356,Paper Circuits,Paper Shadows,hip-hop,0.865,0.761,82,48
+t0357,Paper Thunder,Paper Shadows,hip-hop,0.897,0.783,102,35
+t0358,Fall at Dawn,Paper Shadows,hip-hop,0.596,0.643,89,53
+t0359,Glass Mirrors,Gentle Skyline,hip-hop,0.632,0.661,89,34
+t0360,Frozen Garden,Gentle Skyline,hip-hop,0.624,0.791,81,37
+t0361,Slow Down at Dawn,Gentle Skyline,hip-hop,0.718,0.613,90,29
+t0362,Velvet Signals,Gentle Skyline,hip-hop,0.614,0.726,87,36
+t0363,Wander Again,Gentle Skyline,hip-hop,0.615,0.57,101,35
+t0364,Golden Circuits,Gentle Skyline,hip-hop,0.716,0.847,94,30
+t0365,Wander Tonight,Gentle Skyline,hip-hop,0.749,0.65,105,24
+t0366,Midnight Horizon,Gentle Skyline,hip-hop,0.576,0.721,84,42
+t0367,Hold On Forever,Gentle Skyline,hip-hop,0.731,0.779,97,41
+t0368,Quiet Circuits,Gentle Skyline,hip-hop,0.721,0.527,98,39
+t0369,Come Home Away,Gentle Skyline,hip-hop,0.667,0.557,99,25
+t0370,Gentle Comets,Gentle Skyline,hip-hop,0.633,0.644,90,41
+t0371,Dance at Dawn,Hollow Signals,hip-hop,0.629,0.816,103,2
+t0372,Fall Alone,Hollow Signals,hip-hop,0.672,0.722,80,1
+t0373,Velvet Shadows,Hollow Signals,hip-hop,0.627,0.688,92,10
+t0374,Hollow Highway,Hollow Signals,hip-hop,0.726,0.779,103,3
+t0375,Crimson Daydreams,Hollow Signals,hip-hop,0.677,0.82,93,1
+t0376,Northern Feathers,Hollow Signals,hip-hop,0.702,0.587,95,10
+t0377,Velvet Garden,Hollow Signals,hip-hop,0.721,0.707,105,19
+t0378,Come Home in the Rain,Hollow Signals,hip-hop,0.733,0.713,92,14
+t0379,Midnight Skyline,Hollow Signals,hip-hop,0.722,0.642,100,10
+t0380,Wild Highway,Hollow Signals,hip-hop,0.785,0.87,87,1
+t0381,Glass Circuits,Hollow Signals,hip-hop,0.593,0.695,83,2
+t0382,Fall Back,Hollow Engines,hip-hop,0.707,0.815,92,35
+t0383,Slow Down Again,Hollow Engines,hip-hop,0.705,0.519,93,29
+t0384,Lonely Signals,Hollow Engines,hip-hop,0.686,0.607,86,28
+t0385,Wake Up Together,Hollow Engines,hip-hop,0.748,0.594,94,45
+t0386,Static Harbor,Hollow Engines,hip-hop,0.805,0.565,105,42
+t0387,Remember Like Fire,Hollow Engines,hip-hop,0.655,0.747,88,35
+t0388,Wake Up Alone,Hollow Engines,hip-hop,0.744,0.619,91,34
+t0389,Come Home Forever,Sunday Orchard,hip-hop,0.48,0.388,95,10
+t0390,Burn in Blue,Sunday Orchard,hip-hop,0.508,0.64,100,1
+t0391,Stay With Me,Sunday Orchard,hip-hop,0.494,0.646,97,19
+t0392,Stay at Dawn,Sunday Orchard,hip-hop,0.522,0.589,87,16
+t0393,Velvet Feathers,Sunday Orchard,hip-hop,0.466,0.567,100,15
+t0394,Drift for You,Sunday Orchard,hip-hop,0.477,0.489,84,24
+t0395,Midnight Orchard,Sunday Orchard,hip-hop,0.59,0.488,81,15
+t0396,Shine Alone,Sunday Orchard,hip-hop,0.505,0.42,101,8
+t0397,Faded Signals,Sunday Orchard,hip-hop,0.447,0.586,97,1
+t0398,Electric Meadow,Electric Embers,hip-hop,0.651,0.719,104,4
+t0399,Lonely Letters,Electric Embers,hip-hop,0.704,0.757,96,22
+t0400,Electric Echoes,Electric Embers,hip-hop,0.679,0.675,101,23
+t0401,Electric Satellites,Electric Embers,hip-hop,0.655,0.54,94,14
+t0402,Wake Up Again,Electric Embers,hip-hop,0.714,0.632,94,11
+t0403,Hold On Tonight,Electric Embers,hip-hop,0.552,0.59,86,15
+t0404,Electric Letters,Lonely Circuits,hip-hop,0.517,0.737,89,14
+t0405,Golden Rivers,Lonely Circuits,hip-hop,0.583,0.396,94,13
+t0406,Midnight Horizon,Lonely Circuits,hip-hop,0.602,0.476,95,6
+t0407,Rise Tonight,Lonely Circuits,hip-hop,0.418,0.55,93,1
+t0408,Let Go Away,Lonely Circuits,hip-hop,0.596,0.259,91,3
+t0409,Wait Together,Lonely Circuits,hip-hop,0.637,0.493,87,11
+t0410,Northern Islands,Lonely Circuits,hip-hop,0.532,0.652,88,18
+t0411,Broken Feathers,Static Harbor,hip-hop,0.701,0.521,91,78
+t0412,Run With Me,Static Harbor,hip-hop,0.773,0.49,83,81
+t0413,Wander Slowly,Static Harbor,hip-hop,0.623,0.576,90,68
+t0414,Golden Shadows,Static Harbor,hip-hop,0.657,0.622,88,77
+t0415,Dance in Blue,Static Harbor,hip-hop,0.67,0.57,81,72
+t0416,Come Home Together,Static Harbor,hip-hop,0.656,0.534,83,69
+t0417,Fall Tonight,Static Harbor,hip-hop,0.578,0.665,99,80
+t0418,Shine Together,Static Harbor,hip-hop,0.735,0.514,86,70
+t0419,Breathe at Dawn,Static Harbor,hip-hop,0.625,0.557,100,75
+t0420,Faded Highway,Static Harbor,hip-hop,0.559,0.679,92,78
+t0421,Run in Blue,Static Harbor,hip-hop,0.601,0.585,98,77
+t0422,Come Home Back,Static Harbor,hip-hop,0.667,0.572,87,84
+t0423,Remember Tonight,Midnight Engines,hip-hop,0.542,0.623,91,61
+t0424,Glass Meadow,Midnight Engines,hip-hop,0.65,0.414,83,71
+t0425,Remember Away,Midnight Engines,hip-hop,0.535,0.498,84,45
+t0426,Lucky Garden,Midnight Engines,hip-hop,0.636,0.526,96,69
+t0427,Drift in Blue,Midnight Engines,hip-hop,0.581,0.583,94,77
+t0428,Burn Like Fire,Midnight Engines,hip-hop,0.505,0.519,96,51
+t0429,Hollow Lanterns,Midnight Engines,hip-hop,0.663,0.447,94,46
+t0430,Lonely Daydreams,Lonely Thunder,hip-hop,0.486,0.535,87,1
+t0431,Dance in Blue,Lonely Thunder,hip-hop,0.621,0.441,100,6
+t0432,Rise Away,Lonely Thunder,hip-hop,0.449,0.388,95,2
+t0433,Paper Echoes,Lonely Thunder,hip-hop,0.512,0.344,86,9
+t0434,Slow Down Tonight,Lonely Thunder,hip-hop,0.481,0.482,98,2
+t0435,Shine Together,Lonely Thunder,hip-hop,0.653,0.368,101,3
+t0436,Quiet Highway,Lonely Thunder,hip-hop,0.53,0.531,83,1
+t0437,Restless Skyline,Lonely Thunder,hip-hop,0.568,0.536,103,7
+t0438,Gentle Satellites,Crimson Meadow,hip-hop,0.619,0.407,93,76
+t0439,Faded Mirrors,Crimson Meadow,hip-hop,0.659,0.498,96,61
+t0440,Fall Away,Crimson Meadow,hip-hop,0.699,0.456,93,62
+t0441,Faded Harbor,Crimson Meadow,hip-hop,0.714,0.519,81,76
+t0442,Velvet Comets,Crimson Meadow,hip-hop,0.598,0.455,91,88
+t0443,Glass Thunder,Crimson Meadow,hip-hop,0.603,0.311,99,58
+t0444,Electric Circuits,Crimson Meadow,hip-hop,0.584,0.396,81,75
+t0445,Wake Up Forever,Crimson Meadow,hip-hop,0.555,0.423,92,75
+t0446,Lonely Highway,Crimson Meadow,hip-hop,0.65,0.495,101,90
+t0447,Slow Down at Dawn,Crimson Meadow,hip-hop,0.566,0.406,103,69
+t0448,Glass Lanterns,Crimson Meadow,hip-hop,0.587,0.455,94,79
+t0449,Faded Embers,Crimson Meadow,hip-hop,0.651,0.5,82,63
+t0450,Shine Again,Distant Orchard,hip-hop,0.624,0.38,95,18
+t0451,Quiet Meadow,Distant Orchard,hip-hop,0.581,0.477,100,31
+t0452,Midnight Garden,Distant Orchard,hip-hop,0.544,0.392,87,22
+t0453,Shine Like Fire,Distant Orchard,hip-hop,0.554,0.385,85,37
+t0454,Silver Shadows,Distant Orchard,hip-hop,0.583,0.35,105,33
+t0455,Slow Down Forever,Distant Orchard,hip-hop,0.654,0.47,104,33
+t0456,Glass Garden,Distant Orchard,hip-hop,0.554,0.543,96,21
+t0457,Drift With Me,Hollow Letters,hip-hop,0.483,0.193,83,48
+t0458,Faded Shadows,Hollow Letters,hip-hop,0.469,0.407,87,49
+t0459,Shine Slowly,Hollow Letters,hip-hop,0.439,0.384,84,54
+t0460,Midnight Letters,Hollow Letters,hip-hop,0.429,0.514,97,46
+t0461,Northern Embers,Hollow Letters,hip-hop,0.499,0.472,98,56
+t0462,Golden Daydreams,Hollow Letters,hip-hop,0.529,0.591,102,56
+t0463,Burning Highway,Hollow Letters,hip-hop,0.446,0.506,86,62
+t0464,Restless Skyline,Hollow Letters,hip-hop,0.507,0.474,80,53
+t0465,Shine in Blue,Hollow Letters,hip-hop,0.572,0.616,95,47
+t0466,Run Like Fire,Hollow Letters,hip-hop,0.595,0.654,95,50
+t0467,Rise in the Rain,Hollow Letters,hip-hop,0.584,0.428,88,68
+t0468,Burn Forever,Hollow Letters,hip-hop,0.582,0.285,86,57
+t0469,Dance Tonight,Wild Skyline,hip-hop,0.859,0.396,99,46
+t0470,Neon Feathers,Wild Skyline,hip-hop,0.804,0.603,103,63
+t0471,Paper Harbor,Wild Skyline,hip-hop,0.688,0.362,95,60
+t0472,Glow Like Fire,Wild Skyline,hip-hop,0.787,0.432,88,59
+t0473,Slow Down Again,Wild Skyline,hip-hop,0.607,0.41,90,55
+t0474,Remember Slowly,Wild Skyline,hip-hop,0.817,0.468,98,51
+t0475,Broken Engines,Frozen Highway,hip-hop,0.554,0.482,99,22
+t0476,Quiet Lanterns,Frozen Highway,hip-hop,0.44,0.532,91,35
+t0477,Restless Rivers,Frozen Highway,hip-hop,0.451,0.321,93,17
+t0478,Glass Thunder,Frozen Highway,hip-hop,0.49,0.309,95,15
+t0479,Dance Alone,Frozen Highway,hip-hop,0.436,0.411,97,29
+t0480,Glass Comets,Frozen Highway,hip-hop,0.412,0.349,95,14
+t0481,Wait Away,Frozen Highway,hip-hop,0.486,0.256,94,15
+t0482,Faded Engines,Frozen Highway,hip-hop,0.352,0.299,100,25
+t0483,Silver Skyline,Frozen Highway,hip-hop,0.561,0.397,99,21
+t0484,Restless Shadows,Frozen Highway,hip-hop,0.557,0.561,98,20
+t0485,Drift Away,Frozen Highway,hip-hop,0.55,0.397,102,23
+t0486,Dance in the Rain,Wild Harbor,hip-hop,0.61,0.335,83,9
+t0487,Stay in the Rain,Wild Harbor,hip-hop,0.611,0.241,96,8
+t0488,Restless Daydreams,Wild Harbor,hip-hop,0.612,0.275,84,1
+t0489,Distant Rivers,Wild Harbor,hip-hop,0.512,0.558,82,15
+t0490,Neon Daydreams,Wild Harbor,hip-hop,0.803,0.343,104,15
+t0491,Remember at Dawn,Wild Harbor,hip-hop,0.501,0.255,103,18
+t0492,Wait Again,Wild Harbor,hip-hop,0.664,0.399,96,1
+t0493,Faded Mirrors,Wild Harbor,hip-hop,0.584,0.447,104,5
+t0494,Golden Mirrors,Wild Harbor,hip-hop,0.647,0.308,82,1
+t0495,Stay Slowly,Wild Harbor,hip-hop,0.712,0.341,84,5
+t0496,Run Like Fire,Wild Harbor,hip-hop,0.614,0.446,89,10
+t0497,Wander at Dawn,Wild Harbor,hip-hop,0.486,0.292,91,1
+t0498,Dance Again,Hollow Orchard,electronic,0.759,0.499,137,56
+t0499,Velvet Comets,Hollow Orchard,electronic,0.877,0.534,134,53
+t0500,Come Home in Blue,Hollow Orchard,electronic,0.927,0.762,134,50
+t0501,Glow Again,Hollow Orchard,electronic,0.872,0.7,124,64
+t0502,Come Home Together,Hollow Orchard,electronic,0.963,0.658,119,46
+t0503,Wait Slowly,Hollow Orchard,electronic,0.819,0.655,127,63
+t0504,Dance Away,Hollow Orchard,electronic,0.929,0.531,123,57
+t0505,Velvet Thunder,Hollow Orchard,electronic,0.887,0.41,122,52
+t0506,Burn Tonight,Hollow Orchard,electronic,0.96,0.696,128,45
+t0507,Run for You,Faded Circuits,electronic,0.784,0.535,120,7
+t0508,Wait Back,Faded Circuits,electronic,0.766,0.401,124,1
+t0509,Remember Alone,Faded Circuits,electronic,0.969,0.453,120,8
+t0510,Hollow Mirrors,Faded Circuits,electronic,0.902,0.327,124,1
+t0511,Wake Up Like Fire,Faded Circuits,electronic,0.884,0.389,134,21
+t0512,Quiet Mirrors,Faded Circuits,electronic,0.788,0.528,136,1
+t0513,Neon Horizon,Faded Circuits,electronic,0.968,0.432,122,10
+t0514,Burning Comets,Faded Circuits,electronic,0.78,0.592,122,13
+t0515,Drift in the Rain,Faded Circuits,electronic,0.747,0.577,132,15
+t0516,Silver Daydreams,Faded Circuits,electronic,0.911,0.292,132,8
+t0517,Glow Forever,Faded Circuits,electronic,0.927,0.53,137,1
+t0518,Distant Islands,Faded Circuits,electronic,0.808,0.259,121,1
+t0519,Let Go in Blue,Golden Tides,electronic,0.777,0.535,131,19
+t0520,Burn Tonight,Golden Tides,electronic,0.801,0.606,123,13
+t0521,Rise Together,Golden Tides,electronic,0.813,0.614,125,15
+t0522,Burn Again,Golden Tides,electronic,0.859,0.487,129,14
+t0523,Glow at Dawn,Golden Tides,electronic,0.813,0.663,124,3
+t0524,Quiet Shadows,Golden Tides,electronic,0.677,0.413,119,15
+t0525,Burn Together,Golden Tides,electronic,0.879,0.409,126,2
+t0526,Come Home Again,Golden Tides,electronic,0.703,0.536,128,3
+t0527,Wake Up for You,Golden Tides,electronic,0.82,0.533,138,8
+t0528,Hold On Again,Golden Tides,electronic,0.604,0.354,139,8
+t0529,Slow Down for You,Golden Tides,electronic,0.704,0.589,119,26
+t0530,Frozen Letters,Lucky Meadow,electronic,0.885,0.808,127,53
+t0531,Glow Forever,Lucky Meadow,electronic,0.702,0.635,128,57
+t0532,Wild Circuits,Lucky Meadow,electronic,0.812,0.683,124,55
+t0533,Hollow Circuits,Lucky Meadow,electronic,0.884,0.623,122,51
+t0534,Frozen Mirrors,Lucky Meadow,electronic,0.791,0.546,123,52
+t0535,Lucky Highway,Lucky Meadow,electronic,0.976,0.944,132,40
+t0536,Come Home Forever,Silver Engines,electronic,0.699,0.56,132,78
+t0537,Slow Down Tonight,Silver Engines,electronic,0.874,0.759,128,82
+t0538,Frozen Satellites,Silver Engines,electronic,0.93,0.647,135,62
+t0539,Wake Up Forever,Silver Engines,electronic,0.783,0.551,126,56
+t0540,Remember at Dawn,Silver Engines,electronic,0.862,0.763,127,75
+t0541,Neon Horizon,Silver Engines,electronic,0.821,0.736,132,59
+t0542,Stay for You,Silver Engines,electronic,0.95,0.715,140,59
+t0543,Hold On Away,Silver Engines,electronic,0.875,0.663,136,79
+t0544,Dance at Dawn,Silver Engines,electronic,0.922,0.663,123,63
+t0545,Quiet Echoes,Silver Engines,electronic,0.771,0.666,127,58
+t0546,Glow Forever,Silver Engines,electronic,0.826,0.584,126,68
+t0547,Distant Highway,Silver Engines,electronic,0.742,0.631,126,58
+t0548,Restless Thunder,Restless Letters,electronic,0.99,0.511,120,54
+t0549,Velvet Feathers,Restless Letters,electronic,0.803,0.642,128,35
+t0550,Shine Back,Restless Letters,electronic,0.935,0.507,136,44
+t0551,Glass Comets,Restless Letters,electronic,1,0.769,137,39
+t0552,Distant Garden,Restless Letters,electronic,0.988,0.809,132,60
+t0553,Wake Up With Me,Restless Letters,electronic,0.95,0.464,131,45
+t0554,Burn in the Rain,Restless Letters,electronic,1,0.44,131,37
+t0555,Gentle Comets,Restless Letters,electronic,0.959,0.491,123,54
+t0556,Broken Thunder,Restless Letters,electronic,1,0.489,137,54
+t0557,Faded Echoes,Restless Letters,electronic,0.996,0.48,126,54
+t0558,Wake Up Forever,Restless Letters,electronic,1,0.829,131,34
+t0559,Fall Away,Northern Orchard,electronic,0.878,0.957,124,7
+t0560,Lucky Circuits,Northern Orchard,electronic,0.769,0.904,138,2
+t0561,Wander Together,Northern Orchard,electronic,0.874,0.72,135,7
+t0562,Frozen Lanterns,Northern Orchard,electronic,0.921,0.924,119,12
+t0563,Shine in Blue,Northern Orchard,electronic,1,0.723,120,19
+t0564,Rise With Me,Northern Orchard,electronic,0.942,0.796,136,13
+t0565,Distant Harbor,Northern Orchard,electronic,0.824,0.863,125,22
+t0566,Lucky Lanterns,Northern Orchard,electronic,0.961,0.87,128,13
+t0567,Restless Echoes,Silver Echoes,electronic,0.941,0.429,130,1
+t0568,Rise Slowly,Silver Echoes,electronic,0.902,0.564,139,18
+t0569,Let Go With Me,Silver Echoes,electronic,0.974,0.416,122,21
+t0570,Paper Highway,Silver Echoes,electronic,0.86,0.601,120,24
+t0571,Wait Together,Silver Echoes,electronic,0.834,0.554,127,27
+t0572,Hold On Back,Silver Echoes,electronic,0.86,0.352,131,10
+t0573,Run Alone,Silver Echoes,electronic,0.896,0.674,120,8
+t0574,Burn for You,Silver Echoes,electronic,0.75,0.694,126,6
+t0575,Rise Forever,Silver Echoes,electronic,0.887,0.65,128,21
+t0576,Wait Back,Silver Echoes,electronic,0.837,0.638,137,5
+t0577,Wander at Dawn,Silver Echoes,electronic,0.958,0.486,135,16
+t0578,Hollow Islands,Silver Echoes,electronic,0.88,0.74,129,11
+t0579,Run Again,Neon Rivers,electronic,0.781,0.443,139,28
+t0580,Silver Shadows,Neon Rivers,electronic,0.914,0.468,119,29
+t0581,Frozen Letters,Neon Rivers,electronic,0.805,0.608,136,15
+t0582,Wait Forever,Neon Rivers,electronic,0.88,0.552,125,22
+t0583,Quiet Islands,Neon Rivers,electronic,0.834,0.399,126,28
+t0584,Broken Skyline,Neon Rivers,electronic,0.886,0.582,130,17
+t0585,Lonely Daydreams,Neon Rivers,electronic,0.83,0.457,128,11
+t0586,Shine Together,Neon Rivers,electronic,0.878,0.462,118,25
+t0587,Breathe Back,Neon Rivers,electronic,0.87,0.333,125,24
+t0588,Slow Down Forever,Northern Horizon,electronic,0.755,0.792,123,21
+t0589,Wake Up in the Rain,Northern Horizon,electronic,0.524,0.629,139,32
+t0590,Drift at Dawn,Northern Horizon,electronic,0.598,0.591,118,14
+t0591,Faded Letters,Northern Horizon,electronic,0.608,0.619,128,28
+t0592,Shine Alone,Northern Horizon,electronic,0.625,0.481,120,24
+t0593,Midnight Mirrors,Northern Horizon,electronic,0.635,0.506,130,24
+t0594,Shine Tonight,Northern Horizon,electronic,0.662,0.411,131,20
+t0595,Burn at Dawn,Northern Horizon,electronic,0.713,0.768,126,1
+t0596,Hold On Like Fire,Quiet Tides,electronic,0.863,0.565,119,9
+t0597,Let Go Together,Quiet Tides,electronic,0.845,0.498,120,27
+t0598,Hold On Again,Quiet Tides,electronic,0.802,0.667,127,9
+t0599,Hollow Orchard,Quiet Tides,electronic,0.744,0.579,128,1
+t0600,Sunday Signals,Quiet Tides,electronic,0.738,0.616,138,1
+t0601,Let Go for You,Quiet Tides,electronic,0.664,0.571,123,32
+t0602,Fall in the Rain,Quiet Tides,electronic,0.702,0.583,132,8
+t0603,Golden Thunder,Burning Rivers,electronic,0.888,0.578,123,4
+t0604,Shine Tonight,Burning Rivers,electronic,0.951,0.627,129,17
+t0605,Let Go for You,Burning Rivers,electronic,0.862,0.798,136,1
+t0606,Silver Lanterns,Burning Rivers,electronic,1,0.515,130,1
+t0607,Wake Up Slowly,Burning Rivers,electronic,0.912,0.588,124,4
+t0608,Paper Engines,Burning Rivers,electronic,1,0.649,138,6
+t0609,Wake Up Tonight,Burning Rivers,electronic,0.908,0.374,133,10
+t0610,Come Home Again,Burning Rivers,electronic,0.955,0.607,119,1
+t0611,Restless Skyline,Burning Rivers,electronic,1,0.686,128,19
+t0612,Wake Up With Me,Burning Rivers,electronic,1,0.594,127,13
+t0613,Fall Slowly,Gentle Harbor,electronic,1,0.445,119,51
+t0614,Restless Islands,Gentle Harbor,electronic,0.973,0.438,123,59
+t0615,Slow Down Tonight,Gentle Harbor,electronic,0.792,0.598,129,46
+t0616,Frozen Embers,Gentle Harbor,electronic,0.967,0.516,136,61
+t0617,Quiet Echoes,Gentle Harbor,electronic,1,0.407,120,47
+t0618,Remember Alone,Gentle Harbor,electronic,0.915,0.37,119,60
+t0619,Shine Again,Gentle Harbor,electronic,0.994,0.527,128,48
+t0620,Glass Engines,Gentle Harbor,electronic,0.89,0.507,127,60
+t0621,Silver Engines,Gentle Harbor,electronic,0.962,0.481,127,55
+t0622,Breathe Away,Gentle Harbor,electronic,1,0.739,133,43
+t0623,Distant Mirrors,Gentle Harbor,electronic,0.989,0.516,125,60
+t0624,Wait Slowly,Lonely Rivers,electronic,0.76,0.55,135,1
+t0625,Stay Slowly,Lonely Rivers,electronic,0.801,0.658,129,6
+t0626,Remember Like Fire,Lonely Rivers,electronic,0.671,0.673,125,16
+t0627,Wait Back,Lonely Rivers,electronic,0.835,0.678,119,17
+t0628,Gentle Lanterns,Lonely Rivers,electronic,0.587,0.668,119,30
+t0629,Gentle Tides,Lonely Rivers,electronic,0.823,0.45,126,18
+t0630,Lonely Horizon,Lonely Rivers,electronic,0.819,0.745,132,7
+t0631,Shine at Dawn,Golden Engines,electronic,0.831,0.691,129,87
+t0632,Rise at Dawn,Golden Engines,electronic,0.914,0.754,121,62
+t0633,Drift Again,Golden Engines,electronic,0.879,0.592,121,71
+t0634,Glow Like Fire,Golden Engines,electronic,1,0.692,122,58
+t0635,Quiet Lanterns,Golden Engines,electronic,0.955,0.368,119,65
+t0636,Northern Lanterns,Golden Engines,electronic,0.975,0.471,139,79
+t0637,Midnight Horizon,Golden Engines,electronic,1,0.681,132,62
+t0638,Dance in Blue,Golden Engines,electronic,0.885,0.688,137,64
+t0639,Distant Shadows,Golden Engines,electronic,1,0.711,133,62
+t0640,Remember Together,Burning Islands,electronic,0.892,0.852,135,18
+t0641,Rise in the Rain,Burning Islands,electronic,0.666,0.774,140,1
+t0642,Lucky Feathers,Burning Islands,electronic,0.592,0.735,130,15
+t0643,Remember Again,Burning Islands,electronic,0.698,0.655,131,5
+t0644,Wake Up in the Rain,Burning Islands,electronic,0.645,0.877,124,14
+t0645,Run Together,Burning Islands,electronic,0.899,0.831,139,17
+t0646,Hollow Horizon,Hollow Circuits,electronic,0.873,0.605,125,6
+t0647,Glow Away,Hollow Circuits,electronic,0.963,0.681,121,13
+t0648,Burning Garden,Hollow Circuits,electronic,0.916,0.716,132,14
+t0649,Quiet Embers,Hollow Circuits,electronic,1,0.781,132,24
+t0650,Dance Together,Hollow Circuits,electronic,0.946,0.735,123,12
+t0651,Dance Like Fire,Hollow Circuits,electronic,0.878,0.643,120,14
+t0652,Distant Thunder,Hollow Circuits,electronic,1,0.561,123,21
+t0653,Run Forever,Hollow Circuits,electronic,1,0.658,136,19
+t0654,Glass Satellites,Broken Horizon,electronic,0.993,0.478,132,11
+t0655,Burn Alone,Broken Horizon,electronic,0.951,0.596,119,1
+t0656,Wait Together,Broken Horizon,electronic,0.814,0.755,129,15
+t0657,Broken Comets,Broken Horizon,electronic,0.825,0.464,134,7
+t0658,Static Mirrors,Broken Horizon,electronic,0.915,0.638,118,12
+t0659,Run Away,Broken Horizon,electronic,0.939,0.683,137,11
+t0660,Rise Tonight,Broken Horizon,electronic,1,0.58,130,1
+t0661,Quiet Highway,Restless Islands,r&b,0.547,0.439,78,1
+t0662,Lucky Horizon,Restless Islands,r&b,0.421,0.492,92,2
+t0663,Breathe Like Fire,Restless Islands,r&b,0.614,0.635,71,12
+t0664,Lonely Harbor,Restless Islands,r&b,0.445,0.706,86,6
+t0665,Fall Slowly,Restless Islands,r&b,0.439,0.809,73,6
+t0666,Drift in Blue,Restless Islands,r&b,0.436,0.543,72,3
+t0667,Run Like Fire,Restless Islands,r&b,0.492,0.392,93,8
+t0668,Broken Highway,Restless Islands,r&b,0.489,0.63,74,17
+t0669,Hold On Back,Restless Islands,r&b,0.567,0.649,91,1
+t0670,Electric Daydreams,Restless Islands,r&b,0.543,0.8,78,10
+t0671,Static Islands,Restless Islands,r&b,0.504,0.59,96,14
+t0672,Wait in the Rain,Restless Islands,r&b,0.656,0.734,82,13
+t0673,Glow Back,Golden Satellites,r&b,0.709,0.476,73,59
+t0674,Hollow Letters,Golden Satellites,r&b,0.551,0.664,74,60
+t0675,Wait Again,Golden Satellites,r&b,0.632,0.594,97,54
+t0676,Hollow Highway,Golden Satellites,r&b,0.594,0.425,88,58
+t0677,Faded Satellites,Golden Satellites,r&b,0.608,0.401,75,49
+t0678,Glow Forever,Golden Satellites,r&b,0.705,0.567,86,47
+t0679,Wander in Blue,Golden Satellites,r&b,0.593,0.416,79,49
+t0680,Glow Tonight,Golden Satellites,r&b,0.638,0.496,86,55
+t0681,Hold On Back,Golden Satellites,r&b,0.564,0.429,84,51
+t0682,Drift at Dawn,Silver Feathers,r&b,0.452,0.261,77,16
+t0683,Run With Me,Silver Feathers,r&b,0.531,0.429,94,1
+t0684,Electric Satellites,Silver Feathers,r&b,0.57,0.397,92,18
+t0685,Burn Away,Silver Feathers,r&b,0.608,0.441,71,1
+t0686,Northern Thunder,Silver Feathers,r&b,0.492,0.361,71,17
+t0687,Silver Echoes,Silver Feathers,r&b,0.515,0.351,85,13
+t0688,Wake Up Together,Silver Feathers,r&b,0.368,0.412,78,9
+t0689,Gentle Signals,Silver Feathers,r&b,0.371,0.31,80,13
+t0690,Broken Mirrors,Silver Feathers,r&b,0.536,0.486,98,4
+t0691,Northern Lanterns,Silver Feathers,r&b,0.551,0.375,79,1
+t0692,Wake Up in Blue,Midnight Lanterns,r&b,0.377,0.64,91,15
+t0693,Distant Harbor,Midnight Lanterns,r&b,0.585,0.579,79,1
+t0694,Golden Highway,Midnight Lanterns,r&b,0.47,0.697,98,10
+t0695,Lonely Circuits,Midnight Lanterns,r&b,0.727,0.684,84,7
+t0696,Come Home Tonight,Midnight Lanterns,r&b,0.574,0.626,80,1
+t0697,Midnight Feathers,Midnight Lanterns,r&b,0.521,0.781,94,1
+t0698,Let Go Like Fire,Electric Signals,r&b,0.354,0.49,71,89
+t0699,Electric Letters,Electric Signals,r&b,0.366,0.348,81,85
+t0700,Static Meadow,Electric Signals,r&b,0.441,0.28,92,79
+t0701,Dance in the Rain,Electric Signals,r&b,0.456,0.627,82,87
+t0702,Run Slowly,Electric Signals,r&b,0.519,0.535,95,77
+t0703,Electric Rivers,Electric Signals,r&b,0.399,0.537,73,99
+t0704,Wake Up Tonight,Electric Signals,r&b,0.266,0.391,92,95
+t0705,Fall Again,Hollow Meadow,r&b,0.553,0.754,98,22
+t0706,Paper Circuits,Hollow Meadow,r&b,0.528,0.77,94,8
+t0707,Let Go in the Rain,Hollow Meadow,r&b,0.636,0.646,80,21
+t0708,Static Tides,Hollow Meadow,r&b,0.641,0.718,81,21
+t0709,Wild Engines,Hollow Meadow,r&b,0.592,0.51,76,14
+t0710,Electric Rivers,Hollow Meadow,r&b,0.552,0.698,84,24
+t0711,Come Home Tonight,Hollow Meadow,r&b,0.63,0.74,89,27
+t0712,Wander Tonight,Hollow Meadow,r&b,0.759,0.567,95,7
+t0713,Fall With Me,Hollow Meadow,r&b,0.386,0.66,89,41
+t0714,Come Home Alone,Hollow Meadow,r&b,0.679,0.438,99,17
+t0715,Let Go Together,Hollow Meadow,r&b,0.634,0.717,73,23
+t0716,Gentle Lanterns,Hollow Meadow,r&b,0.453,0.879,92,32
+t0717,Glow Like Fire,Static Embers,r&b,0.55,0.613,93,47
+t0718,Paper Skyline,Static Embers,r&b,0.521,0.634,93,53
+t0719,Glow Together,Static Embers,r&b,0.483,0.637,82,40
+t0720,Hold On Alone,Static Embers,r&b,0.564,0.77,78,22
+t0721,Stay Tonight,Static Embers,r&b,0.397,0.454,88,36
+t0722,Slow Down in the Rain,Static Embers,r&b,0.416,0.498,88,32
+t0723,Golden Echoes,Static Embers,r&b,0.479,0.7,73,30
+t0724,Run in Blue,Static Embers,r&b,0.457,0.612,93,31
+t0725,Glow Forever,Quiet Engines,r&b,0.547,0.641,74,52
+t0726,Run Like Fire,Quiet Engines,r&b,0.517,0.682,99,52
+t0727,Remember Like Fire,Quiet Engines,r&b,0.23,0.526,78,34
+t0728,Velvet Rivers,Quiet Engines,r&b,0.308,0.593,100,55
+t0729,Paper Harbor,Quiet Engines,r&b,0.509,0.671,78,54
+t0730,Lucky Lanterns,Quiet Engines,r&b,0.451,0.527,76,39
+t0731,Shine Tonight,Quiet Engines,r&b,0.491,0.532,82,50
+t0732,Run in the Rain,Quiet Engines,r&b,0.444,0.618,81,55
+t0733,Shine in Blue,Quiet Engines,r&b,0.563,0.565,82,30
+t0734,Glow Like Fire,Quiet Engines,r&b,0.436,0.667,79,50
+t0735,Frozen Mirrors,Northern Shadows,r&b,0.613,0.781,99,33
+t0736,Quiet Engines,Northern Shadows,r&b,0.588,0.535,74,38
+t0737,Crimson Garden,Northern Shadows,r&b,0.721,0.636,93,17
+t0738,Burn Alone,Northern Shadows,r&b,0.569,0.701,87,45
+t0739,Glow in the Rain,Northern Shadows,r&b,0.788,0.704,93,37
+t0740,Shine Slowly,Northern Shadows,r&b,0.571,0.745,92,29
+t0741,Breathe With Me,Northern Shadows,r&b,0.608,0.752,90,33
+t0742,Distant Feathers,Northern Shadows,r&b,0.595,0.818,91,30
+t0743,Dance Like Fire,Northern Shadows,r&b,0.511,0.807,75,27
+t0744,Remember Slowly,Northern Shadows,r&b,0.635,0.6,94,23
+t0745,Breathe Slowly,Restless Feathers,r&b,0.592,0.818,84,30
+t0746,Glow Again,Restless Feathers,r&b,0.335,0.701,95,21
+t0747,Dance at Dawn,Restless Feathers,r&b,0.462,0.702,94,25
+t0748,Northern Embers,Restless Feathers,r&b,0.532,0.836,94,21
+t0749,Come Home Slowly,Restless Feathers,r&b,0.445,0.722,77,29
+t0750,Neon Mirrors,Restless Feathers,r&b,0.659,0.922,99,30
+t0751,Slow Down Forever,Restless Feathers,r&b,0.493,0.681,74,22
+t0752,Frozen Daydreams,Restless Feathers,r&b,0.593,0.837,99,39
+t0753,Broken Circuits,Restless Feathers,r&b,0.431,0.632,82,22
+t0754,Lucky Highway,Restless Feathers,r&b,0.469,0.814,82,21
+t0755,Electric Shadows,Restless Feathers,r&b,0.381,0.584,77,24
+t0756,Rise for You,Lonely Daydreams,r&b,0.523,0.718,97,6
+t0757,Drift at Dawn,Lonely Daydreams,r&b,0.494,0.665,98,20
+t0758,Fall Like Fire,Lonely Daydreams,r&b,0.586,0.861,85,29
+t0759,Shine Slowly,Lonely Daydreams,r&b,0.489,0.757,70,9
+t0760,Wake Up Back,Lonely Daydreams,r&b,0.681,0.811,74,14
+t0761,Fall in Blue,Lonely Daydreams,r&b,0.487,0.955,74,17
+t0762,Run With Me,Lonely Daydreams,r&b,0.539,0.605,93,10
+t0763,Rise in Blue,Lonely Daydreams,r&b,0.522,0.874,89,30
+t0764,Faded Tides,Lonely Daydreams,r&b,0.534,0.702,90,14
+t0765,Rise Again,Lonely Daydreams,r&b,0.459,0.862,95,20
+t0766,Slow Down Forever,Lonely Daydreams,r&b,0.483,0.843,91,9
+t0767,Wander in the Rain,Lonely Daydreams,r&b,0.477,0.726,84,20
+t0768,Fall Like Fire,Wild Lanterns,r&b,0.565,0.393,83,67
+t0769,Run in Blue,Wild Lanterns,r&b,0.44,0.601,78,58
+t0770,Wake Up in Blue,Wild Lanterns,r&b,0.499,0.248,84,61
+t0771,Breathe Away,Wild Lanterns,r&b,0.604,0.522,86,69
+t0772,Distant Engines,Wild Lanterns,r&b,0.487,0.537,95,77
+t0773,Lonely Horizon,Wild Lanterns,r&b,0.494,0.326,76,69
+t0774,Burn Alone,Wild Lanterns,r&b,0.523,0.505,99,63
+t0775,Shine Again,Midnight Tides,r&b,0.502,0.882,93,80
+t0776,Hold On Slowly,Midnight Tides,r&b,0.407,0.867,80,72
+t0777,Glass Horizon,Midnight Tides,r&b,0.473,0.668,87,66
+t0778,Hold On With Me,Midnight Tides,r&b,0.465,0.724,83,65
+t0779,Breathe for You,Midnight Tides,r&b,0.485,0.717,74,69
+t0780,Hollow Satellites,Midnight Tides,r&b,0.34,0.516,87,72
+t0781,Lucky Embers,Midnight Tides,r&b,0.382,0.739,82,61
+t0782,Slow Down Forever,Midnight Tides,r&b,0.569,0.445,92,71
+t0783,Burn Again,Midnight Tides,r&b,0.288,0.708,73,74
+t0784,Burning Mirrors,Midnight Tides,r&b,0.336,0.826,93,56
+t0785,Broken Garden,Midnight Tides,r&b,0.273,0.646,77,65
+t0786,Glow Slowly,Golden Rivers,r&b,0.424,0.47,91,15
+t0787,Paper Satellites,Golden Rivers,r&b,0.5,0.546,71,8
+t0788,Slow Down Away,Golden Rivers,r&b,0.396,0.553,95,1
+t0789,Lonely Daydreams,Golden Rivers,r&b,0.494,0.661,93,20
+t0790,Sunday Shadows,Golden Rivers,r&b,0.58,0.518,78,6
+t0791,Shine for You,Golden Rivers,r&b,0.434,0.595,90,14
+t0792,Static Mirrors,Golden Rivers,r&b,0.405,0.676,77,1
+t0793,Remember in Blue,Golden Rivers,r&b,0.345,0.562,85,15
+t0794,Wander Like Fire,Golden Rivers,r&b,0.374,0.633,77,8
+t0795,Come Home Together,Golden Rivers,r&b,0.4,0.664,91,1
+t0796,Hold On Tonight,Glass Lanterns,r&b,0.474,0.704,91,19
+t0797,Hollow Satellites,Glass Lanterns,r&b,0.56,0.757,75,21
+t0798,Gentle Comets,Glass Lanterns,r&b,0.702,0.771,97,39
+t0799,Run in the Rain,Glass Lanterns,r&b,0.606,0.653,85,28
+t0800,Northern Rivers,Glass Lanterns,r&b,0.405,0.854,92,32
+t0801,Frozen Echoes,Glass Lanterns,r&b,0.454,0.856,78,31
+t0802,Fall in the Rain,Glass Lanterns,r&b,0.69,0.601,89,25
+t0803,Wild Horizon,Glass Lanterns,r&b,0.657,0.586,84,34
+t0804,Burning Garden,Glass Lanterns,r&b,0.442,0.61,86,21
+t0805,Hollow Engines,Glass Lanterns,r&b,0.48,0.686,88,32
+t0806,Wander Forever,Glass Lanterns,r&b,0.638,0.613,75,35
+t0807,Midnight Tides,Wild Shadows,r&b,0.683,0.501,94,48
+t0808,Stay Again,Wild Shadows,r&b,0.689,0.543,75,49
+t0809,Drift in Blue,Wild Shadows,r&b,0.705,0.68,95,45
+t0810,Hollow Embers,Wild Shadows,r&b,0.69,0.478,90,43
+t0811,Let Go Alone,Wild Shadows,r&b,0.597,0.542,71,53
+t0812,Slow Down Alone,Wild Shadows,r&b,0.835,0.46,90,54
+t0813,Fall With Me,Wild Shadows,r&b,0.605,0.501,99,52
+t0814,Hollow Echoes,Wild Shadows,r&b,0.665,0.397,74,33
+t0815,Glass Tides,Wild Shadows,r&b,0.707,0.463,77,40
+t0816,Hold On Forever,Wild Shadows,r&b,0.669,0.378,71,48
+t0817,Wake Up Back,Frozen Lanterns,r&b,0.535,0.61,81,13
+t0818,Burn for You,Frozen Lanterns,r&b,0.583,0.646,83,36
+t0819,Lonely Horizon,Frozen Lanterns,r&b,0.45,0.881,97,9
+t0820,Golden Skyline,Frozen Lanterns,r&b,0.495,0.6,89,11
+t0821,Breathe Alone,Frozen Lanterns,r&b,0.499,0.704,94,14
+t0822,Stay Back,Frozen Lanterns,r&b,0.418,0.753,78,12
+t0823,Crimson Highway,Crimson Echoes,r&b,0.433,0.557,76,47
+t0824,Sunday Circuits,Crimson Echoes,r&b,0.408,0.605,78,43
+t0825,Static Comets,Crimson Echoes,r&b,0.649,0.436,71,58
+t0826,Wake Up Tonight,Crimson Echoes,r&b,0.523,0.266,73,56
+t0827,Drift Back,Crimson Echoes,r&b,0.564,0.324,92,52
+t0828,Static Signals,Crimson Echoes,r&b,0.412,0.528,80,48
+t0829,Frozen Harbor,Frozen Mirrors,indie,0.312,0.315,96,9
+t0830,Shine Together,Frozen Mirrors,indie,0.51,0.441,124,1
+t0831,Burning Satellites,Frozen Mirrors,indie,0.385,0.579,125,1
+t0832,Run in the Rain,Frozen Mirrors,indie,0.458,0.639,112,17
+t0833,Wild Daydreams,Frozen Mirrors,indie,0.506,0.631,93,17
+t0834,Northern Daydreams,Frozen Mirrors,indie,0.434,0.394,109,18
+t0835,Golden Mirrors,Frozen Mirrors,indie,0.292,0.421,124,6
+t0836,Broken Letters,Frozen Mirrors,indie,0.31,0.334,111,1
+t0837,Northern Lanterns,Frozen Mirrors,indie,0.366,0.342,111,10
+t0838,Midnight Rivers,Frozen Mirrors,indie,0.332,0.33,111,6
+t0839,Neon Embers,Frozen Mirrors,indie,0.476,0.515,96,1
+t0840,Breathe Away,Silver Shadows,indie,0.66,0.498,132,14
+t0841,Wild Skyline,Silver Shadows,indie,0.426,0.437,133,8
+t0842,Let Go Back,Silver Shadows,indie,0.599,0.439,115,9
+t0843,Wander Forever,Silver Shadows,indie,0.544,0.357,98,10
+t0844,Stay for You,Silver Shadows,indie,0.662,0.527,102,4
+t0845,Midnight Signals,Silver Shadows,indie,0.635,0.462,116,12
+t0846,Wander Again,Silver Shadows,indie,0.588,0.513,134,1
+t0847,Wild Satellites,Silver Shadows,indie,0.674,0.525,95,14
+t0848,Golden Comets,Silver Shadows,indie,0.722,0.477,131,1
+t0849,Fall in Blue,Silver Shadows,indie,0.633,0.657,118,1
+t0850,Golden Engines,Silver Shadows,indie,0.577,0.48,122,13
+t0851,Electric Skyline,Wild Islands,indie,0.359,0.339,112,82
+t0852,Let Go in the Rain,Wild Islands,indie,0.44,0.456,111,86
+t0853,Shine for You,Wild Islands,indie,0.568,0.432,115,82
+t0854,Let Go Forever,Wild Islands,indie,0.582,0.68,118,81
+t0855,Restless Comets,Wild Islands,indie,0.548,0.631,99,86
+t0856,Fall Forever,Wild Islands,indie,0.44,0.424,101,81
+t0857,Glow With Me,Sunday Mirrors,indie,0.677,0.463,130,39
+t0858,Wait Back,Sunday Mirrors,indie,0.627,0.54,95,30
+t0859,Neon Feathers,Sunday Mirrors,indie,0.517,0.277,120,26
+t0860,Breathe Slowly,Sunday Mirrors,indie,0.548,0.528,91,12
+t0861,Wait With Me,Sunday Mirrors,indie,0.603,0.451,126,22
+t0862,Drift in the Rain,Sunday Mirrors,indie,0.533,0.39,119,12
+t0863,Breathe in the Rain,Sunday Mirrors,indie,0.567,0.563,95,28
+t0864,Slow Down Tonight,Sunday Mirrors,indie,0.549,0.585,106,11
+t0865,Faded Letters,Sunday Mirrors,indie,0.592,0.707,121,11
+t0866,Dance in the Rain,Sunday Mirrors,indie,0.413,0.612,110,20
+t0867,Gentle Tides,Restless Daydreams,indie,0.481,0.624,126,13
+t0868,Crimson Signals,Restless Daydreams,indie,0.667,0.647,133,6
+t0869,Rise Slowly,Restless Daydreams,indie,0.654,0.494,109,8
+t0870,Midnight Letters,Restless Daydreams,indie,0.647,0.653,102,12
+t0871,Silver Islands,Restless Daydreams,indie,0.643,0.486,129,5
+t0872,Slow Down Back,Restless Daydreams,indie,0.648,0.444,124,34
+t0873,Drift Forever,Restless Daydreams,indie,0.718,0.388,99,11
+t0874,Gentle Meadow,Restless Daydreams,indie,0.561,0.362,104,20
+t0875,Neon Echoes,Restless Daydreams,indie,0.567,0.569,104,18
+t0876,Distant Satellites,Restless Daydreams,indie,0.698,0.649,96,26
+t0877,Wander Tonight,Hollow Skyline,indie,0.81,0.017,96,17
+t0878,Restless Tides,Hollow Skyline,indie,0.701,0.3,123,20
+t0879,Wake Up in Blue,Hollow Skyline,indie,0.643,0.107,102,17
+t0880,Rise in Blue,Hollow Skyline,indie,0.665,0.135,122,36
+t0881,Wild Rivers,Hollow Skyline,indie,0.676,0.301,102,15
+t0882,Wild Shadows,Hollow Skyline,indie,0.747,0.324,125,19
+t0883,Fall Together,Hollow Skyline,indie,0.795,0.376,109,20
+t0884,Gentle Thunder,Hollow Skyline,indie,0.619,0.495,95,18
+t0885,Lonely Harbor,Hollow Skyline,indie,0.699,0.354,96,17
+t0886,Shine Forever,Hollow Skyline,indie,0.632,0.509,121,24
+t0887,Faded Thunder,Hollow Skyline,indie,0.731,0.266,119,29
+t0888,Glow Tonight,Distant Daydreams,indie,0.546,0.558,96,75
+t0889,Stay Slowly,Distant Daydreams,indie,0.707,0.585,122,89
+t0890,Hold On With Me,Distant Daydreams,indie,0.454,0.532,100,90
+t0891,Gentle Shadows,Distant Daydreams,indie,0.402,0.588,104,78
+t0892,Crimson Shadows,Distant Daydreams,indie,0.598,0.602,112,82
+t0893,Burning Embers,Distant Daydreams,indie,0.561,0.605,97,81
+t0894,Broken Lanterns,Distant Daydreams,indie,0.527,0.493,94,94
+t0895,Wild Feathers,Distant Daydreams,indie,0.584,0.655,116,96
+t0896,Restless Garden,Distant Daydreams,indie,0.555,0.493,107,81
+t0897,Come Home in the Rain,Silver Tides,indie,0.445,0.437,101,10
+t0898,Rise Forever,Silver Tides,indie,0.568,0.468,92,6
+t0899,Wake Up in the Rain,Silver Tides,indie,0.541,0.509,110,2
+t0900,Drift Again,Silver Tides,indie,0.537,0.66,113,17
+t0901,Silver Signals,Silver Tides,indie,0.479,0.592,123,11
+t0902,Burning Meadow,Silver Tides,indie,0.41,0.713,104,12
+t0903,Drift in Blue,Silver Tides,indie,0.545,0.351,104,14
+t0904,Broken Meadow,Silver Tides,indie,0.604,0.465,121,12
+t0905,Frozen Harbor,Silver Tides,indie,0.608,0.386,107,13
+t0906,Silver Lanterns,Silver Tides,indie,0.482,0.664,107,5
+t0907,Dance Alone,Silver Tides,indie,0.369,0.349,129,7
+t0908,Sunday Circuits,Burning Lanterns,indie,0.591,0.518,103,14
+t0909,Breathe for You,Burning Lanterns,indie,0.666,0.574,93,3
+t0910,Rise at Dawn,Burning Lanterns,indie,0.435,0.532,126,18
+t0911,Dance at Dawn,Burning Lanterns,indie,0.591,0.351,97,13
+t0912,Burn Again,Burning Lanterns,indie,0.461,0.559,109,17
+t0913,Dance for You,Burning Lanterns,indie,0.659,0.369,96,2
+t0914,Broken Shadows,Burning Lanterns,indie,0.649,0.631,109,5
+t0915,Dance Again,Electric Comets,indie,0.433,0.768,123,1
+t0916,Golden Horizon,Electric Comets,indie,0.506,0.753,103,21
+t0917,Sunday Engines,Electric Comets,indie,0.558,0.657,110,4
+t0918,Golden Tides,Electric Comets,indie,0.592,0.801,92,12
+t0919,Breathe Away,Electric Comets,indie,0.66,0.795,133,1
+t0920,Burning Daydreams,Electric Comets,indie,0.459,0.843,108,25
+t0921,Hold On Tonight,Electric Comets,indie,0.442,0.506,110,22
+t0922,Glass Signals,Electric Comets,indie,0.515,0.817,133,1
+t0923,Shine Alone,Electric Comets,indie,0.338,0.884,105,22
+t0924,Breathe at Dawn,Electric Comets,indie,0.55,0.829,119,1
+t0925,Wake Up Back,Electric Comets,indie,0.367,0.723,100,1
+t0926,Wander Away,Electric Comets,indie,0.566,0.685,97,13
+t0927,Fall in Blue,Silver Lanterns,indie,0.601,0.262,126,19
+t0928,Quiet Embers,Silver Lanterns,indie,0.478,0.465,101,22
+t0929,Faded Harbor,Silver Lanterns,indie,0.495,0.407,111,14
+t0930,Shine With Me,Silver Lanterns,indie,0.386,0.557,93,31
+t0931,Silver Rivers,Silver Lanterns,indie,0.501,0.339,134,44
+t0932,Frozen Letters,Silver Lanterns,indie,0.43,0.429,107,21
+t0933,Silver Shadows,Silver Lanterns,indie,0.472,0.403,120,27
+t0934,Lonely Comets,Silver Lanterns,indie,0.588,0.526,101,16
+t0935,Glow in the Rain,Silver Lanterns,indie,0.399,0.492,126,16
+t0936,Burn at Dawn,Silver Lanterns,indie,0.635,0.419,132,21
+t0937,Rise With Me,Silver Lanterns,indie,0.469,0.437,108,31
+t0938,Slow Down for You,Glass Circuits,indie,0.594,0.508,123,28
+t0939,Golden Signals,Glass Circuits,indie,0.578,0.642,104,31
+t0940,Shine Like Fire,Glass Circuits,indie,0.602,0.536,124,36
+t0941,Let Go in the Rain,Glass Circuits,indie,0.721,0.64,129,33
+t0942,Paper Highway,Glass Circuits,indie,0.674,0.72,95,30
+t0943,Fall Tonight,Glass Circuits,indie,0.54,0.694,120,35
+t0944,Wait Away,Glass Circuits,indie,0.389,0.605,107,32
+t0945,Breathe Tonight,Glass Circuits,indie,0.554,0.435,119,25
+t0946,Glow Tonight,Glass Circuits,indie,0.632,0.496,130,39
+t0947,Dance Tonight,Glass Circuits,indie,0.64,0.744,129,25
+t0948,Dance Together,Glass Circuits,indie,0.489,0.67,104,37
+t0949,Sunday Meadow,Crimson Shadows,indie,0.569,0.466,96,3
+t0950,Faded Signals,Crimson Shadows,indie,0.605,0.66,132,13
+t0951,Distant Horizon,Crimson Shadows,indie,0.328,0.519,114,13
+t0952,Static Feathers,Crimson Shadows,indie,0.439,0.654,113,3
+t0953,Shine Again,Crimson Shadows,indie,0.365,0.522,121,3
+t0954,Fall Forever,Crimson Shadows,indie,0.342,0.616,102,27
+t0955,Wild Shadows,Crimson Shadows,indie,0.537,0.428,132,9
+t0956,Electric Harbor,Crimson Shadows,indie,0.475,0.576,118,20
+t0957,Glow Again,Crimson Shadows,indie,0.394,0.667,129,3
+t0958,Burn Tonight,Crimson Shadows,indie,0.574,0.469,122,9
+t0959,Glass Letters,Crimson Shadows,indie,0.469,0.592,104,12
+t0960,Let Go at Dawn,Frozen Meadow,indie,0.499,0.413,92,2
+t0961,Run Like Fire,Frozen Meadow,indie,0.678,0.657,130,5
+t0962,Dance Again,Frozen Meadow,indie,0.448,0.545,93,10
+t0963,Gentle Feathers,Frozen Meadow,indie,0.597,0.595,105,1
+t0964,Drift Together,Frozen Meadow,indie,0.607,0.62,116,4
+t0965,Quiet Engines,Frozen Meadow,indie,0.785,0.52,103,1
+t0966,Midnight Lanterns,Frozen Meadow,indie,0.614,0.533,90,4
+t0967,Sunday Meadow,Frozen Meadow,indie,0.521,0.392,115,1
+t0968,Golden Engines,Frozen Meadow,indie,0.716,0.373,127,5
+t0969,Rise at Dawn,Paper Rivers,indie,0.704,0.637,95,3
+t0970,Breathe Alone,Paper Rivers,indie,0.489,0.598,91,10
+t0971,Let Go Alone,Paper Rivers,indie,0.446,0.513,105,1
+t0972,Breathe Like Fire,Paper Rivers,indie,0.532,0.544,118,2
+t0973,Velvet Highway,Paper Rivers,indie,0.467,0.447,115,1
+t0974,Glow at Dawn,Paper Rivers,indie,0.533,0.384,91,9
+t0975,Run for You,Paper Rivers,indie,0.538,0.351,121,8
+t0976,Fall in the Rain,Paper Rivers,indie,0.675,0.361,117,17
+t0977,Wild Skyline,Paper Rivers,indie,0.586,0.435,92,17
+t0978,Northern Highway,Frozen Satellites,indie,0.254,0.597,131,56
+t0979,Fall Together,Frozen Satellites,indie,0.473,0.81,131,51
+t0980,Come Home Tonight,Frozen Satellites,indie,0.432,0.45,109,63
+t0981,Sunday Echoes,Frozen Satellites,indie,0.346,0.389,105,72
+t0982,Frozen Harbor,Frozen Satellites,indie,0.421,0.48,104,70
+t0983,Glass Engines,Frozen Satellites,indie,0.289,0.743,118,69
+t0984,Wake Up Together,Frozen Satellites,indie,0.496,0.729,112,65
+t0985,Remember Again,Frozen Satellites,indie,0.494,0.461,115,59
+t0986,Hold On Alone,Gentle Daydreams,indie,0.614,0.441,106,62
+t0987,Drift Like Fire,Gentle Daydreams,indie,0.533,0.663,91,63
+t0988,Distant Echoes,Gentle Daydreams,indie,0.511,0.309,122,53
+t0989,Fall Back,Gentle Daydreams,indie,0.447,0.411,128,77
+t0990,Broken Engines,Gentle Daydreams,indie,0.55,0.427,122,52
+t0991,Wander in Blue,Gentle Daydreams,indie,0.558,0.364,90,62
+t0992,Fall Together,Gentle Daydreams,indie,0.532,0.37,108,61
+t0993,Wake Up Like Fire,Gentle Daydreams,indie,0.585,0.418,111,62
+t0994,Glow Together,Gentle Daydreams,indie,0.657,0.427,132,67
+t0995,Slow Down Again,Gentle Daydreams,indie,0.708,0.273,91,52
+t0996,Lonely Lanterns,Lonely Engines,indie,0.38,0.595,132,25
+t0997,Run Slowly,Lonely Engines,indie,0.429,0.741,134,20
+t0998,Hollow Engines,Lonely Engines,indie,0.46,0.642,118,31
+t0999,Broken Feathers,Lonely Engines,indie,0.295,0.609,114,25
+t1000,Fall at Dawn,Lonely Engines,indie,0.209,0.462,124,29
+t1001,Restless Echoes,Lonely Engines,indie,0.286,0.644,114,28
+t1002,Glow for You,Lonely Engines,indie,0.392,0.581,119,17
+t1003,Lonely Satellites,Midnight Echoes,folk,0.173,0.492,119,7
+t1004,Hold On With Me,Midnight Echoes,folk,0.404,0.384,110,24
+t1005,Wild Harbor,Midnight Echoes,folk,0.33,0.676,110,12
+t1006,Wake Up Together,Midnight Echoes,folk,0.491,0.331,105,7
+t1007,Wild Daydreams,Midnight Echoes,folk,0.285,0.544,106,15
+t1008,Sunday Engines,Midnight Echoes,folk,0.49,0.458,109,7
+t1009,Rise for You,Midnight Echoes,folk,0.283,0.551,101,27
+t1010,Shine Back,Midnight Echoes,folk,0.241,0.605,115,8
+t1011,Silver Engines,Midnight Echoes,folk,0.468,0.498,95,14
+t1012,Stay Alone,Midnight Echoes,folk,0.343,0.437,84,2
+t1013,Northern Tides,Midnight Echoes,folk,0.381,0.529,104,29
+t1014,Paper Comets,Midnight Echoes,folk,0.281,0.606,89,4
+t1015,Let Go Alone,Burning Horizon,folk,0.429,0.663,81,15
+t1016,Restless Signals,Burning Horizon,folk,0.364,0.702,84,3
+t1017,Neon Echoes,Burning Horizon,folk,0.315,0.804,86,5
+t1018,Electric Feathers,Burning Horizon,folk,0.295,0.754,112,6
+t1019,Hollow Islands,Burning Horizon,folk,0.206,0.778,111,1
+t1020,Lonely Skyline,Burning Horizon,folk,0.435,0.815,114,2
+t1021,Gentle Engines,Burning Horizon,folk,0.325,0.737,100,9
+t1022,Neon Signals,Burning Horizon,folk,0.288,0.815,115,16
+t1023,Glow Like Fire,Burning Horizon,folk,0.368,0.734,90,18
+t1024,Restless Rivers,Burning Horizon,folk,0.331,0.739,81,19
+t1025,Lonely Echoes,Burning Horizon,folk,0.168,0.798,90,1
+t1026,Shine Like Fire,Burning Horizon,folk,0.324,0.517,102,1
+t1027,Burning Shadows,Silver Harbor,folk,0.329,0.455,83,82
+t1028,Hollow Shadows,Silver Harbor,folk,0.36,0.659,90,76
+t1029,Wander Back,Silver Harbor,folk,0.314,0.415,82,77
+t1030,Burning Mirrors,Silver Harbor,folk,0.331,0.778,95,63
+t1031,Wait With Me,Silver Harbor,folk,0.301,0.431,99,68
+t1032,Shine Tonight,Silver Harbor,folk,0.354,0.669,80,71
+t1033,Stay for You,Gentle Meadow,folk,0.459,0.585,113,13
+t1034,Dance for You,Gentle Meadow,folk,0.334,0.431,118,1
+t1035,Lucky Circuits,Gentle Meadow,folk,0.215,0.567,119,25
+t1036,Wake Up Together,Gentle Meadow,folk,0.373,0.573,103,14
+t1037,Stay Forever,Gentle Meadow,folk,0.41,0.555,108,7
+t1038,Burning Comets,Gentle Meadow,folk,0.408,0.368,93,7
+t1039,Hollow Islands,Gentle Meadow,folk,0.488,0.609,98,21
+t1040,Lonely Lanterns,Gentle Meadow,folk,0.489,0.355,118,12
+t1041,Wait Back,Gentle Meadow,folk,0.433,0.585,83,18
+t1042,Lucky Lanterns,Gentle Meadow,folk,0.476,0.47,81,14
+t1043,Distant Orchard,Faded Orchard,folk,0.384,0.667,109,30
+t1044,Hold On Alone,Faded Orchard,folk,0.44,0.75,111,23
+t1045,Drift Again,Faded Orchard,folk,0.402,0.512,105,16
+t1046,Rise Slowly,Faded Orchard,folk,0.345,0.54,114,46
+t1047,Shine Slowly,Faded Orchard,folk,0.47,0.666,103,39
+t1048,Drift at Dawn,Faded Orchard,folk,0.416,0.688,110,18
+t1049,Gentle Satellites,Faded Orchard,folk,0.446,0.596,110,40
+t1050,Silver Skyline,Faded Orchard,folk,0.431,0.662,95,31
+t1051,Lucky Harbor,Faded Orchard,folk,0.471,0.586,103,45
+t1052,Wait in the Rain,Faded Orchard,folk,0.327,0.57,86,26
+t1053,Rise in the Rain,Faded Orchard,folk,0.303,0.787,109,25
+t1054,Dance Slowly,Frozen Signals,folk,0.408,0.352,109,64
+t1055,Sunday Rivers,Frozen Signals,folk,0.28,0.465,87,63
+t1056,Lonely Lanterns,Frozen Signals,folk,0.417,0.448,108,51
+t1057,Wake Up in the Rain,Frozen Signals,folk,0.449,0.381,83,36
+t1058,Dance Alone,Frozen Signals,folk,0.469,0.491,83,46
+t1059,Hold On Like Fire,Frozen Signals,folk,0.418,0.388,99,43
+t1060,Hollow Highway,Frozen Signals,folk,0.5,0.423,116,45
+t1061,Drift at Dawn,Frozen Signals,folk,0.404,0.477,90,47
+t1062,Hold On Tonight,Frozen Signals,folk,0.474,0.361,87,58
+t1063,Run Away,Restless Tides,folk,0.275,0.412,100,6
+t1064,Wake Up in Blue,Restless Tides,folk,0.452,0.568,112,4
+t1065,Drift Together,Restless Tides,folk,0.287,0.304,120,3
+t1066,Gentle Echoes,Restless Tides,folk,0.142,0.528,98,1
+t1067,Electric Tides,Restless Tides,folk,0.424,0.645,98,1
+t1068,Wake Up Tonight,Restless Tides,folk,0.46,0.501,107,1
+t1069,Shine in Blue,Restless Tides,folk,0.232,0.743,115,5
+t1070,Lucky Horizon,Restless Tides,folk,0.365,0.656,80,19
+t1071,Electric Horizon,Restless Tides,folk,0.347,0.688,102,13
+t1072,Stay for You,Restless Tides,folk,0.245,0.53,83,14
+t1073,Let Go Back,Crimson Lanterns,folk,0.176,0.616,92,17
+t1074,Static Circuits,Crimson Lanterns,folk,0.13,0.7,116,20
+t1075,Let Go Forever,Crimson Lanterns,folk,0.266,0.553,98,36
+t1076,Crimson Thunder,Crimson Lanterns,folk,0.295,0.506,102,17
+t1077,Crimson Feathers,Crimson Lanterns,folk,0.324,0.694,81,18
+t1078,Shine Tonight,Crimson Lanterns,folk,0.152,0.688,97,17
+t1079,Crimson Circuits,Crimson Lanterns,folk,0.123,0.504,105,26
+t1080,Lucky Mirrors,Crimson Lanterns,folk,0.348,0.575,95,22
+t1081,Glow With Me,Crimson Lanterns,folk,0.238,0.663,116,9
+t1082,Let Go for You,Hollow Shadows,folk,0.3,0.237,98,20
+t1083,Northern Skyline,Hollow Shadows,folk,0.127,0.273,116,23
+t1084,Run Back,Hollow Shadows,folk,0.033,0.229,108,31
+t1085,Burning Garden,Hollow Shadows,folk,0.236,0.089,92,26
+t1086,Static Tides,Hollow Shadows,folk,0.089,0.315,104,36
+t1087,Sunday Satellites,Hollow Shadows,folk,0.004,0.203,88,20
+t1088,Wake Up Back,Hollow Shadows,folk,0.168,0.4,84,21
+t1089,Midnight Engines,Hollow Shadows,folk,0.172,0.273,98,34
+t1090,Remember Like Fire,Hollow Shadows,folk,0.054,0.388,99,26
+t1091,Shine Slowly,Hollow Shadows,folk,0,0.364,88,25
+t1092,Glass Highway,Hollow Shadows,folk,0.14,0.428,107,31
+t1093,Drift Slowly,Hollow Shadows,folk,0.126,0.228,98,41
+t1094,Silver Lanterns,Gentle Tides,folk,0.363,0.385,115,75
+t1095,Let Go Tonight,Gentle Tides,folk,0.366,0.299,111,79
+t1096,Gentle Harbor,Gentle Tides,folk,0.322,0.499,118,62
+t1097,Static Horizon,Gentle Tides,folk,0.261,0.307,108,68
+t1098,Quiet Skyline,Gentle Tides,folk,0.299,0.423,100,84
+t1099,Wake Up Tonight,Gentle Tides,folk,0.484,0.248,118,83
+t1100,Velvet Signals,Gentle Tides,folk,0.501,0.316,97,89
+t1101,Golden Echoes,Gentle Tides,folk,0.397,0.3,97,78
+t1102,Static Islands,Gentle Tides,folk,0.312,0.249,90,55
+t1103,Wander Forever,Gentle Tides,folk,0.22,0.353,93,86
+t1104,Quiet Shadows,Gentle Tides,folk,0.477,0.326,112,66
+t1105,Run at Dawn,Golden Meadow,folk,0.423,0.458,99,45
+t1106,Frozen Thunder,Golden Meadow,folk,0.368,0.594,84,54
+t1107,Burn Slowly,Golden Meadow,folk,0.372,0.512,109,55
+t1108,Crimson Lanterns,Golden Meadow,folk,0.493,0.564,107,65
+t1109,Lucky Harbor,Golden Meadow,folk,0.373,0.541,106,69
+t1110,Frozen Comets,Golden Meadow,folk,0.395,0.666,105,47
+t1111,Fall at Dawn,Golden Meadow,folk,0.328,0.439,95,74
+t1112,Silver Islands,Velvet Horizon,folk,0.476,0.75,91,15
+t1113,Silver Circuits,Velvet Horizon,folk,0.38,0.683,109,33
+t1114,Glow With Me,Velvet Horizon,folk,0.394,0.55,120,9
+t1115,Hold On Back,Velvet Horizon,folk,0.396,0.702,97,34
+t1116,Burn at Dawn,Velvet Horizon,folk,0.483,0.719,95,7
+t1117,Broken Orchard,Velvet Horizon,folk,0.411,0.789,84,7
+t1118,Restless Skyline,Velvet Horizon,folk,0.313,0.547,120,1
+t1119,Midnight Skyline,Velvet Horizon,folk,0.29,0.734,100,10
+t1120,Hold On at Dawn,Velvet Horizon,folk,0.352,0.504,88,19
+t1121,Restless Echoes,Velvet Horizon,folk,0.319,0.591,103,6
+t1122,Gentle Horizon,Velvet Horizon,folk,0.292,0.661,88,11
+t1123,Wait Alone,Crimson Garden,folk,0.351,0.447,112,32
+t1124,Burning Satellites,Crimson Garden,folk,0.417,0.651,97,28
+t1125,Wait Forever,Crimson Garden,folk,0.358,0.617,110,28
+t1126,Electric Lanterns,Crimson Garden,folk,0.294,0.435,89,21
+t1127,Silver Embers,Crimson Garden,folk,0.339,0.624,106,36
+t1128,Lonely Islands,Crimson Garden,folk,0.401,0.65,115,32
+t1129,Lonely Daydreams,Neon Meadow,folk,0.299,0.534,102,55
+t1130,Burn Together,Neon Meadow,folk,0.255,0.375,114,66
+t1131,Shine Back,Neon Meadow,folk,0.322,0.22,110,70
+t1132,Restless Engines,Neon Meadow,folk,0.231,0.329,105,59
+t1133,Neon Islands,Neon Meadow,folk,0.196,0.325,95,46
+t1134,Silver Daydreams,Neon Meadow,folk,0.34,0.424,80,67
+t1135,Quiet Mirrors,Neon Meadow,folk,0.419,0.147,96,46
+t1136,Slow Down in Blue,Neon Meadow,folk,0.284,0.285,100,61
+t1137,Shine Away,Neon Meadow,folk,0.254,0.401,105,70
+t1138,Wake Up for You,Neon Meadow,folk,0.21,0.382,117,59
+t1139,Slow Down Away,Neon Meadow,folk,0.318,0.335,97,52
+t1140,Glow Slowly,Golden Mirrors,folk,0.407,0.302,97,17
+t1141,Breathe for You,Golden Mirrors,folk,0.496,0.355,94,1
+t1142,Wander Away,Golden Mirrors,folk,0.387,0.394,111,5
+t1143,Rise in Blue,Golden Mirrors,folk,0.413,0.275,83,10
+t1144,Silver Rivers,Golden Mirrors,folk,0.453,0.389,90,18
+t1145,Lucky Feathers,Golden Mirrors,folk,0.395,0.245,111,15
+t1146,Come Home in the Rain,Golden Mirrors,folk,0.375,0.177,88,1
+t1147,Hold On Alone,Golden Mirrors,folk,0.535,0.381,112,10
+t1148,Stay Like Fire,Golden Mirrors,folk,0.477,0.435,108,8
+t1149,Burn Away,Golden Mirrors,folk,0.452,0.522,87,1
+t1150,Glow With Me,Quiet Thunder,folk,0.364,0.437,114,21
+t1151,Breathe Like Fire,Quiet Thunder,folk,0.494,0.524,82,46
+t1152,Frozen Orchard,Quiet Thunder,folk,0.469,0.575,92,32
+t1153,Glow in the Rain,Quiet Thunder,folk,0.361,0.646,120,31
+t1154,Hollow Shadows,Quiet Thunder,folk,0.476,0.494,80,33
+t1155,Quiet Engines,Quiet Thunder,folk,0.478,0.627,107,19
+t1156,Faded Lanterns,Quiet Thunder,folk,0.425,0.632,101,37
+t1157,Slow Down Together,Quiet Thunder,folk,0.512,0.592,117,39
+t1158,Wait Tonight,Crimson Thunder,folk,0.508,0.487,108,75
+t1159,Broken Signals,Crimson Thunder,folk,0.54,0.583,115,74
+t1160,Distant Islands,Crimson Thunder,folk,0.425,0.432,99,73
+t1161,Shine With Me,Crimson Thunder,folk,0.482,0.376,81,66
+t1162,Shine Forever,Crimson Thunder,folk,0.572,0.284,119,72
+t1163,Come Home at Dawn,Crimson Thunder,folk,0.347,0.332,84,78
+t1164,Electric Lanterns,Crimson Thunder,folk,0.431,0.532,104,60
+t1165,Drift Tonight,Northern Signals,folk,0.439,0.443,99,27
+t1166,Paper Tides,Northern Signals,folk,0.394,0.639,95,39
+t1167,Slow Down Together,Northern Signals,folk,0.273,0.59,109,37
+t1168,Faded Feathers,Northern Signals,folk,0.374,0.462,118,15
+t1169,Broken Embers,Northern Signals,folk,0.332,0.577,105,23
+t1170,Quiet Feathers,Northern Signals,folk,0.285,0.532,102,35
+t1171,Fall in the Rain,Northern Signals,folk,0.336,0.568,102,29
+t1172,Midnight Lanterns,Northern Signals,folk,0.349,0.396,82,33
+t1173,Golden Garden,Northern Signals,folk,0.264,0.596,89,27
+t1174,Glow Forever,Northern Signals,folk,0.252,0.514,84,44
+t1175,Wander With Me,Northern Signals,folk,0.478,0.457,86,39
+t1176,Shine Together,Northern Signals,folk,0.496,0.597,105,24
+t1177,Silver Horizon,Sunday Harbor,jazz,0.324,0.397,98,94
+t1178,Hollow Tides,Sunday Harbor,jazz,0.233,0.13,119,78
+t1179,Let Go in Blue,Sunday Harbor,jazz,0.098,0.474,109,67
+t1180,Stay Together,Sunday Harbor,jazz,0.272,0.393,148,91
+t1181,Glow Tonight,Sunday Harbor,jazz,0.154,0.553,139,95
+t1182,Glow at Dawn,Sunday Harbor,jazz,0.296,0.35,122,80
+t1183,Electric Skyline,Sunday Harbor,jazz,0.158,0.415,122,98
+t1184,Lonely Horizon,Sunday Harbor,jazz,0.349,0.4,127,81
+t1185,Northern Daydreams,Gentle Islands,jazz,0.229,0.309,119,1
+t1186,Golden Mirrors,Gentle Islands,jazz,0.449,0.351,82,2
+t1187,Northern Horizon,Gentle Islands,jazz,0.311,0.253,100,8
+t1188,Run Back,Gentle Islands,jazz,0.15,0.3,77,12
+t1189,Crimson Garden,Gentle Islands,jazz,0.4,0.395,87,32
+t1190,Wild Rivers,Gentle Islands,jazz,0.323,0.451,158,1
+t1191,Let Go Together,Gentle Islands,jazz,0.184,0.342,98,1
+t1192,Crimson Mirrors,Gentle Islands,jazz,0.206,0.24,107,7
+t1193,Lonely Meadow,Gentle Islands,jazz,0.4,0.314,108,14
+t1194,Gentle Meadow,Gentle Islands,jazz,0.305,0.374,72,11
+t1195,Drift Like Fire,Wild Feathers,jazz,0.343,0.477,99,12
+t1196,Northern Highway,Wild Feathers,jazz,0.53,0.314,120,1
+t1197,Distant Lanterns,Wild Feathers,jazz,0.432,0.347,141,1
+t1198,Golden Daydreams,Wild Feathers,jazz,0.366,0.494,122,1
+t1199,Stay Together,Wild Feathers,jazz,0.483,0.486,133,8
+t1200,Lonely Garden,Wild Feathers,jazz,0.332,0.669,74,1
+t1201,Glow Back,Wild Feathers,jazz,0.458,0.611,95,10
+t1202,Lonely Harbor,Wild Feathers,jazz,0.529,0.4,100,1
+t1203,Dance Slowly,Broken Shadows,jazz,0.341,0.397,140,4
+t1204,Velvet Highway,Broken Shadows,jazz,0.3,0.449,159,18
+t1205,Come Home at Dawn,Broken Shadows,jazz,0.458,0.285,98,13
+t1206,Hold On Together,Broken Shadows,jazz,0.323,0.489,122,25
+t1207,Glow in the Rain,Broken Shadows,jazz,0.234,0.461,91,31
+t1208,Gentle Tides,Broken Shadows,jazz,0.417,0.412,149,4
+t1209,Restless Highway,Broken Shadows,jazz,0.442,0.475,140,1
+t1210,Glow Like Fire,Broken Shadows,jazz,0.319,0.465,75,1
+t1211,Broken Embers,Broken Shadows,jazz,0.336,0.551,135,9
+t1212,Wake Up in Blue,Broken Shadows,jazz,0.39,0.531,115,4
+t1213,Midnight Daydreams,Distant Thunder,jazz,0.557,0.472,122,7
+t1214,Frozen Islands,Distant Thunder,jazz,0.544,0.634,76,2
+t1215,Quiet Echoes,Distant Thunder,jazz,0.421,0.646,114,1
+t1216,Neon Daydreams,Distant Thunder,jazz,0.412,0.718,155,7
+t1217,Slow Down Back,Distant Thunder,jazz,0.434,0.61,132,1
+t1218,Wake Up Tonight,Distant Thunder,jazz,0.47,0.584,130,17
+t1219,Glass Mirrors,Distant Thunder,jazz,0.38,0.61,141,10
+t1220,Quiet Letters,Distant Thunder,jazz,0.517,0.501,123,2
+t1221,Wander at Dawn,Distant Thunder,jazz,0.448,0.452,129,1
+t1222,Glow in Blue,Distant Thunder,jazz,0.477,0.364,88,17
+t1223,Lucky Echoes,Distant Thunder,jazz,0.477,0.482,108,8
+t1224,Stay at Dawn,Distant Thunder,jazz,0.422,0.604,102,16
+t1225,Fall Away,Velvet Satellites,jazz,0.383,0.794,148,2
+t1226,Velvet Thunder,Velvet Satellites,jazz,0.29,0.659,147,3
+t1227,Wake Up for You,Velvet Satellites,jazz,0.407,0.551,95,5
+t1228,Wild Rivers,Velvet Satellites,jazz,0.413,0.625,122,2
+t1229,Let Go Away,Velvet Satellites,jazz,0.387,0.818,126,18
+t1230,Fall in Blue,Velvet Satellites,jazz,0.295,0.748,92,13
+t1231,Glass Signals,Velvet Satellites,jazz,0.406,0.594,102,5
+t1232,Midnight Mirrors,Velvet Satellites,jazz,0.393,0.683,76,6
+t1233,Hollow Echoes,Silver Islands,jazz,0.271,0.386,87,14
+t1234,Wait Alone,Silver Islands,jazz,0.408,0.382,85,1
+t1235,Breathe at Dawn,Silver Islands,jazz,0.439,0.227,116,8
+t1236,Lonely Echoes,Silver Islands,jazz,0.353,0.493,150,13
+t1237,Electric Letters,Silver Islands,jazz,0.58,0.45,83,11
+t1238,Rise Again,Silver Islands,jazz,0.455,0.313,86,4
+t1239,Glow Forever,Silver Islands,jazz,0.268,0.465,159,1
+t1240,Burning Harbor,Silver Islands,jazz,0.281,0.358,93,4
+t1241,Hollow Engines,Glass Feathers,jazz,0.42,0.591,96,11
+t1242,Glass Satellites,Glass Feathers,jazz,0.294,0.523,117,11
+t1243,Stay Like Fire,Glass Feathers,jazz,0.314,0.545,139,3
+t1244,Glow Forever,Glass Feathers,jazz,0.308,0.479,92,4
+t1245,Run in the Rain,Glass Feathers,jazz,0.271,0.548,78,9
+t1246,Neon Feathers,Glass Feathers,jazz,0.406,0.425,135,1
+t1247,Dance With Me,Glass Feathers,jazz,0.471,0.408,95,1
+t1248,Hold On Like Fire,Glass Feathers,jazz,0.356,0.504,80,11
+t1249,Burn Together,Glass Feathers,jazz,0.484,0.506,97,11
+t1250,Gentle Tides,Glass Feathers,jazz,0.267,0.4,124,17
+t1251,Burn Slowly,Glass Feathers,jazz,0.301,0.515,82,15
+t1252,Rise at Dawn,Glass Feathers,jazz,0.381,0.45,94,1
+t1253,Run Again,Northern Harbor,jazz,0.402,0.528,158,24
+t1254,Neon Skyline,Northern Harbor,jazz,0.425,0.558,153,30
+t1255,Electric Lanterns,Northern Harbor,jazz,0.421,0.595,110,15
+t1256,Northern Embers,Northern Harbor,jazz,0.207,0.421,148,20
+t1257,Crimson Lanterns,Northern Harbor,jazz,0.405,0.382,147,12
+t1258,Distant Lanterns,Northern Harbor,jazz,0.33,0.505,124,4
+t1259,Come Home Like Fire,Northern Harbor,jazz,0.488,0.569,155,21
+t1260,Distant Signals,Northern Harbor,jazz,0.291,0.371,105,21
+t1261,Burning Lanterns,Northern Harbor,jazz,0.31,0.581,106,28
+t1262,Burn Like Fire,Northern Harbor,jazz,0.375,0.643,130,26
+t1263,Quiet Echoes,Lonely Signals,jazz,0.502,0.567,85,44
+t1264,Static Thunder,Lonely Signals,jazz,0.413,0.577,72,63
+t1265,Neon Embers,Lonely Signals,jazz,0.411,0.562,119,72
+t1266,Quiet Mirrors,Lonely Signals,jazz,0.414,0.611,145,74
+t1267,Frozen Mirrors,Lonely Signals,jazz,0.449,0.577,124,73
+t1268,Breathe Together,Lonely Signals,jazz,0.505,0.791,104,65
+t1269,Remember With Me,Lonely Signals,jazz,0.339,0.574,78,52
+t1270,Neon Comets,Lonely Signals,jazz,0.411,0.709,84,65
+t1271,Burning Harbor,Lonely Signals,jazz,0.597,0.706,133,68
+t1272,Slow Down With Me,Northern Lanterns,jazz,0.349,0.714,85,45
+t1273,Lonely Islands,Northern Lanterns,jazz,0.39,0.52,81,72
+t1274,Wander Alone,Northern Lanterns,jazz,0.404,0.565,85,56
+t1275,Sunday Thunder,Northern Lanterns,jazz,0.479,0.644,82,52
+t1276,Rise in Blue,Northern Lanterns,jazz,0.342,0.876,79,68
+t1277,Come Home Tonight,Northern Lanterns,jazz,0.374,0.836,134,59
+t1278,Wander Together,Northern Lanterns,jazz,0.623,0.811,160,48
+t1279,Shine Away,Northern Lanterns,jazz,0.356,0.815,140,54
+t1280,Breathe Slowly,Northern Lanterns,jazz,0.44,0.643,159,59
+t1281,Wander in the Rain,Northern Lanterns,jazz,0.455,0.635,159,73
+t1282,Faded Signals,Northern Lanterns,jazz,0.431,0.757,112,48
+t1283,Golden Garden,Northern Lanterns,jazz,0.447,0.696,70,58
+t1284,Drift Alone,Golden Embers,jazz,0.584,0.682,137,65
+t1285,Drift Again,Golden Embers,jazz,0.43,0.49,85,44
+t1286,Frozen Signals,Golden Embers,jazz,0.574,0.442,103,63
+t1287,Wait Back,Golden Embers,jazz,0.542,0.386,79,48
+t1288,Stay With Me,Golden Embers,jazz,0.429,0.421,90,39
+t1289,Lucky Highway,Golden Embers,jazz,0.436,0.461,84,50
+t1290,Come Home at Dawn,Golden Embers,jazz,0.473,0.367,72,60
+t1291,Distant Orchard,Golden Embers,jazz,0.584,0.516,159,54
+t1292,Neon Islands,Golden Embers,jazz,0.52,0.413,72,57
+t1293,Slow Down Again,Golden Embers,jazz,0.439,0.378,105,48
+t1294,Stay Slowly,Paper Letters,jazz,0.236,0.424,95,34
+t1295,Burning Horizon,Paper Letters,jazz,0.275,0.404,138,30
+t1296,Rise at Dawn,Paper Letters,jazz,0.458,0.445,70,26
+t1297,Lonely Signals,Paper Letters,jazz,0.371,0.478,83,18
+t1298,Midnight Harbor,Paper Letters,jazz,0.31,0.579,125,22
+t1299,Static Highway,Paper Letters,jazz,0.15,0.729,78,14
+t1300,Burning Feathers,Static Orchard,jazz,0.469,0.481,95,6
+t1301,Neon Orchard,Static Orchard,jazz,0.426,0.396,159,10
+t1302,Quiet Embers,Static Orchard,jazz,0.413,0.448,76,2
+t1303,Shine for You,Static Orchard,jazz,0.39,0.272,135,1
+t1304,Lonely Horizon,Static Orchard,jazz,0.409,0.332,103,14
+t1305,Burning Echoes,Static Orchard,jazz,0.44,0.564,119,7
+t1306,Dance in Blue,Static Orchard,jazz,0.432,0.25,88,14
+t1307,Wait in Blue,Static Orchard,jazz,0.459,0.415,106,7
+t1308,Let Go Forever,Static Orchard,jazz,0.453,0.505,137,1
+t1309,Wait Alone,Hollow Highway,jazz,0.659,0.408,112,12
+t1310,Electric Skyline,Hollow Highway,jazz,0.314,0.584,93,17
+t1311,Gentle Echoes,Hollow Highway,jazz,0.467,0.536,99,11
+t1312,Come Home Forever,Hollow Highway,jazz,0.486,0.484,114,31
+t1313,Static Skyline,Hollow Highway,jazz,0.379,0.526,105,6
+t1314,Remember Forever,Hollow Highway,jazz,0.456,0.532,138,8
+t1315,Breathe Together,Hollow Highway,jazz,0.564,0.583,119,19
+t1316,Come Home Away,Hollow Highway,jazz,0.422,0.724,130,5
+t1317,Quiet Harbor,Hollow Highway,jazz,0.432,0.603,119,13
+t1318,Sunday Lanterns,Hollow Highway,jazz,0.495,0.495,83,12
+t1319,Wait Slowly,Neon Thunder,jazz,0.575,0.366,85,82
+t1320,Glow for You,Neon Thunder,jazz,0.456,0.579,138,96
+t1321,Electric Daydreams,Neon Thunder,jazz,0.321,0.411,158,97
+t1322,Run in Blue,Neon Thunder,jazz,0.298,0.411,132,97
+t1323,Quiet Horizon,Neon Thunder,jazz,0.335,0.415,114,99
+t1324,Run Forever,Neon Thunder,jazz,0.328,0.351,122,86
+t1325,Paper Feathers,Lucky Engines,jazz,0.392,0.732,109,62
+t1326,Run Slowly,Lucky Engines,jazz,0.446,0.419,90,53
+t1327,Wild Mirrors,Lucky Engines,jazz,0.349,0.356,70,65
+t1328,Hold On Away,Lucky Engines,jazz,0.423,0.55,133,62
+t1329,Static Highway,Lucky Engines,jazz,0.409,0.659,98,66
+t1330,Wander Like Fire,Lucky Engines,jazz,0.395,0.543,136,65
+t1331,Hold On at Dawn,Lucky Engines,jazz,0.5,0.257,132,70
+t1332,Shine Tonight,Lucky Engines,jazz,0.478,0.543,155,61
+t1333,Velvet Letters,Hollow Lanterns,jazz,0.453,0.701,119,57
+t1334,Come Home Like Fire,Hollow Lanterns,jazz,0.305,0.439,91,57
+t1335,Let Go Alone,Hollow Lanterns,jazz,0.403,0.782,79,47
+t1336,Hollow Daydreams,Hollow Lanterns,jazz,0.382,0.454,126,57
+t1337,Hollow Highway,Hollow Lanterns,jazz,0.382,0.539,141,47
+t1338,Dance Alone,Hollow Lanterns,jazz,0.363,0.578,131,42
+t1339,Stay Alone,Hollow Lanterns,jazz,0.475,0.713,132,43
+t1340,Northern Tides,Hollow Lanterns,jazz,0.305,0.616,142,47
+t1341,Hold On Away,Hollow Lanterns,jazz,0.491,0.488,143,41
+t1342,Slow Down for You,Hollow Lanterns,jazz,0.359,0.617,155,51
+t1343,Lucky Meadow,Hollow Lanterns,jazz,0.358,0.734,127,54
+t1344,Restless Meadow,Northern Garden,classical,0.021,0.404,105,18
+t1345,Hold On With Me,Northern Garden,classical,0.097,0.426,95,1
+t1346,Stay Again,Northern Garden,classical,0.07,0.485,63,1
+t1347,Midnight Rivers,Northern Garden,classical,0.126,0.3,64,8
+t1348,Lonely Satellites,Northern Garden,classical,0.194,0.514,93,1
+t1349,Wild Signals,Northern Garden,classical,0.154,0.219,96,9
+t1350,Electric Daydreams,Quiet Garden,classical,0.13,0.286,106,15
+t1351,Dance With Me,Quiet Garden,classical,0.23,0.175,110,14
+t1352,Remember in Blue,Quiet Garden,classical,0.213,0.196,92,24
+t1353,Stay at Dawn,Quiet Garden,classical,0.205,0.239,81,14
+t1354,Frozen Thunder,Quiet Garden,classical,0.181,0.277,90,1
+t1355,Shine for You,Quiet Garden,classical,0.178,0.345,97,19
+t1356,Lucky Meadow,Quiet Garden,classical,0.393,0.364,88,7
+t1357,Burn at Dawn,Quiet Garden,classical,0.14,0.45,115,28
+t1358,Let Go Tonight,Quiet Garden,classical,0.244,0.389,85,16
+t1359,Stay Like Fire,Quiet Garden,classical,0.225,0.31,71,9
+t1360,Rise Tonight,Quiet Garden,classical,0.197,0.34,100,18
+t1361,Burning Feathers,Silver Horizon,classical,0.18,0.574,111,11
+t1362,Neon Shadows,Silver Horizon,classical,0,0.527,95,1
+t1363,Breathe Like Fire,Silver Horizon,classical,0,0.513,109,8
+t1364,Hollow Tides,Silver Horizon,classical,0.092,0.384,104,19
+t1365,Faded Satellites,Silver Horizon,classical,0.099,0.379,64,1
+t1366,Stay Forever,Silver Horizon,classical,0.158,0.384,72,5
+t1367,Quiet Shadows,Silver Horizon,classical,0.089,0.28,68,3
+t1368,Drift Together,Silver Horizon,classical,0.055,0.421,112,4
+t1369,Glow Again,Silver Horizon,classical,0.134,0.513,108,1
+t1370,Wake Up in the Rain,Silver Horizon,classical,0,0.547,114,1
+t1371,Lonely Echoes,Silver Horizon,classical,0.174,0.311,66,12
+t1372,Quiet Circuits,Golden Garden,classical,0.269,0.264,68,20
+t1373,Distant Circuits,Golden Garden,classical,0.308,0.309,66,10
+t1374,Shine Alone,Golden Garden,classical,0.32,0.198,69,1
+t1375,Rise in Blue,Golden Garden,classical,0.068,0.252,83,8
+t1376,Hold On With Me,Golden Garden,classical,0.296,0.493,83,1
+t1377,Run Forever,Golden Garden,classical,0.132,0.477,79,11
+t1378,Golden Thunder,Golden Garden,classical,0.206,0.332,84,1
+t1379,Fall Alone,Golden Garden,classical,0.393,0.38,73,22
+t1380,Frozen Daydreams,Golden Garden,classical,0.14,0.286,70,8
+t1381,Quiet Engines,Golden Garden,classical,0.31,0.368,102,15
+t1382,Wild Meadow,Golden Garden,classical,0.295,0.172,87,1
+t1383,Burn Slowly,Golden Garden,classical,0.232,0.265,88,21
+t1384,Lonely Engines,Static Circuits,classical,0.234,0.218,117,1
+t1385,Drift Back,Static Circuits,classical,0.078,0.19,76,11
+t1386,Come Home Tonight,Static Circuits,classical,0.168,0.303,82,11
+t1387,Dance With Me,Static Circuits,classical,0.211,0.185,108,1
+t1388,Faded Satellites,Static Circuits,classical,0.13,0.091,71,10
+t1389,Let Go Forever,Static Circuits,classical,0.174,0.114,85,11
+t1390,Velvet Mirrors,Static Circuits,classical,0.264,0.312,99,3
+t1391,Electric Orchard,Static Circuits,classical,0.332,0.368,84,1
+t1392,Neon Embers,Static Circuits,classical,0.081,0.495,79,5
+t1393,Golden Embers,Sunday Shadows,classical,0.203,0,100,87
+t1394,Static Letters,Sunday Shadows,classical,0.199,0.186,102,77
+t1395,Wake Up Alone,Sunday Shadows,classical,0.269,0.124,80,78
+t1396,Burn Slowly,Sunday Shadows,classical,0.206,0.199,95,68
+t1397,Broken Thunder,Sunday Shadows,classical,0.155,0.204,76,76
+t1398,Restless Shadows,Sunday Shadows,classical,0.012,0.186,118,78
+t1399,Slow Down for You,Sunday Shadows,classical,0.126,0.039,92,85
+t1400,Frozen Islands,Sunday Shadows,classical,0.306,0.339,120,82
+t1401,Shine for You,Sunday Shadows,classical,0.044,0.141,87,70
+t1402,Come Home Tonight,Sunday Shadows,classical,0.116,0.174,74,71
+t1403,Silver Echoes,Sunday Shadows,classical,0.218,0.175,65,66
+t1404,Burn Away,Sunday Shadows,classical,0.235,0.142,85,60
+t1405,Dance Together,Crimson Comets,classical,0.41,0.352,65,44
+t1406,Broken Echoes,Crimson Comets,classical,0.235,0.398,109,49
+t1407,Frozen Skyline,Crimson Comets,classical,0.364,0.275,109,37
+t1408,Stay in Blue,Crimson Comets,classical,0.358,0.322,66,52
+t1409,Wait Back,Crimson Comets,classical,0.338,0.297,99,53
+t1410,Wander for You,Crimson Comets,classical,0.414,0.481,98,42
+t1411,Glow Back,Lucky Echoes,classical,0.036,0.552,70,3
+t1412,Breathe Back,Lucky Echoes,classical,0.017,0.558,119,31
+t1413,Drift at Dawn,Lucky Echoes,classical,0.23,0.336,83,27
+t1414,Glow Away,Lucky Echoes,classical,0.115,0.545,86,14
+t1415,Glow for You,Lucky Echoes,classical,0.286,0.445,93,18
+t1416,Fall Back,Lucky Echoes,classical,0.356,0.394,67,6
+t1417,Rise With Me,Static Rivers,classical,0.312,0.244,69,3
+t1418,Broken Lanterns,Static Rivers,classical,0.326,0.393,96,14
+t1419,Paper Engines,Static Rivers,classical,0.217,0.335,81,1
+t1420,Glass Letters,Static Rivers,classical,0.124,0.34,94,24
+t1421,Wait Slowly,Static Rivers,classical,0.196,0.244,86,3
+t1422,Drift Tonight,Static Rivers,classical,0.294,0.398,114,6
+t1423,Shine Away,Static Rivers,classical,0.351,0.209,73,27
+t1424,Rise in Blue,Static Rivers,classical,0.348,0.365,96,22
+t1425,Golden Letters,Static Rivers,classical,0.383,0.355,96,17
+t1426,Lonely Letters,Static Rivers,classical,0.278,0.118,102,14
+t1427,Velvet Mirrors,Static Rivers,classical,0.353,0.298,101,1
+t1428,Remember Away,Distant Meadow,classical,0.249,0.532,79,17
+t1429,Sunday Lanterns,Distant Meadow,classical,0.236,0.468,116,1
+t1430,Run in the Rain,Distant Meadow,classical,0.122,0.391,80,1
+t1431,Wander for You,Distant Meadow,classical,0.168,0.357,63,3
+t1432,Distant Thunder,Distant Meadow,classical,0.166,0.353,65,17
+t1433,Distant Mirrors,Distant Meadow,classical,0.064,0.429,84,20
+t1434,Midnight Engines,Distant Meadow,classical,0.164,0.448,96,8
+t1435,Static Orchard,Glass Echoes,classical,0.148,0.331,79,11
+t1436,Lucky Islands,Glass Echoes,classical,0.211,0.361,117,3
+t1437,Lucky Tides,Glass Echoes,classical,0.3,0.537,105,7
+t1438,Shine Like Fire,Glass Echoes,classical,0.103,0.34,86,9
+t1439,Let Go Forever,Glass Echoes,classical,0.198,0.398,93,10
+t1440,Come Home Tonight,Glass Echoes,classical,0.167,0.235,108,16
+t1441,Hollow Embers,Glass Echoes,classical,0.181,0.243,118,6
+t1442,Breathe Like Fire,Glass Echoes,classical,0.105,0.351,84,25
+t1443,Let Go at Dawn,Glass Echoes,classical,0.11,0.353,117,1
+t1444,Shine Slowly,Northern Meadow,classical,0.414,0.386,77,26
+t1445,Lucky Islands,Northern Meadow,classical,0.293,0.6,79,28
+t1446,Breathe Together,Northern Meadow,classical,0.218,0.505,97,34
+t1447,Sunday Islands,Northern Meadow,classical,0.117,0.457,68,47
+t1448,Fall Tonight,Northern Meadow,classical,0.304,0.532,112,27
+t1449,Crimson Satellites,Northern Meadow,classical,0.248,0.204,72,42
+t1450,Breathe Away,Northern Meadow,classical,0.239,0.417,106,30
+t1451,Broken Engines,Northern Meadow,classical,0.074,0.52,83,38
+t1452,Come Home Forever,Faded Thunder,classical,0.262,0.369,90,41
+t1453,Static Comets,Faded Thunder,classical,0.28,0.359,77,36
+t1454,Burning Horizon,Faded Thunder,classical,0.352,0.386,83,60
+t1455,Faded Circuits,Faded Thunder,classical,0.206,0.326,113,46
+t1456,Midnight Thunder,Faded Thunder,classical,0.258,0.232,80,50
+t1457,Sunday Thunder,Faded Thunder,classical,0.322,0.113,106,60
+t1458,Gentle Meadow,Faded Thunder,classical,0.361,0.397,65,48
+t1459,Burn With Me,Glass Shadows,classical,0,0.467,90,11
+t1460,Burn for You,Glass Shadows,classical,0.15,0.427,88,24
+t1461,Drift in Blue,Glass Shadows,classical,0,0.411,85,16
+t1462,Lonely Lanterns,Glass Shadows,classical,0.063,0.57,82,15
+t1463,Wander Slowly,Glass Shadows,classical,0.012,0.521,69,6
+t1464,Stay Away,Glass Shadows,classical,0,0.645,60,4
+t1465,Hold On Like Fire,Glass Shadows,classical,0,0.385,79,22
+t1466,Burn Forever,Glass Shadows,classical,0.07,0.448,77,22
+t1467,Wait Again,Glass Shadows,classical,0.192,0.47,115,17
+t1468,Faded Orchard,Glass Shadows,classical,0.117,0.369,113,10
+t1469,Paper Meadow,Glass Shadows,classical,0.036,0.595,94,15
+t1470,Wait Slowly,Glass Shadows,classical,0,0.622,118,15
+t1471,Let Go Again,Velvet Feathers,classical,0.148,0.43,83,24
+t1472,Gentle Islands,Velvet Feathers,classical,0.111,0.296,77,53
+t1473,Midnight Echoes,Velvet Feathers,classical,0.163,0.498,115,36
+t1474,Let Go Back,Velvet Feathers,classical,0,0.552,95,31
+t1475,Dance Again,Velvet Feathers,classical,0.055,0.354,71,27
+t1476,Crimson Letters,Velvet Feathers,classical,0.085,0.407,63,37
+t1477,Lonely Signals,Velvet Feathers,classical,0.087,0.425,83,29
+t1478,Burn in the Rain,Velvet Feathers,classical,0.003,0.391,67,28
+t1479,Paper Comets,Velvet Feathers,classical,0.093,0.406,112,44
+t1480,Wander Tonight,Velvet Feathers,classical,0.167,0.364,63,32
+t1481,Sunday Rivers,Distant Islands,classical,0.281,0.623,112,26
+t1482,Neon Echoes,Distant Islands,classical,0.151,0.526,64,39
+t1483,Glow Alone,Distant Islands,classical,0.164,0.718,88,25
+t1484,Breathe With Me,Distant Islands,classical,0.372,0.339,94,31
+t1485,Glass Meadow,Distant Islands,classical,0.219,0.572,98,20
+t1486,Fall Tonight,Distant Islands,classical,0.259,0.676,93,27
+t1487,Stay in Blue,Distant Islands,classical,0.111,0.472,111,24
+t1488,Wait in Blue,Distant Islands,classical,0.225,0.731,106,34
+t1489,Distant Shadows,Distant Islands,classical,0.323,0.491,72,32
+t1490,Frozen Islands,Distant Islands,classical,0.317,0.69,74,20
+t1491,Slow Down at Dawn,Silver Circuits,classical,0.17,0.028,79,56
+t1492,Broken Horizon,Silver Circuits,classical,0.022,0.087,87,63
+t1493,Wake Up Back,Silver Circuits,classical,0.057,0.026,64,49
+t1494,Wait With Me,Silver Circuits,classical,0.168,0.357,61,53
+t1495,Paper Meadow,Silver Circuits,classical,0.06,0.167,73,69
+t1496,Golden Circuits,Silver Circuits,classical,0.01,0,113,44
+t1497,Remember Tonight,Silver Circuits,classical,0,0.053,97,28
+t1498,Fall Together,Velvet Signals,classical,0.082,0.19,108,31
+t1499,Fall at Dawn,Velvet Signals,classical,0.254,0.437,76,19
+t1500,Drift Alone,Velvet Signals,classical,0.11,0.263,64,20
+t1501,Quiet Daydreams,Velvet Signals,classical,0.332,0.171,86,35
+t1502,Faded Lanterns,Velvet Signals,classical,0.05,0.326,104,24
+t1503,Glass Comets,Velvet Signals,classical,0.248,0.54,85,21
+t1504,Crimson Embers,Velvet Signals,classical,0.26,0.366,96,18
+t1505,Silver Meadow,Velvet Signals,classical,0.135,0.125,101,43
+t1506,Rise Tonight,Velvet Signals,classical,0.082,0.407,79,42
+t1507,Crimson Comets,Velvet Signals,classical,0.176,0.42,119,25
+t1508,Stay Like Fire,Lonely Satellites,metal,0.885,0.286,149,14
+t1509,Slow Down for You,Lonely Satellites,metal,0.855,0.443,130,21
+t1510,Golden Signals,Lonely Satellites,metal,1,0.255,171,13
+t1511,Let Go With Me,Lonely Satellites,metal,0.824,0.31,131,1
+t1512,Restless Islands,Lonely Satellites,metal,0.897,0.204,146,9
+t1513,Glass Tides,Lonely Satellites,metal,0.99,0.299,166,1
+t1514,Static Signals,Lonely Satellites,metal,0.902,0.224,151,5
+t1515,Stay Alone,Lonely Satellites,metal,1,0.28,127,16
+t1516,Sunday Harbor,Lonely Satellites,metal,0.858,0.179,151,1
+t1517,Lonely Rivers,Lonely Satellites,metal,0.915,0.132,150,1
+t1518,Lonely Satellites,Lonely Satellites,metal,0.813,0.315,131,2
+t1519,Midnight Signals,Lonely Satellites,metal,1,0.353,148,13
+t1520,Run in Blue,Neon Garden,metal,0.845,0.255,173,71
+t1521,Northern Meadow,Neon Garden,metal,0.836,0.456,149,51
+t1522,Faded Satellites,Neon Garden,metal,0.862,0.366,145,68
+t1523,Let Go Tonight,Neon Garden,metal,0.735,0.292,163,61
+t1524,Velvet Tides,Neon Garden,metal,0.867,0.365,150,63
+t1525,Static Skyline,Neon Garden,metal,0.761,0.445,158,47
+t1526,Sunday Feathers,Neon Garden,metal,0.863,0.33,137,66
+t1527,Wild Islands,Neon Garden,metal,0.801,0.268,175,56
+t1528,Northern Rivers,Neon Garden,metal,0.739,0.439,174,70
+t1529,Glow Back,Neon Garden,metal,0.878,0.418,134,60
+t1530,Breathe Forever,Neon Garden,metal,0.722,0.359,133,54
+t1531,Hold On in the Rain,Neon Garden,metal,0.905,0.396,150,66
+t1532,Neon Comets,Paper Echoes,metal,1,0.214,152,29
+t1533,Burning Satellites,Paper Echoes,metal,0.833,0.072,171,42
+t1534,Wake Up Together,Paper Echoes,metal,0.978,0.183,138,39
+t1535,Neon Signals,Paper Echoes,metal,1,0.143,174,42
+t1536,Static Garden,Paper Echoes,metal,0.925,0.229,180,46
+t1537,Wait Away,Paper Echoes,metal,1,0.081,134,32
+t1538,Burn Like Fire,Faded Rivers,metal,0.976,0,153,3
+t1539,Restless Letters,Faded Rivers,metal,0.922,0,140,17
+t1540,Glass Shadows,Faded Rivers,metal,1,0.117,139,3
+t1541,Lonely Letters,Faded Rivers,metal,1,0,152,17
+t1542,Wake Up Away,Faded Rivers,metal,0.914,0.161,149,21
+t1543,Wake Up Together,Faded Rivers,metal,0.994,0,169,1
+t1544,Silver Engines,Faded Rivers,metal,0.947,0.186,133,17
+t1545,Lucky Meadow,Faded Rivers,metal,0.916,0,139,13
+t1546,Let Go Again,Faded Rivers,metal,0.896,0,175,13
+t1547,Run for You,Wild Satellites,metal,1,0.213,132,14
+t1548,Gentle Thunder,Wild Satellites,metal,0.993,0.205,146,18
+t1549,Shine Alone,Wild Satellites,metal,0.899,0.106,133,20
+t1550,Silver Rivers,Wild Satellites,metal,0.863,0.075,158,2
+t1551,Come Home Forever,Wild Satellites,metal,1,0.14,171,6
+t1552,Wild Harbor,Wild Satellites,metal,0.818,0.057,156,25
+t1553,Quiet Satellites,Wild Satellites,metal,0.913,0.266,136,4
+t1554,Lucky Orchard,Wild Satellites,metal,0.9,0.219,124,7
+t1555,Frozen Tides,Wild Satellites,metal,0.873,0.236,139,17
+t1556,Neon Embers,Crimson Orchard,metal,0.765,0.439,161,13
+t1557,Let Go Back,Crimson Orchard,metal,0.791,0.294,134,5
+t1558,Electric Satellites,Crimson Orchard,metal,0.681,0.28,167,17
+t1559,Hollow Daydreams,Crimson Orchard,metal,0.932,0.338,132,18
+t1560,Breathe Forever,Crimson Orchard,metal,0.92,0.253,179,4
+t1561,Static Lanterns,Crimson Orchard,metal,0.871,0.375,123,7
+t1562,Shine Again,Crimson Orchard,metal,0.79,0.2,134,20
+t1563,Velvet Orchard,Broken Highway,metal,1,0.123,163,89
+t1564,Midnight Comets,Broken Highway,metal,1,0.062,174,75
+t1565,Fall Forever,Broken Highway,metal,1,0,171,87
+t1566,Neon Echoes,Broken Highway,metal,0.906,0,179,80
+t1567,Burn Like Fire,Broken Highway,metal,1,0.024,130,77
+t1568,Hold On Away,Broken Highway,metal,1,0.111,144,69
+t1569,Broken Feathers,Sunday Embers,metal,0.941,0.176,122,1
+t1570,Stay Forever,Sunday Embers,metal,0.946,0.297,139,6
+t1571,Neon Meadow,Sunday Embers,metal,1,0.119,150,8
+t1572,Northern Shadows,Sunday Embers,metal,0.956,0.243,128,1
+t1573,Glass Horizon,Sunday Embers,metal,0.863,0.263,132,15
+t1574,Come Home Like Fire,Sunday Embers,metal,1,0.159,141,4
+t1575,Faded Shadows,Sunday Embers,metal,0.965,0.226,139,5
+t1576,Glow Slowly,Sunday Embers,metal,1,0.268,128,15
+t1577,Silver Tides,Sunday Embers,metal,0.915,0.284,141,16
+t1578,Hold On Tonight,Sunday Embers,metal,0.952,0.18,177,1
+t1579,Neon Letters,Sunday Embers,metal,0.853,0.37,177,3
+t1580,Dance Back,Sunday Embers,metal,0.908,0.198,160,1
+t1581,Glass Comets,Hollow Horizon,metal,0.84,0.334,171,16
+t1582,Lucky Harbor,Hollow Horizon,metal,0.974,0.302,133,5
+t1583,Dance Forever,Hollow Horizon,metal,1,0.262,177,1
+t1584,Frozen Daydreams,Hollow Horizon,metal,0.99,0.238,157,5
+t1585,Come Home Together,Hollow Horizon,metal,0.822,0.319,168,1
+t1586,Glass Embers,Hollow Horizon,metal,0.74,0.14,165,1
+t1587,Come Home Slowly,Hollow Horizon,metal,0.979,0.391,155,4
+t1588,Burning Lanterns,Sunday Skyline,metal,0.772,0.271,123,79
+t1589,Gentle Mirrors,Sunday Skyline,metal,0.821,0,176,95
+t1590,Wake Up Forever,Sunday Skyline,metal,1,0.092,169,72
+t1591,Lucky Highway,Sunday Skyline,metal,0.943,0.168,172,80
+t1592,Hold On Forever,Sunday Skyline,metal,0.842,0.047,166,70
+t1593,Come Home Back,Sunday Skyline,metal,1,0.11,139,67
+t1594,Hollow Thunder,Sunday Skyline,metal,0.779,0.161,128,80
+t1595,Northern Satellites,Midnight Letters,metal,0.73,0.282,164,76
+t1596,Electric Comets,Midnight Letters,metal,0.752,0.176,133,94
+t1597,Remember in the Rain,Midnight Letters,metal,0.958,0.45,136,78
+t1598,Stay in the Rain,Midnight Letters,metal,0.794,0.309,135,84
+t1599,Wander in Blue,Midnight Letters,metal,0.909,0.165,140,82
+t1600,Velvet Signals,Midnight Letters,metal,0.91,0.166,161,81
+t1601,Static Lanterns,Midnight Letters,metal,0.807,0.225,144,86
+t1602,Fall Together,Midnight Letters,metal,0.867,0.259,141,88
+t1603,Breathe With Me,Midnight Letters,metal,0.876,0.344,138,69
+t1604,Shine in the Rain,Midnight Letters,metal,0.758,0.233,166,97
+t1605,Hollow Harbor,Lucky Islands,metal,1,0.295,143,5
+t1606,Run at Dawn,Lucky Islands,metal,1,0.628,176,15
+t1607,Paper Meadow,Lucky Islands,metal,1,0.329,137,16
+t1608,Lonely Letters,Lucky Islands,metal,1,0.396,133,2
+t1609,Hollow Rivers,Lucky Islands,metal,1,0.383,146,9
+t1610,Silver Thunder,Lucky Islands,metal,1,0.376,123,6
+t1611,Rise Away,Lucky Islands,metal,0.986,0.241,154,13
+t1612,Broken Skyline,Lucky Islands,metal,1,0.493,122,7
+t1613,Dance Again,Lucky Islands,metal,1,0.413,120,10
+t1614,Come Home Back,Lucky Islands,metal,1,0.568,168,10
+t1615,Slow Down at Dawn,Midnight Satellites,metal,1,0.428,177,35
+t1616,Burn Alone,Midnight Satellites,metal,1,0.086,139,44
+t1617,Electric Rivers,Midnight Satellites,metal,0.908,0.288,136,34
+t1618,Silver Shadows,Midnight Satellites,metal,1,0.223,154,38
+t1619,Lonely Rivers,Midnight Satellites,metal,0.938,0.347,132,38
+t1620,Wander for You,Midnight Satellites,metal,1,0.06,156,53
+t1621,Wake Up Alone,Midnight Satellites,metal,0.926,0.159,127,37
+t1622,Static Letters,Midnight Satellites,metal,0.972,0.345,143,50
+t1623,Fall Back,Midnight Satellites,metal,0.962,0.234,158,49
+t1624,Breathe at Dawn,Midnight Satellites,metal,1,0.168,158,36
+t1625,Wake Up in Blue,Midnight Satellites,metal,1,0.151,142,38
+t1626,Hollow Mirrors,Lonely Echoes,metal,0.979,0.267,148,51
+t1627,Lonely Satellites,Lonely Echoes,metal,0.739,0.491,168,53
+t1628,Distant Embers,Lonely Echoes,metal,0.916,0.254,163,60
+t1629,Drift at Dawn,Lonely Echoes,metal,0.691,0.36,137,63
+t1630,Electric Comets,Lonely Echoes,metal,0.952,0.241,158,53
+t1631,Run Like Fire,Lonely Echoes,metal,0.772,0.151,175,63
+t1632,Stay at Dawn,Lonely Echoes,metal,0.794,0.371,151,61
+t1633,Rise for You,Lonely Echoes,metal,0.879,0.372,159,68
+t1634,Wander Like Fire,Lonely Echoes,metal,0.833,0.34,136,71
+t1635,Neon Skyline,Lonely Echoes,metal,0.929,0.41,156,47
+t1636,Electric Letters,Wild Horizon,metal,1,0.109,139,13
+t1637,Faded Meadow,Wild Horizon,metal,0.974,0.292,150,1
+t1638,Restless Mirrors,Wild Horizon,metal,0.875,0.191,141,12
+t1639,Faded Horizon,Wild Horizon,metal,0.993,0.172,137,8
+t1640,Wait With Me,Wild Horizon,metal,0.98,0.143,139,6
+t1641,Wake Up With Me,Wild Horizon,metal,1,0.174,152,12
+t1642,Neon Orchard,Wild Horizon,metal,0.889,0.018,147,8
+t1643,Rise Back,Silver Comets,metal,1,0.087,180,1
+t1644,Hollow Daydreams,Silver Comets,metal,1,0.357,179,1
+t1645,Distant Tides,Silver Comets,metal,0.874,0.072,150,11
+t1646,Drift Slowly,Silver Comets,metal,0.977,0.146,156,9
+t1647,Sunday Meadow,Silver Comets,metal,0.94,0.179,156,12
+t1648,Midnight Harbor,Silver Comets,metal,0.947,0.167,120,6
+t1649,Silver Tides,Silver Comets,metal,0.983,0.125,126,6
+t1650,Wake Up in Blue,Silver Comets,metal,0.894,0.078,153,4
+t1651,Rise Forever,Paper Lanterns,metal,1,0.499,157,1
+t1652,Northern Satellites,Paper Lanterns,metal,1,0.233,135,8
+t1653,Come Home at Dawn,Paper Lanterns,metal,1,0.243,146,1
+t1654,Midnight Harbor,Paper Lanterns,metal,1,0.243,169,1
+t1655,Wake Up Again,Paper Lanterns,metal,1,0.457,168,13
+t1656,Sunday Comets,Paper Lanterns,metal,1,0.343,174,16
+t1657,Drift Again,Paper Lanterns,metal,1,0.246,176,8
+t1658,Glow at Dawn,Paper Lanterns,metal,1,0.665,177,4
+t1659,Run in Blue,Northern Highway,metal,0.788,0.395,147,76
+t1660,Fall Forever,Northern Highway,metal,1,0.46,176,68
+t1661,Glass Letters,Northern Highway,metal,0.961,0.427,176,75
+t1662,Wake Up Slowly,Northern Highway,metal,0.953,0.288,158,72
+t1663,Faded Orchard,Northern Highway,metal,0.934,0.226,154,86
+t1664,Dance With Me,Northern Highway,metal,0.952,0.274,158,80
+t1665,Hollow Signals,Northern Highway,metal,0.836,0.349,134,71
+t1666,Quiet Signals,Northern Highway,metal,0.91,0.344,165,78
+t1667,Run Tonight,Northern Highway,metal,0.866,0.133,134,64
+t1668,Run Forever,Northern Highway,metal,1,0.31,172,79
+t1669,Slow Down Slowly,Paper Highway,latin,0.797,0.934,97,1
+t1670,Wild Signals,Paper Highway,latin,0.759,0.755,98,9
+t1671,Lonely Orchard,Paper Highway,latin,0.753,0.87,110,12
+t1672,Let Go Slowly,Paper Highway,latin,0.744,0.646,103,4
+t1673,Wake Up at Dawn,Paper Highway,latin,0.861,0.948,113,14
+t1674,Stay Tonight,Paper Highway,latin,0.923,0.861,102,14
+t1675,Dance in Blue,Paper Highway,latin,0.888,0.747,112,1
+t1676,Golden Echoes,Paper Highway,latin,0.823,0.751,101,1
+t1677,Restless Garden,Paper Highway,latin,0.801,0.85,103,1
+t1678,Silver Circuits,Paper Highway,latin,0.891,0.874,109,7
+t1679,Dance Tonight,Distant Lanterns,latin,0.503,0.959,90,16
+t1680,Glow for You,Distant Lanterns,latin,0.644,0.741,99,1
+t1681,Frozen Daydreams,Distant Lanterns,latin,0.384,1,95,2
+t1682,Lucky Horizon,Distant Lanterns,latin,0.647,0.757,93,1
+t1683,Wait Together,Distant Lanterns,latin,0.557,0.756,106,28
+t1684,Golden Signals,Distant Lanterns,latin,0.546,0.662,102,2
+t1685,Let Go Tonight,Distant Lanterns,latin,0.647,0.941,101,17
+t1686,Broken Engines,Distant Lanterns,latin,0.439,0.882,105,7
+t1687,Glass Feathers,Distant Lanterns,latin,0.689,0.725,105,3
+t1688,Burning Signals,Distant Lanterns,latin,0.581,0.795,115,30
+t1689,Drift in the Rain,Distant Lanterns,latin,0.527,0.838,104,1
+t1690,Drift Again,Static Highway,latin,0.831,0.772,96,4
+t1691,Golden Meadow,Static Highway,latin,0.837,0.773,100,1
+t1692,Golden Rivers,Static Highway,latin,0.776,0.894,91,12
+t1693,Northern Garden,Static Highway,latin,0.653,0.881,111,14
+t1694,Lonely Feathers,Static Highway,latin,0.724,0.849,98,25
+t1695,Come Home Back,Static Highway,latin,0.75,0.836,102,9
+t1696,Electric Meadow,Hollow Islands,latin,0.893,0.852,109,73
+t1697,Breathe Together,Hollow Islands,latin,0.829,0.824,113,67
+t1698,Electric Feathers,Hollow Islands,latin,0.833,1,104,61
+t1699,Neon Signals,Hollow Islands,latin,0.975,0.941,92,48
+t1700,Let Go Forever,Hollow Islands,latin,0.903,0.989,110,59
+t1701,Remember Back,Hollow Islands,latin,0.816,0.801,106,67
+t1702,Velvet Rivers,Northern Comets,latin,0.773,0.732,111,50
+t1703,Distant Embers,Northern Comets,latin,0.792,0.863,105,43
+t1704,Slow Down Alone,Northern Comets,latin,0.839,0.667,106,38
+t1705,Midnight Feathers,Northern Comets,latin,0.734,0.623,106,48
+t1706,Electric Horizon,Northern Comets,latin,0.853,0.829,100,44
+t1707,Breathe at Dawn,Northern Comets,latin,0.83,0.514,99,44
+t1708,Shine Tonight,Northern Comets,latin,0.896,0.601,114,32
+t1709,Run for You,Northern Comets,latin,0.771,0.695,107,31
+t1710,Electric Harbor,Glass Harbor,latin,0.804,0.608,95,11
+t1711,Remember for You,Glass Harbor,latin,0.657,0.596,108,1
+t1712,Hold On Slowly,Glass Harbor,latin,0.769,0.529,96,26
+t1713,Gentle Tides,Glass Harbor,latin,0.869,0.581,108,6
+t1714,Faded Orchard,Glass Harbor,latin,0.811,0.598,101,8
+t1715,Burn With Me,Glass Harbor,latin,0.803,0.744,110,1
+t1716,Paper Skyline,Glass Harbor,latin,0.629,0.728,98,1
+t1717,Golden Embers,Glass Harbor,latin,0.726,0.54,91,1
+t1718,Run Forever,Glass Harbor,latin,0.643,0.586,91,17
+t1719,Silver Highway,Glass Harbor,latin,0.829,0.431,108,8
+t1720,Velvet Satellites,Neon Signals,latin,0.637,0.8,95,58
+t1721,Midnight Harbor,Neon Signals,latin,0.695,0.675,114,45
+t1722,Golden Horizon,Neon Signals,latin,0.844,0.549,103,70
+t1723,Neon Comets,Neon Signals,latin,0.699,0.807,98,49
+t1724,Hollow Circuits,Neon Signals,latin,0.585,0.793,103,60
+t1725,Crimson Embers,Neon Signals,latin,0.61,0.718,90,55
+t1726,Northern Harbor,Neon Signals,latin,0.81,0.805,113,57
+t1727,Northern Tides,Neon Signals,latin,0.71,0.643,102,56
+t1728,Dance in the Rain,Neon Signals,latin,0.589,0.508,109,54
+t1729,Golden Harbor,Neon Signals,latin,0.812,0.658,108,50
+t1730,Hold On Tonight,Neon Signals,latin,0.721,0.679,95,62
+t1731,Paper Thunder,Neon Signals,latin,0.501,0.68,110,67
+t1732,Quiet Echoes,Restless Shadows,latin,0.742,0.854,93,6
+t1733,Rise With Me,Restless Shadows,latin,0.663,0.778,97,12
+t1734,Wake Up Like Fire,Restless Shadows,latin,0.706,0.741,112,3
+t1735,Slow Down Together,Restless Shadows,latin,0.652,0.924,99,7
+t1736,Breathe Again,Restless Shadows,latin,0.669,0.774,105,12
+t1737,Neon Skyline,Restless Shadows,latin,0.623,0.748,104,6
+t1738,Static Satellites,Restless Shadows,latin,0.779,0.85,94,1
+t1739,Broken Letters,Velvet Engines,latin,0.887,0.777,98,3
+t1740,Shine Like Fire,Velvet Engines,latin,0.856,0.796,112,1
+t1741,Slow Down Back,Velvet Engines,latin,0.822,0.785,105,7
+t1742,Northern Mirrors,Velvet Engines,latin,0.804,0.685,91,7
+t1743,Come Home in the Rain,Velvet Engines,latin,0.839,0.786,110,18
+t1744,Breathe Away,Velvet Engines,latin,0.757,0.612,112,19
+t1745,Wait Tonight,Velvet Engines,latin,0.775,0.776,91,13
+t1746,Wild Signals,Velvet Engines,latin,0.822,0.764,110,12
+t1747,Slow Down Forever,Restless Satellites,latin,0.695,0.874,96,13
+t1748,Neon Tides,Restless Satellites,latin,0.726,0.835,111,1
+t1749,Run in Blue,Restless Satellites,latin,0.599,0.767,95,34
+t1750,Frozen Rivers,Restless Satellites,latin,0.645,0.784,100,2
+t1751,Rise in Blue,Restless Satellites,latin,0.738,0.895,101,21
+t1752,Lonely Shadows,Restless Satellites,latin,0.785,0.811,110,1
+t1753,Dance in the Rain,Restless Satellites,latin,0.733,0.839,113,1
+t1754,Fall Forever,Restless Satellites,latin,0.643,0.732,105,10
+t1755,Electric Engines,Frozen Skyline,latin,0.576,0.731,103,3
+t1756,Breathe Together,Frozen Skyline,latin,0.662,0.757,108,6
+t1757,Glow Again,Frozen Skyline,latin,0.597,0.717,103,18
+t1758,Let Go Slowly,Frozen Skyline,latin,0.507,0.811,109,3
+t1759,Come Home in the Rain,Frozen Skyline,latin,0.721,0.702,107,5
+t1760,Silver Horizon,Frozen Skyline,latin,0.482,0.993,100,6
+t1761,Shine Slowly,Frozen Skyline,latin,0.51,0.774,101,1
+t1762,Neon Satellites,Frozen Skyline,latin,0.663,0.842,101,17
+t1763,Faded Circuits,Frozen Skyline,latin,0.636,0.888,103,3
+t1764,Let Go Again,Frozen Skyline,latin,0.544,0.714,101,14
+t1765,Gentle Embers,Neon Tides,latin,0.754,0.722,106,9
+t1766,Wake Up in Blue,Neon Tides,latin,0.672,0.662,109,6
+t1767,Wander Again,Neon Tides,latin,0.852,0.731,115,1
+t1768,Neon Comets,Neon Tides,latin,0.71,0.719,104,12
+t1769,Velvet Embers,Neon Tides,latin,0.882,0.738,114,20
+t1770,Silver Shadows,Neon Tides,latin,0.817,0.579,99,23
+t1771,Gentle Echoes,Neon Tides,latin,0.705,0.581,91,5
+t1772,Neon Highway,Neon Tides,latin,0.733,0.545,100,20
+t1773,Rise Again,Neon Tides,latin,0.607,0.597,106,10
+t1774,Burning Circuits,Neon Tides,latin,0.683,0.545,100,8
+t1775,Glow Alone,Distant Harbor,latin,0.853,1,112,41
+t1776,Glass Comets,Distant Harbor,latin,0.837,0.876,115,37
+t1777,Wait Slowly,Distant Harbor,latin,1,0.961,104,42
+t1778,Breathe Like Fire,Distant Harbor,latin,0.798,0.96,109,21
+t1779,Drift at Dawn,Distant Harbor,latin,0.925,0.823,104,38
+t1780,Run Back,Distant Harbor,latin,0.746,0.841,94,34
+t1781,Lucky Embers,Distant Harbor,latin,0.868,1,112,44
+t1782,Frozen Embers,Distant Harbor,latin,0.915,0.983,109,48
+t1783,Crimson Orchard,Distant Harbor,latin,0.946,0.771,115,26
+t1784,Hollow Skyline,Distant Harbor,latin,0.874,0.977,111,16
+t1785,Broken Feathers,Golden Islands,latin,0.569,0.732,114,54
+t1786,Slow Down for You,Golden Islands,latin,0.652,0.77,91,52
+t1787,Lonely Satellites,Golden Islands,latin,0.627,0.769,111,46
+t1788,Drift Slowly,Golden Islands,latin,0.657,0.649,111,47
+t1789,Electric Highway,Golden Islands,latin,0.71,0.733,112,39
+t1790,Wander in Blue,Golden Islands,latin,0.62,0.911,100,48
+t1791,Sunday Highway,Golden Islands,latin,0.445,0.611,96,55
+t1792,Wait Alone,Golden Islands,latin,0.77,0.824,113,38
+t1793,Silver Shadows,Golden Islands,latin,0.619,0.598,95,43
+t1794,Burning Comets,Golden Islands,latin,0.673,0.794,113,48
+t1795,Remember Slowly,Golden Islands,latin,0.568,0.905,109,42
+t1796,Remember Away,Broken Islands,latin,0.826,0.985,100,32
+t1797,Remember Alone,Broken Islands,latin,0.877,1,97,45
+t1798,Glow Again,Broken Islands,latin,0.745,0.717,99,33
+t1799,Restless Garden,Broken Islands,latin,0.739,0.798,93,35
+t1800,Gentle Feathers,Broken Islands,latin,0.898,0.911,96,44
+t1801,Rise Tonight,Broken Islands,latin,0.626,0.775,110,41
+t1802,Drift Like Fire,Broken Islands,latin,0.918,0.854,103,25
+t1803,Remember Tonight,Broken Islands,latin,0.767,0.926,94,44
+t1804,Remember for You,Broken Islands,latin,0.726,0.947,99,33
+t1805,Burn Slowly,Broken Islands,latin,0.872,0.837,107,31
+t1806,Dance in Blue,Broken Islands,latin,0.767,0.997,105,22
+t1807,Velvet Skyline,Gentle Comets,latin,0.597,0.855,91,26
+t1808,Burning Meadow,Gentle Comets,latin,0.6,0.894,102,26
+t1809,Gentle Shadows,Gentle Comets,latin,0.752,0.807,109,27
+t1810,Broken Circuits,Gentle Comets,latin,0.809,0.644,111,31
+t1811,Glass Orchard,Gentle Comets,latin,0.566,0.994,114,31
+t1812,Frozen Letters,Gentle Comets,latin,0.738,1,98,28
+t1813,Burn in the Rain,Faded Highway,latin,0.563,0.97,111,46
+t1814,Golden Harbor,Faded Highway,latin,0.582,0.802,114,58
+t1815,Let Go Away,Faded Highway,latin,0.503,0.914,102,45
+t1816,Dance Again,Faded Highway,latin,0.555,0.881,101,55
+t1817,Rise Together,Faded Highway,latin,0.537,0.859,99,39
+t1818,Restless Rivers,Faded Highway,latin,0.56,0.786,115,46
+t1819,Breathe in the Rain,Hollow Comets,latin,0.6,0.787,110,5
+t1820,Lonely Daydreams,Hollow Comets,latin,0.625,0.922,93,1
+t1821,Crimson Lanterns,Hollow Comets,latin,0.532,0.754,109,9
+t1822,Rise Together,Hollow Comets,latin,0.695,0.785,91,1
+t1823,Hollow Engines,Hollow Comets,latin,0.816,0.887,107,10
+t1824,Dance Slowly,Hollow Comets,latin,0.726,0.912,104,9
+t1825,Static Thunder,Hollow Comets,latin,0.704,0.888,105,1
+t1826,Glow Forever,Hollow Comets,latin,0.531,0.644,99,1
+t1827,Frozen Echoes,Hollow Comets,latin,0.471,0.83,106,4
+t1828,Wake Up at Dawn,Hollow Comets,latin,0.686,0.71,113,16
+t1829,Lucky Orchard,Hollow Comets,latin,0.632,0.919,103,4
+t1830,Neon Highway,Hollow Comets,latin,0.638,0.692,101,11
+t1831,Run Alone,Golden Thunder,ambient,0.282,0.278,80,31
+t1832,Let Go at Dawn,Golden Thunder,ambient,0.198,0.395,79,49
+t1833,Faded Rivers,Golden Thunder,ambient,0.095,0.282,89,60
+t1834,Velvet Comets,Golden Thunder,ambient,0.128,0.371,80,41
+t1835,Slow Down Together,Golden Thunder,ambient,0.209,0.397,85,51
+t1836,Gentle Circuits,Golden Thunder,ambient,0.158,0.449,67,35
+t1837,Hold On in Blue,Golden Thunder,ambient,0.144,0.179,87,38
+t1838,Broken Lanterns,Golden Thunder,ambient,0.113,0.326,71,54
+t1839,Dance Tonight,Golden Thunder,ambient,0.125,0.478,78,42
+t1840,Remember With Me,Restless Orchard,ambient,0.017,0.359,65,48
+t1841,Lonely Harbor,Restless Orchard,ambient,0.061,0.597,68,42
+t1842,Wake Up Away,Restless Orchard,ambient,0.17,0.454,83,42
+t1843,Northern Echoes,Restless Orchard,ambient,0.132,0.381,76,50
+t1844,Burn Away,Restless Orchard,ambient,0.094,0.624,61,48
+t1845,Slow Down Away,Restless Orchard,ambient,0.124,0.605,66,47
+t1846,Sunday Garden,Restless Orchard,ambient,0.174,0.55,71,45
+t1847,Crimson Mirrors,Restless Orchard,ambient,0.16,0.671,88,39
+t1848,Golden Harbor,Velvet Lanterns,ambient,0.396,0.458,86,15
+t1849,Frozen Tides,Velvet Lanterns,ambient,0.446,0.512,85,20
+t1850,Sunday Embers,Velvet Lanterns,ambient,0.144,0.222,73,3
+t1851,Remember in Blue,Velvet Lanterns,ambient,0.201,0.444,61,5
+t1852,Static Engines,Velvet Lanterns,ambient,0.334,0.269,68,2
+t1853,Let Go Slowly,Velvet Lanterns,ambient,0.259,0.433,75,18
+t1854,Paper Garden,Velvet Lanterns,ambient,0.337,0.345,64,11
+t1855,Golden Tides,Velvet Lanterns,ambient,0.197,0.339,74,15
+t1856,Lucky Comets,Velvet Lanterns,ambient,0.057,0.372,67,8
+t1857,Run Away,Velvet Lanterns,ambient,0.264,0.268,85,7
+t1858,Quiet Letters,Velvet Lanterns,ambient,0.233,0.162,65,11
+t1859,Faded Orchard,Velvet Lanterns,ambient,0.152,0.36,86,1
+t1860,Wander With Me,Electric Daydreams,ambient,0.205,0.242,88,62
+t1861,Glow Slowly,Electric Daydreams,ambient,0.286,0.377,67,55
+t1862,Electric Mirrors,Electric Daydreams,ambient,0.225,0.402,64,53
+t1863,Frozen Orchard,Electric Daydreams,ambient,0.361,0.35,79,57
+t1864,Drift Tonight,Electric Daydreams,ambient,0.295,0.274,77,56
+t1865,Stay Like Fire,Electric Daydreams,ambient,0.219,0.599,69,58
+t1866,Drift With Me,Electric Daydreams,ambient,0.238,0.293,62,53
+t1867,Let Go Again,Electric Daydreams,ambient,0.338,0.289,63,57
+t1868,Lucky Comets,Neon Feathers,ambient,0.016,0.499,85,24
+t1869,Hold On Slowly,Neon Feathers,ambient,0.041,0.367,65,18
+t1870,Rise Together,Neon Feathers,ambient,0.084,0.48,66,21
+t1871,Slow Down in the Rain,Neon Feathers,ambient,0.034,0.232,80,22
+t1872,Velvet Harbor,Neon Feathers,ambient,0.211,0.491,61,30
+t1873,Wild Tides,Neon Feathers,ambient,0.256,0.522,70,14
+t1874,Stay Again,Neon Feathers,ambient,0.015,0.431,63,14
+t1875,Come Home in Blue,Velvet Embers,ambient,0.177,0.153,80,13
+t1876,Shine Away,Velvet Embers,ambient,0.188,0.179,79,24
+t1877,Wander Alone,Velvet Embers,ambient,0.112,0.2,72,18
+t1878,Silver Tides,Velvet Embers,ambient,0.213,0.157,77,23
+t1879,Hold On Slowly,Velvet Embers,ambient,0.185,0.214,85,17
+t1880,Restless Horizon,Velvet Embers,ambient,0.298,0.249,74,20
+t1881,Neon Meadow,Velvet Embers,ambient,0.225,0.16,82,21
+t1882,Northern Embers,Faded Meadow,ambient,0.263,0.375,64,1
+t1883,Run Again,Faded Meadow,ambient,0.232,0.605,88,1
+t1884,Hold On Slowly,Faded Meadow,ambient,0.138,0.479,65,5
+t1885,Neon Shadows,Faded Meadow,ambient,0.237,0.359,80,7
+t1886,Wait Away,Faded Meadow,ambient,0.279,0.621,63,10
+t1887,Wait for You,Faded Meadow,ambient,0.259,0.541,77,1
+t1888,Let Go Like Fire,Faded Meadow,ambient,0.175,0.47,81,12
+t1889,Static Signals,Faded Meadow,ambient,0.205,0.574,62,12
+t1890,Sunday Engines,Faded Meadow,ambient,0.183,0.522,70,13
+t1891,Stay Away,Wild Rivers,ambient,0.249,0.288,84,12
+t1892,Rise Tonight,Wild Rivers,ambient,0.235,0.357,66,5
+t1893,Sunday Mirrors,Wild Rivers,ambient,0.178,0.184,89,1
+t1894,Glass Skyline,Wild Rivers,ambient,0.177,0.22,68,20
+t1895,Neon Tides,Wild Rivers,ambient,0.275,0.106,87,1
+t1896,Wait Away,Wild Rivers,ambient,0.181,0.243,82,1
+t1897,Northern Tides,Wild Rivers,ambient,0.186,0.336,81,12
+t1898,Stay Slowly,Wild Rivers,ambient,0.192,0.408,70,1
+t1899,Neon Embers,Wild Rivers,ambient,0.135,0.332,81,7
+t1900,Stay Together,Wild Rivers,ambient,0.149,0.324,75,1
+t1901,Rise With Me,Lonely Orchard,ambient,0.257,0.312,85,30
+t1902,Fall in Blue,Lonely Orchard,ambient,0.236,0.244,88,34
+t1903,Drift Together,Lonely Orchard,ambient,0.176,0.213,84,10
+t1904,Paper Echoes,Lonely Orchard,ambient,0.151,0.266,63,34
+t1905,Velvet Tides,Lonely Orchard,ambient,0.149,0.46,78,17
+t1906,Wake Up at Dawn,Lonely Orchard,ambient,0.172,0.322,77,31
+t1907,Lonely Embers,Lonely Orchard,ambient,0.238,0.552,86,28
+t1908,Lucky Signals,Quiet Mirrors,ambient,0,0.405,62,27
+t1909,Drift for You,Quiet Mirrors,ambient,0.087,0.361,79,37
+t1910,Sunday Daydreams,Quiet Mirrors,ambient,0.111,0.517,62,41
+t1911,Quiet Orchard,Quiet Mirrors,ambient,0.018,0.43,82,24
+t1912,Slow Down Back,Quiet Mirrors,ambient,0.126,0.454,89,52
+t1913,Burn Tonight,Quiet Mirrors,ambient,0.193,0.517,67,39
+t1914,Wild Harbor,Quiet Mirrors,ambient,0.112,0.397,66,37
+t1915,Electric Islands,Quiet Mirrors,ambient,0,0.561,62,17
+t1916,Dance Again,Quiet Mirrors,ambient,0.077,0.421,79,28
+t1917,Lucky Shadows,Quiet Mirrors,ambient,0.196,0.471,81,54
+t1918,Gentle Shadows,Quiet Mirrors,ambient,0.159,0.355,70,22
+t1919,Glow for You,Crimson Skyline,ambient,0.266,0.653,73,14
+t1920,Let Go for You,Crimson Skyline,ambient,0.066,0.585,76,15
+t1921,Fall Like Fire,Crimson Skyline,ambient,0.29,0.548,88,19
+t1922,Wander in Blue,Crimson Skyline,ambient,0.2,0.602,63,15
+t1923,Distant Highway,Crimson Skyline,ambient,0.179,0.469,71,7
+t1924,Broken Satellites,Crimson Skyline,ambient,0.238,0.608,72,13
+t1925,Let Go Back,Crimson Skyline,ambient,0.241,0.813,63,25
+t1926,Golden Circuits,Northern Echoes,ambient,0.308,0.447,69,14
+t1927,Glow Away,Northern Echoes,ambient,0.172,0.676,68,24
+t1928,Wild Thunder,Northern Echoes,ambient,0.187,0.51,84,21
+t1929,Come Home Tonight,Northern Echoes,ambient,0.358,0.588,85,32
+t1930,Golden Mirrors,Northern Echoes,ambient,0.187,0.417,89,19
+t1931,Burning Orchard,Northern Echoes,ambient,0.365,0.522,79,25
+t1932,Electric Thunder,Northern Echoes,ambient,0.37,0.524,73,33
+t1933,Glow in the Rain,Northern Echoes,ambient,0.225,0.391,76,16
+t1934,Electric Tides,Lucky Tides,ambient,0,0.474,65,1
+t1935,Wait at Dawn,Lucky Tides,ambient,0.176,0.497,65,6
+t1936,Electric Embers,Lucky Tides,ambient,0.006,0.297,76,16
+t1937,Broken Orchard,Lucky Tides,ambient,0,0.527,86,7
+t1938,Wake Up Together,Lucky Tides,ambient,0.102,0.475,89,10
+t1939,Quiet Harbor,Lucky Tides,ambient,0,0.441,87,16
+t1940,Breathe Away,Lucky Tides,ambient,0.001,0.355,87,4
+t1941,Restless Comets,Lucky Tides,ambient,0,0.475,70,1
+t1942,Wake Up Like Fire,Lucky Tides,ambient,0.043,0.473,80,1
+t1943,Fall Back,Lucky Tides,ambient,0.062,0.465,82,1
+t1944,Remember Tonight,Lucky Tides,ambient,0,0.432,85,6
+t1945,Dance Again,Lucky Tides,ambient,0.034,0.399,87,1
+t1946,Crimson Comets,Wild Thunder,ambient,0.08,0.268,82,20
+t1947,Lucky Circuits,Wild Thunder,ambient,0.062,0.038,61,21
+t1948,Velvet Meadow,Wild Thunder,ambient,0.059,0.288,86,18
+t1949,Slow Down Like Fire,Wild Thunder,ambient,0,0.234,78,18
+t1950,Hollow Engines,Wild Thunder,ambient,0.018,0.058,73,26
+t1951,Crimson Rivers,Wild Thunder,ambient,0.018,0.181,66,5
+t1952,Dance With Me,Wild Thunder,ambient,0.063,0.163,70,24
+t1953,Northern Mirrors,Wild Thunder,ambient,0.065,0,82,25
+t1954,Let Go With Me,Wild Thunder,ambient,0.112,0.242,70,12
+t1955,Restless Embers,Neon Orchard,ambient,0,0.404,83,85
+t1956,Run Like Fire,Neon Orchard,ambient,0.163,0.284,84,92
+t1957,Broken Highway,Neon Orchard,ambient,0.014,0.397,75,96
+t1958,Slow Down at Dawn,Neon Orchard,ambient,0,0.292,86,76
+t1959,Sunday Echoes,Neon Orchard,ambient,0.235,0.294,78,93
+t1960,Restless Meadow,Neon Orchard,ambient,0.045,0.271,86,88
+t1961,Lucky Echoes,Neon Orchard,ambient,0.192,0.256,61,88
+t1962,Stay in the Rain,Neon Orchard,ambient,0.199,0.429,78,72
+t1963,Static Letters,Neon Orchard,ambient,0.154,0.299,89,71
+t1964,Wait Again,Neon Orchard,ambient,0,0.194,65,80
+t1965,Wild Satellites,Neon Orchard,ambient,0.189,0.452,87,84
+t1966,Lucky Signals,Glass Skyline,ambient,0.243,0.165,61,1
+t1967,Wander With Me,Glass Skyline,ambient,0.033,0.355,84,1
+t1968,Gentle Comets,Glass Skyline,ambient,0.244,0.235,63,11
+t1969,Velvet Comets,Glass Skyline,ambient,0.329,0.334,84,10
+t1970,Drift at Dawn,Glass Skyline,ambient,0.317,0.255,82,4
+t1971,Neon Thunder,Glass Skyline,ambient,0.168,0.404,69,1
+t1972,Glass Meadow,Glass Skyline,ambient,0.322,0.186,87,11
+t1973,Velvet Meadow,Glass Skyline,ambient,0.282,0.448,66,4
+t1974,Remember for You,Glass Skyline,ambient,0.263,0.294,64,21
+t1975,Wake Up Together,Glass Skyline,ambient,0.249,0.469,84,1
+t1976,Midnight Signals,Wild Garden,ambient,0.165,0.62,88,43
+t1977,Crimson Skyline,Wild Garden,ambient,0.101,0.333,76,44
+t1978,Northern Islands,Wild Garden,ambient,0.206,0.35,63,14
+t1979,Wait Again,Wild Garden,ambient,0.24,0.362,75,31
+t1980,Fall Tonight,Wild Garden,ambient,0.217,0.541,85,40
+t1981,Wander Slowly,Wild Garden,ambient,0.279,0.537,75,42
+t1982,Velvet Islands,Wild Garden,ambient,0.214,0.386,66,20
+t1983,Wander Together,Wild Garden,ambient,0.342,0.538,88,27
+t1984,Breathe Again,Wild Garden,ambient,0.29,0.386,73,35
+t1985,Sunday Tides,Wild Garden,ambient,0.188,0.299,73,33
+t1986,Crimson Rivers,Wild Garden,ambient,0.23,0.441,71,15
+t1987,Fall for You,Frozen Engines,ambient,0.033,0.356,71,26
+t1988,Silver Tides,Frozen Engines,ambient,0,0.274,62,18
+t1989,Crimson Satellites,Frozen Engines,ambient,0.053,0.346,67,28
+t1990,Wake Up Again,Frozen Engines,ambient,0,0.397,75,37
+t1991,Quiet Horizon,Frozen Engines,ambient,0,0.378,62,47
+t1992,Burning Shadows,Frozen Engines,ambient,0.073,0.271,66,37
+t1993,Sunday Lanterns,Frozen Engines,ambient,0.056,0.217,83,24
+t1994,Quiet Rivers,Frozen Engines,ambient,0.01,0.298,67,45
+t1995,Silver Feathers,Frozen Engines,ambient,0.024,0.326,86,32
