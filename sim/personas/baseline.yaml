@@ -1,0 +1,24 @@
+# Default listener mix for the ad-frequency experiment.
+# Values were chosen before any run and are not tuned to produce a result.
+personas:
+  - name: fan               # loves music, will pay to get rid of ads
+    share: 20
+    willingness_to_pay: 0.6
+    ad_tolerance: 0.5
+    patience: 3.0
+    base_save: 0.35
+    base_skip: 0.30
+  - name: casual            # listens now and then, might pay, mildly ad-averse
+    share: 50
+    willingness_to_pay: 0.2
+    ad_tolerance: 0.4
+    patience: 2.0
+    base_save: 0.25
+    base_skip: 0.40
+  - name: budget            # won't pay, puts up with ads up to a point
+    share: 30
+    willingness_to_pay: 0.05
+    ad_tolerance: 0.7
+    patience: 2.5
+    base_save: 0.20
+    base_skip: 0.40

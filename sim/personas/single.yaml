@@ -1,0 +1,9 @@
+# One "average" listener type. Handy for quick checks; not used for the reported results.
+personas:
+  - name: average
+    share: 100
+    willingness_to_pay: 0.25
+    ad_tolerance: 0.5
+    patience: 2.5
+    base_save: 0.25
+    base_skip: 0.40

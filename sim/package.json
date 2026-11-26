@@ -1,0 +1,11 @@
+{
+  "name": "@mixlab/sim",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@flagsmith/nodejs": "^9.5.0",
+    "yaml": "^2.9.1"
+  }
+}
