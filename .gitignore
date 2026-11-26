@@ -8,3 +8,4 @@ dist/
 apps/player/public/catalog.csv
 next-env.d.ts
 *.tsbuildinfo
+docs/demo-video-script.md
