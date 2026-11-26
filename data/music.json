@@ -1,0 +1,487 @@
+{
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "changes": "Cut to a 30-second excerpt with short fades, mono 96 kbps.",
+  "tracks": [
+    {
+      "id": "newer-wave",
+      "title": "Newer Wave",
+      "artist": "Kevin MacLeod",
+      "genre": "pop",
+      "bpm": 110,
+      "length": "00:02:55",
+      "isrc": "USUAN2000024",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Newer%20Wave.mp3"
+    },
+    {
+      "id": "rhinoceros",
+      "title": "Rhinoceros",
+      "artist": "Kevin MacLeod",
+      "genre": "pop",
+      "bpm": 126,
+      "length": "00:03:24",
+      "isrc": "USUAN1500040",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rhinoceros.mp3"
+    },
+    {
+      "id": "shiny-tech",
+      "title": "Shiny Tech",
+      "artist": "Kevin MacLeod",
+      "genre": "pop",
+      "bpm": 138,
+      "length": "00:03:43",
+      "isrc": "USUAN1100078",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shiny%20Tech.mp3"
+    },
+    {
+      "id": "what-is-love",
+      "title": "What Is Love",
+      "artist": "Kevin MacLeod",
+      "genre": "pop",
+      "bpm": 58,
+      "length": "00:03:28",
+      "isrc": "USUAN1500067",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/What%20Is%20Love.mp3"
+    },
+    {
+      "id": "twisted",
+      "title": "Twisted",
+      "artist": "Kevin MacLeod",
+      "genre": "rock",
+      "bpm": 118,
+      "length": "00:03:07",
+      "isrc": "USUAN1400046",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Twisted.mp3"
+    },
+    {
+      "id": "exhilarate",
+      "title": "Exhilarate",
+      "artist": "Kevin MacLeod",
+      "genre": "rock",
+      "bpm": 170,
+      "length": "00:02:25",
+      "isrc": "USUAN1300028",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Exhilarate.mp3"
+    },
+    {
+      "id": "happy-bee-surf",
+      "title": "Happy Bee - Surf",
+      "artist": "Kevin MacLeod",
+      "genre": "rock",
+      "bpm": 122,
+      "length": "00:05:09",
+      "isrc": "USUAN1300015",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Happy%20Bee%20-%20Surf.mp3"
+    },
+    {
+      "id": "noise-attack",
+      "title": "Noise Attack",
+      "artist": "Kevin MacLeod",
+      "genre": "rock",
+      "bpm": 65,
+      "length": "00:02:35",
+      "isrc": "USUAN1100629",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Noise%20Attack.mp3"
+    },
+    {
+      "id": "lewis-and-dekalb",
+      "title": "Lewis and Dekalb",
+      "artist": "Kevin MacLeod",
+      "genre": "hip-hop",
+      "bpm": 72,
+      "length": "00:03:17",
+      "isrc": "USUAN1600027",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lewis%20and%20Dekalb.mp3"
+    },
+    {
+      "id": "vicious",
+      "title": "Vicious",
+      "artist": "Kevin MacLeod",
+      "genre": "hip-hop",
+      "bpm": 80,
+      "length": "00:03:45",
+      "isrc": "USUAN1600026",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Vicious.mp3"
+    },
+    {
+      "id": "griphop",
+      "title": "Griphop",
+      "artist": "Kevin MacLeod",
+      "genre": "hip-hop",
+      "bpm": 90,
+      "length": "00:03:27",
+      "isrc": "USUAN1100413",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Griphop.mp3"
+    },
+    {
+      "id": "basic-implosion",
+      "title": "Basic Implosion",
+      "artist": "Kevin MacLeod",
+      "genre": "hip-hop",
+      "bpm": 95,
+      "length": "00:03:10",
+      "isrc": "USUAN1600032",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Basic%20Implosion.mp3"
+    },
+    {
+      "id": "cloud-dancer",
+      "title": "Cloud Dancer",
+      "artist": "Kevin MacLeod",
+      "genre": "electronic",
+      "bpm": 214,
+      "length": "00:03:40",
+      "isrc": "USUAN2300007",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cloud%20Dancer.mp3"
+    },
+    {
+      "id": "brain-dance",
+      "title": "Brain Dance",
+      "artist": "Kevin MacLeod",
+      "genre": "electronic",
+      "bpm": 124,
+      "length": "00:03:35",
+      "isrc": "USUAN2300006",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Brain%20Dance.mp3"
+    },
+    {
+      "id": "voxel-revolution",
+      "title": "Voxel Revolution",
+      "artist": "Kevin MacLeod",
+      "genre": "electronic",
+      "bpm": 122,
+      "length": "00:02:10",
+      "isrc": "USUAN2000025",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Voxel%20Revolution.mp3"
+    },
+    {
+      "id": "ethernight-club",
+      "title": "Ethernight Club",
+      "artist": "Kevin MacLeod",
+      "genre": "electronic",
+      "bpm": 117,
+      "length": "00:05:06",
+      "isrc": "USUAN2100002",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ethernight%20Club.mp3"
+    },
+    {
+      "id": "funky-chunk",
+      "title": "Funky Chunk",
+      "artist": "Kevin MacLeod",
+      "genre": "r&b",
+      "bpm": 115,
+      "length": "00:03:59",
+      "isrc": "USUAN1500054",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Funky%20Chunk.mp3"
+    },
+    {
+      "id": "your-call",
+      "title": "Your Call",
+      "artist": "Kevin MacLeod",
+      "genre": "r&b",
+      "bpm": 120,
+      "length": "00:03:44",
+      "isrc": "USUAN1500010",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Your%20Call.mp3"
+    },
+    {
+      "id": "clean-soul",
+      "title": "Clean Soul",
+      "artist": "Kevin MacLeod",
+      "genre": "r&b",
+      "bpm": null,
+      "length": "00:05:07",
+      "isrc": "USUAN1300033",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Clean%20Soul.mp3"
+    },
+    {
+      "id": "slow-jam",
+      "title": "Slow Jam",
+      "artist": "Kevin MacLeod",
+      "genre": "r&b",
+      "bpm": 75,
+      "length": "00:04:26",
+      "isrc": "USUAN1600015",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Slow%20Jam.mp3"
+    },
+    {
+      "id": "i-feel-you",
+      "title": "I Feel You",
+      "artist": "Kevin MacLeod",
+      "genre": "indie",
+      "bpm": 120,
+      "length": "00:03:08",
+      "isrc": "USUAN1100841",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/I%20Feel%20You.mp3"
+    },
+    {
+      "id": "chillin-hard",
+      "title": "Chillin Hard",
+      "artist": "Kevin MacLeod",
+      "genre": "indie",
+      "bpm": 80,
+      "length": "00:03:54",
+      "isrc": "USUAN1600028",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chillin%20Hard.mp3"
+    },
+    {
+      "id": "late-night-radio",
+      "title": "Late Night Radio",
+      "artist": "Kevin MacLeod",
+      "genre": "indie",
+      "bpm": 72,
+      "length": "00:04:24",
+      "isrc": "USUAN2100003",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3"
+    },
+    {
+      "id": "ether-vox",
+      "title": "Ether Vox",
+      "artist": "Kevin MacLeod",
+      "genre": "indie",
+      "bpm": 60,
+      "length": "00:03:26",
+      "isrc": "USUAN2000022",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ether%20Vox.mp3"
+    },
+    {
+      "id": "galway",
+      "title": "Galway",
+      "artist": "Kevin MacLeod",
+      "genre": "folk",
+      "bpm": 110,
+      "length": "00:03:40",
+      "isrc": "USUAN1700016",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Galway.mp3"
+    },
+    {
+      "id": "fireflies-and-stardust",
+      "title": "Fireflies and Stardust",
+      "artist": "Kevin MacLeod",
+      "genre": "folk",
+      "bpm": 170,
+      "length": "00:04:15",
+      "isrc": "USUAN1600061",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fireflies%20and%20Stardust.mp3"
+    },
+    {
+      "id": "kings-of-tara",
+      "title": "Kings of Tara",
+      "artist": "Kevin MacLeod",
+      "genre": "folk",
+      "bpm": 94,
+      "length": "00:03:42",
+      "isrc": "USUAN1500071",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kings%20of%20Tara.mp3"
+    },
+    {
+      "id": "river-valley-breakdown",
+      "title": "River Valley Breakdown",
+      "artist": "Kevin MacLeod",
+      "genre": "folk",
+      "bpm": 130,
+      "length": "00:06:06",
+      "isrc": "USUAN1300032",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/River%20Valley%20Breakdown.mp3"
+    },
+    {
+      "id": "night-in-venice",
+      "title": "Night in Venice",
+      "artist": "Kevin MacLeod",
+      "genre": "jazz",
+      "bpm": 114,
+      "length": "00:03:38",
+      "isrc": "USUAN1900056",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20in%20Venice.mp3"
+    },
+    {
+      "id": "jazz-brunch",
+      "title": "Jazz Brunch",
+      "artist": "Kevin MacLeod",
+      "genre": "jazz",
+      "bpm": 100,
+      "length": "00:05:23",
+      "isrc": "USUAN1700074",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jazz%20Brunch.mp3"
+    },
+    {
+      "id": "apero-hour",
+      "title": "Apero Hour",
+      "artist": "Kevin MacLeod",
+      "genre": "jazz",
+      "bpm": 140,
+      "length": "00:04:43",
+      "isrc": "USUAN1700070",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Apero%20Hour.mp3"
+    },
+    {
+      "id": "spy-glass",
+      "title": "Spy Glass",
+      "artist": "Kevin MacLeod",
+      "genre": "jazz",
+      "bpm": 110,
+      "length": "00:03:47",
+      "isrc": "USUAN1500058",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Glass.mp3"
+    },
+    {
+      "id": "hall-of-the-mountain-king",
+      "title": "Hall of the Mountain King",
+      "artist": "Kevin MacLeod",
+      "genre": "classical",
+      "bpm": 160,
+      "length": "00:02:33",
+      "isrc": "USUAN1200072",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hall%20of%20the%20Mountain%20King.mp3"
+    },
+    {
+      "id": "string-impromptu-number-1",
+      "title": "String Impromptu Number 1",
+      "artist": "Kevin MacLeod",
+      "genre": "classical",
+      "bpm": null,
+      "length": "00:06:14",
+      "isrc": "USUAN1300004",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/String%20Impromptu%20Number%201.mp3"
+    },
+    {
+      "id": "morning",
+      "title": "Morning",
+      "artist": "Kevin MacLeod",
+      "genre": "classical",
+      "bpm": 60,
+      "length": "00:02:33",
+      "isrc": "USUAN2300003",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Morning.mp3"
+    },
+    {
+      "id": "egmont-overture-finale",
+      "title": "Egmont Overture Finale",
+      "artist": "Kevin MacLeod",
+      "genre": "classical",
+      "bpm": 150,
+      "length": "00:01:44",
+      "isrc": "USUAN1200070",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Egmont%20Overture%20Finale.mp3"
+    },
+    {
+      "id": "metalmania",
+      "title": "Metalmania",
+      "artist": "Kevin MacLeod",
+      "genre": "metal",
+      "bpm": 150,
+      "length": "00:03:10",
+      "isrc": "USUAN1700023",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Metalmania.mp3"
+    },
+    {
+      "id": "feral-angel-waltz",
+      "title": "Feral Angel Waltz",
+      "artist": "Kevin MacLeod",
+      "genre": "metal",
+      "bpm": 177,
+      "length": "00:05:32",
+      "isrc": "USUAN2100010",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Feral%20Angel%20Waltz%20.mp3"
+    },
+    {
+      "id": "burn-the-world-waltz",
+      "title": "Burn The World Waltz",
+      "artist": "Kevin MacLeod",
+      "genre": "metal",
+      "bpm": 177,
+      "length": "00:03:20",
+      "isrc": "USUAN2100009",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Burn%20The%20World%20Waltz.mp3"
+    },
+    {
+      "id": "waltz-primordial",
+      "title": "Waltz Primordial",
+      "artist": "Kevin MacLeod",
+      "genre": "metal",
+      "bpm": 107,
+      "length": "00:04:40",
+      "isrc": "USUAN2100008",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Waltz%20Primordial%20.mp3"
+    },
+    {
+      "id": "bossa-antigua",
+      "title": "Bossa Antigua",
+      "artist": "Kevin MacLeod",
+      "genre": "latin",
+      "bpm": 70,
+      "length": "00:04:43",
+      "isrc": "USUAN1700069",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3"
+    },
+    {
+      "id": "bossabossa",
+      "title": "BossaBossa",
+      "artist": "Kevin MacLeod",
+      "genre": "latin",
+      "bpm": 77,
+      "length": "00:02:47",
+      "isrc": "USUAN1600055",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/BossaBossa.mp3"
+    },
+    {
+      "id": "no-frills-cumbia",
+      "title": "No Frills Cumbia",
+      "artist": "Kevin MacLeod",
+      "genre": "latin",
+      "bpm": 96,
+      "length": "00:03:27",
+      "isrc": "USUAN1100892",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/CumbiaNoFrillsFaster.mp3"
+    },
+    {
+      "id": "carnivale-intrigue",
+      "title": "Carnivale Intrigue",
+      "artist": "Kevin MacLeod",
+      "genre": "latin",
+      "bpm": 95,
+      "length": "00:03:20",
+      "isrc": "USUAN1500028",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carnivale%20Intrigue.mp3"
+    },
+    {
+      "id": "immersed",
+      "title": "Immersed",
+      "artist": "Kevin MacLeod",
+      "genre": "ambient",
+      "bpm": 64,
+      "length": "00:04:09",
+      "isrc": "USUAN1600010",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Immersed.mp3"
+    },
+    {
+      "id": "thunderbird",
+      "title": "Thunderbird",
+      "artist": "Kevin MacLeod",
+      "genre": "ambient",
+      "bpm": null,
+      "length": "00:06:02",
+      "isrc": "USUAN1600017",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Thunderbird.mp3"
+    },
+    {
+      "id": "drums-of-the-deep",
+      "title": "Drums of the Deep",
+      "artist": "Kevin MacLeod",
+      "genre": "ambient",
+      "bpm": 77,
+      "length": "00:02:54",
+      "isrc": "USUAN1400021",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Drums%20of%20the%20Deep.mp3"
+    },
+    {
+      "id": "ossuary-1-a-beginning",
+      "title": "Ossuary 1 - A Beginning",
+      "artist": "Kevin MacLeod",
+      "genre": "ambient",
+      "bpm": 54,
+      "length": "00:03:08",
+      "isrc": "USUAN1500043",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%201%20-%20A%20Beginning.mp3"
+    }
+  ]
+}

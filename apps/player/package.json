@@ -1,0 +1,25 @@
+{
+  "name": "@mixlab/player",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "copy-catalog": "node -e \"require('fs').copyFileSync('../../data/catalog.csv', 'public/catalog.csv')\"",
+    "predev": "npm run copy-catalog",
+    "prebuild": "npm run copy-catalog",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0"
+  },
+  "dependencies": {
+    "@flagsmith/flagsmith": "^12.6.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "@mixlab/blend": "0.1.0"
+  }
+}
